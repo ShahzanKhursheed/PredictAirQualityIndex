@@ -1,0 +1,28 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-12-02,Barrackpore,1.0,Poor,224,PM2.5
+2023-12-03,Barrackpore,1.0,Very Poor,320,PM2.5
+2023-12-05,Barrackpore,1.0,Poor,210,PM2.5
+2023-12-07,Barrackpore,1.0,Satisfactory,94,PM2.5
+2023-12-08,Barrackpore,1.0,Good,32,PM2.5
+2023-12-09,Barrackpore,1.0,Moderate,105,PM2.5
+2023-12-10,Barrackpore,1.0,Moderate,173,PM2.5
+2023-12-11,Barrackpore,1.0,Poor,225,PM2.5
+2023-12-12,Barrackpore,1.0,Poor,249,PM2.5
+2023-12-13,Barrackpore,1.0,Poor,218,PM2.5
+2023-12-14,Barrackpore,1.0,Poor,276,PM2.5
+2023-12-15,Barrackpore,1.0,Very Poor,301,PM2.5
+2023-12-16,Barrackpore,1.0,Poor,293,PM2.5
+2023-12-17,Barrackpore,1.0,Poor,277,PM2.5
+2023-12-18,Barrackpore,1.0,Poor,288,PM2.5
+2023-12-19,Barrackpore,1.0,Poor,268,PM2.5
+2023-12-20,Barrackpore,1.0,Poor,258,PM2.5
+2023-12-21,Barrackpore,1.0,Moderate,141,PM10
+2023-12-22,Barrackpore,1.0,Poor,243,PM2.5
+2023-12-24,Barrackpore,1.0,Moderate,198,PM2.5
+2023-12-25,Barrackpore,1.0,Poor,212,PM2.5
+2023-12-26,Barrackpore,1.0,Poor,230,PM2.5
+2023-12-27,Barrackpore,1.0,Poor,203,PM2.5
+2023-12-28,Barrackpore,1.0,Moderate,183,PM2.5
+2023-12-29,Barrackpore,1.0,Poor,205,PM2.5
+2023-12-30,Barrackpore,1.0,Moderate,194,PM2.5
+2023-12-31,Barrackpore,1.0,Moderate,190,PM2.5

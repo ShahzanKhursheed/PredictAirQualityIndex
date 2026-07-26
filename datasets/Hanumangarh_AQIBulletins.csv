@@ -1,0 +1,282 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-03-13,Hanumangarh,1.0,Moderate,165,PM10
+2023-03-16,Hanumangarh,1.0,Poor,219,PM10
+2023-03-17,Hanumangarh,1.0,Moderate,193,PM10
+2023-03-18,Hanumangarh,1.0,Satisfactory,87,PM10
+2023-03-19,Hanumangarh,1.0,Moderate,102,PM10
+2023-03-20,Hanumangarh,1.0,Moderate,148,PM10
+2023-03-21,Hanumangarh,1.0,Satisfactory,74,PM10
+2023-03-22,Hanumangarh,1.0,Moderate,120,PM10
+2023-03-23,Hanumangarh,1.0,Moderate,120,PM10
+2023-03-24,Hanumangarh,1.0,Satisfactory,92,PM10
+2023-03-26,Hanumangarh,1.0,Moderate,180,PM2.5
+2023-03-27,Hanumangarh,1.0,Moderate,196,PM2.5
+2023-03-28,Hanumangarh,1.0,Moderate,132,PM2.5
+2023-03-29,Hanumangarh,1.0,Moderate,137,PM2.5
+2023-03-30,Hanumangarh,1.0,Satisfactory,91,PM10
+2023-03-31,Hanumangarh,1.0,Satisfactory,86,PM2.5
+2023-04-01,Hanumangarh,1.0,Satisfactory,88,PM2.5
+2023-04-02,Hanumangarh,1.0,Satisfactory,100,PM2.5
+2023-04-03,Hanumangarh,1.0,Satisfactory,94,PM10
+2023-04-04,Hanumangarh,1.0,Satisfactory,68,PM10
+2023-04-05,Hanumangarh,1.0,Moderate,103,PM10
+2023-04-06,Hanumangarh,1.0,Satisfactory,71,PM10
+2023-04-07,Hanumangarh,1.0,Moderate,115,PM10
+2023-04-08,Hanumangarh,1.0,Moderate,184,PM10
+2023-04-09,Hanumangarh,1.0,Moderate,126,PM10
+2023-04-10,Hanumangarh,1.0,Moderate,120,PM10
+2023-04-11,Hanumangarh,1.0,Moderate,134,PM10
+2023-04-12,Hanumangarh,1.0,Moderate,151,PM10
+2023-04-13,Hanumangarh,1.0,Poor,208,PM10
+2023-04-14,Hanumangarh,1.0,Moderate,147,PM2.5
+2023-04-15,Hanumangarh,1.0,Poor,257,PM10
+2023-04-16,Hanumangarh,1.0,Moderate,187,PM10
+2023-04-17,Hanumangarh,1.0,Moderate,112,PM2.5
+2023-04-18,Hanumangarh,1.0,Poor,207,PM10
+2023-04-19,Hanumangarh,1.0,Moderate,111,PM10
+2023-04-20,Hanumangarh,1.0,Moderate,124,PM2.5
+2023-04-21,Hanumangarh,1.0,Moderate,117,PM10
+2023-04-22,Hanumangarh,1.0,Moderate,142,PM10
+2023-04-23,Hanumangarh,1.0,Moderate,119,PM10
+2023-04-24,Hanumangarh,1.0,Moderate,163,PM10
+2023-04-25,Hanumangarh,1.0,Moderate,148,PM10
+2023-04-26,Hanumangarh,1.0,Moderate,175,PM10
+2023-04-27,Hanumangarh,1.0,Moderate,181,PM10
+2023-04-28,Hanumangarh,1.0,Moderate,149,PM10
+2023-04-29,Hanumangarh,1.0,Moderate,129,PM10
+2023-04-30,Hanumangarh,1.0,Moderate,137,PM10
+2023-05-01,Hanumangarh,1.0,Moderate,192,PM2.5
+2023-05-05,Hanumangarh,1.0,Moderate,147,PM10
+2023-05-06,Hanumangarh,1.0,Moderate,117,PM10
+2023-05-07,Hanumangarh,1.0,Poor,225,PM10
+2023-05-08,Hanumangarh,1.0,Poor,206,PM10
+2023-05-09,Hanumangarh,1.0,Moderate,161,PM10
+2023-05-10,Hanumangarh,1.0,Moderate,163,PM10
+2023-05-12,Hanumangarh,1.0,Poor,209,PM2.5
+2023-05-13,Hanumangarh,1.0,Poor,235,PM10
+2023-05-14,Hanumangarh,1.0,Poor,283,PM10
+2023-05-15,Hanumangarh,1.0,Poor,204,PM10
+2023-05-16,Hanumangarh,1.0,Very Poor,303,PM10
+2023-05-17,Hanumangarh,1.0,Poor,201,PM10
+2023-05-20,Hanumangarh,1.0,Moderate,190,PM10
+2023-05-21,Hanumangarh,1.0,Poor,202,PM10
+2023-05-22,Hanumangarh,1.0,Poor,214,PM10
+2023-05-23,Hanumangarh,1.0,Poor,255,PM10
+2023-05-24,Hanumangarh,1.0,Poor,211,PM10
+2023-05-25,Hanumangarh,1.0,Moderate,108,PM10
+2023-05-26,Hanumangarh,1.0,Moderate,108,PM10
+2023-05-27,Hanumangarh,1.0,Satisfactory,70,PM10
+2023-05-28,Hanumangarh,1.0,Moderate,122,PM10
+2023-05-29,Hanumangarh,1.0,Moderate,137,PM10
+2023-05-30,Hanumangarh,1.0,Satisfactory,85,PM10
+2023-05-31,Hanumangarh,1.0,Satisfactory,66,PM10
+2023-06-01,Hanumangarh,1.0,Satisfactory,78,PM10
+2023-06-02,Hanumangarh,1.0,Satisfactory,86,PM10
+2023-06-03,Hanumangarh,1.0,Satisfactory,98,PM10
+2023-06-04,Hanumangarh,1.0,Satisfactory,90,PM10
+2023-06-05,Hanumangarh,1.0,Satisfactory,83,PM10
+2023-06-06,Hanumangarh,1.0,Moderate,127,PM10
+2023-06-07,Hanumangarh,1.0,Moderate,131,PM10
+2023-06-08,Hanumangarh,1.0,Moderate,107,PM10
+2023-06-09,Hanumangarh,1.0,Moderate,153,PM10
+2023-06-10,Hanumangarh,1.0,Moderate,171,PM10
+2023-06-12,Hanumangarh,1.0,Poor,258,PM10
+2023-06-13,Hanumangarh,1.0,Poor,226,PM10
+2023-06-14,Hanumangarh,1.0,Poor,219,PM10
+2023-06-16,Hanumangarh,1.0,Satisfactory,97,PM10
+2023-06-17,Hanumangarh,1.0,Satisfactory,95,PM10
+2023-06-18,Hanumangarh,1.0,Satisfactory,69,PM10
+2023-06-19,Hanumangarh,1.0,Moderate,107,PM10
+2023-06-20,Hanumangarh,1.0,Moderate,111,PM10
+2023-06-21,Hanumangarh,1.0,Moderate,152,PM10
+2023-06-22,Hanumangarh,1.0,Moderate,148,PM10
+2023-06-23,Hanumangarh,1.0,Moderate,143,PM10
+2023-06-24,Hanumangarh,1.0,Moderate,135,PM10
+2023-06-25,Hanumangarh,1.0,Moderate,135,PM10
+2023-06-26,Hanumangarh,1.0,Poor,213,PM10
+2023-06-27,Hanumangarh,1.0,Poor,284,PM10
+2023-06-28,Hanumangarh,1.0,Poor,289,PM10
+2023-06-29,Hanumangarh,1.0,Moderate,140,PM10
+2023-06-30,Hanumangarh,1.0,Moderate,155,PM10
+2023-07-01,Hanumangarh,1.0,Moderate,156,PM10
+2023-07-02,Hanumangarh,1.0,Moderate,195,PM10
+2023-07-03,Hanumangarh,1.0,Moderate,122,PM10
+2023-07-04,Hanumangarh,1.0,Moderate,136,PM10
+2023-07-05,Hanumangarh,1.0,Moderate,162,PM10
+2023-07-06,Hanumangarh,1.0,Satisfactory,83,PM10
+2023-07-07,Hanumangarh,1.0,Satisfactory,98,PM10
+2023-07-08,Hanumangarh,1.0,Moderate,179,PM10
+2023-07-09,Hanumangarh,1.0,Moderate,186,PM10
+2023-07-10,Hanumangarh,1.0,Poor,204,PM10
+2023-07-11,Hanumangarh,1.0,Moderate,189,PM10
+2023-07-12,Hanumangarh,1.0,Poor,219,PM10
+2023-07-13,Hanumangarh,1.0,Very Poor,306,PM10
+2023-07-14,Hanumangarh,1.0,Satisfactory,93,PM10
+2023-07-15,Hanumangarh,1.0,Moderate,132,PM10
+2023-07-16,Hanumangarh,1.0,Moderate,184,PM10
+2023-07-17,Hanumangarh,1.0,Very Poor,382,PM10
+2023-07-18,Hanumangarh,1.0,Very Poor,325,PM10
+2023-07-19,Hanumangarh,1.0,Very Poor,304,PM10
+2023-07-20,Hanumangarh,1.0,Satisfactory,78,PM10
+2023-07-21,Hanumangarh,1.0,Satisfactory,100,PM10
+2023-07-22,Hanumangarh,1.0,Satisfactory,65,PM10
+2023-07-23,Hanumangarh,1.0,Satisfactory,56,PM10
+2023-07-24,Hanumangarh,1.0,Satisfactory,87,PM10
+2023-07-25,Hanumangarh,1.0,Satisfactory,75,PM10
+2023-07-26,Hanumangarh,1.0,Satisfactory,52,PM10
+2023-07-27,Hanumangarh,1.0,Good,30,PM10
+2023-07-28,Hanumangarh,1.0,Good,46,PM10
+2023-07-29,Hanumangarh,1.0,Good,35,PM10
+2023-07-30,Hanumangarh,1.0,Good,26,PM10
+2023-07-31,Hanumangarh,1.0,Good,47,PM10
+2023-08-01,Hanumangarh,1.0,Satisfactory,63,PM10
+2023-08-02,Hanumangarh,1.0,Satisfactory,69,PM10
+2023-08-03,Hanumangarh,1.0,Satisfactory,85,PM10
+2023-08-04,Hanumangarh,1.0,Satisfactory,87,PM10
+2023-08-05,Hanumangarh,1.0,Satisfactory,88,PM10
+2023-08-06,Hanumangarh,1.0,Satisfactory,93,PM10
+2023-08-07,Hanumangarh,1.0,Good,34,PM2.5
+2023-08-08,Hanumangarh,1.0,Moderate,141,PM10
+2023-08-09,Hanumangarh,1.0,Moderate,124,PM10
+2023-08-10,Hanumangarh,1.0,Moderate,124,PM10
+2023-08-11,Hanumangarh,1.0,Moderate,120,PM10
+2023-08-12,Hanumangarh,1.0,Moderate,105,PM10
+2023-08-13,Hanumangarh,1.0,Satisfactory,94,PM10
+2023-08-14,Hanumangarh,1.0,Satisfactory,86,PM10
+2023-08-15,Hanumangarh,1.0,Moderate,111,PM10
+2023-08-16,Hanumangarh,1.0,Moderate,129,PM10
+2023-08-17,Hanumangarh,1.0,Moderate,141,PM10
+2023-08-18,Hanumangarh,1.0,Moderate,150,PM10
+2023-08-19,Hanumangarh,1.0,Moderate,190,PM10
+2023-08-20,Hanumangarh,1.0,Moderate,111,PM10
+2023-08-21,Hanumangarh,1.0,Satisfactory,97,PM10
+2023-08-22,Hanumangarh,1.0,Satisfactory,82,PM10
+2023-08-23,Hanumangarh,1.0,Moderate,106,PM10
+2023-08-24,Hanumangarh,1.0,Moderate,125,PM10
+2023-08-25,Hanumangarh,1.0,Moderate,177,PM10
+2023-08-26,Hanumangarh,1.0,Moderate,148,PM10
+2023-08-27,Hanumangarh,1.0,Poor,203,PM10
+2023-08-28,Hanumangarh,1.0,Moderate,164,PM10
+2023-08-29,Hanumangarh,1.0,Moderate,143,PM10
+2023-08-30,Hanumangarh,1.0,Moderate,160,PM10
+2023-08-31,Hanumangarh,1.0,Moderate,130,PM10
+2023-09-01,Hanumangarh,1.0,Moderate,132,PM10
+2023-09-02,Hanumangarh,1.0,Moderate,137,PM10
+2023-09-03,Hanumangarh,1.0,Moderate,135,PM10
+2023-09-04,Hanumangarh,1.0,Moderate,131,PM10
+2023-09-05,Hanumangarh,1.0,Moderate,172,PM10
+2023-09-06,Hanumangarh,1.0,Moderate,187,PM10
+2023-09-07,Hanumangarh,1.0,Moderate,170,PM10
+2023-09-08,Hanumangarh,1.0,Moderate,187,PM10
+2023-09-09,Hanumangarh,1.0,Moderate,170,PM10
+2023-09-10,Hanumangarh,1.0,Moderate,126,PM10
+2023-09-11,Hanumangarh,1.0,Moderate,134,PM10
+2023-09-12,Hanumangarh,1.0,Moderate,124,PM10
+2023-09-13,Hanumangarh,1.0,Satisfactory,60,PM2.5
+2023-09-14,Hanumangarh,1.0,Moderate,153,PM10
+2023-09-15,Hanumangarh,1.0,Moderate,133,PM10
+2023-09-16,Hanumangarh,1.0,Satisfactory,86,PM10
+2023-09-17,Hanumangarh,1.0,Satisfactory,56,PM10
+2023-09-18,Hanumangarh,1.0,Satisfactory,73,PM10
+2023-09-19,Hanumangarh,1.0,Good,41,PM10
+2023-09-20,Hanumangarh,1.0,Good,43,PM10
+2023-09-21,Hanumangarh,1.0,Moderate,103,PM10
+2023-09-22,Hanumangarh,1.0,Satisfactory,52,PM10
+2023-09-23,Hanumangarh,1.0,Satisfactory,65,PM10
+2023-09-24,Hanumangarh,1.0,Satisfactory,69,PM10
+2023-09-25,Hanumangarh,1.0,Satisfactory,56,PM10
+2023-09-26,Hanumangarh,1.0,Moderate,106,PM10
+2023-09-27,Hanumangarh,1.0,Moderate,152,PM10
+2023-09-28,Hanumangarh,1.0,Moderate,146,PM10
+2023-09-29,Hanumangarh,1.0,Moderate,159,PM10
+2023-09-30,Hanumangarh,1.0,Moderate,192,PM10
+2023-10-01,Hanumangarh,1.0,Moderate,177,PM10
+2023-10-02,Hanumangarh,1.0,Moderate,159,PM10
+2023-10-03,Hanumangarh,1.0,Moderate,156,PM10
+2023-10-04,Hanumangarh,1.0,Moderate,187,PM10
+2023-10-05,Hanumangarh,1.0,Poor,222,PM10
+2023-10-06,Hanumangarh,1.0,Moderate,184,PM10
+2023-10-07,Hanumangarh,1.0,Moderate,155,PM10
+2023-10-08,Hanumangarh,1.0,Satisfactory,92,PM10
+2023-10-09,Hanumangarh,1.0,Moderate,140,PM10
+2023-10-10,Hanumangarh,1.0,Moderate,115,PM10
+2023-10-11,Hanumangarh,1.0,Moderate,158,PM10
+2023-10-12,Hanumangarh,1.0,Moderate,163,PM10
+2023-10-13,Hanumangarh,1.0,Poor,204,PM10
+2023-10-14,Hanumangarh,1.0,Poor,266,PM10
+2023-10-15,Hanumangarh,1.0,Moderate,119,PM10
+2023-10-16,Hanumangarh,1.0,Satisfactory,72,PM10
+2023-10-17,Hanumangarh,1.0,Satisfactory,72,PM10
+2023-10-18,Hanumangarh,1.0,Moderate,113,PM10
+2023-10-19,Hanumangarh,1.0,Moderate,200,PM10
+2023-10-20,Hanumangarh,1.0,Moderate,152,PM10
+2023-10-21,Hanumangarh,1.0,Poor,229,PM10
+2023-10-22,Hanumangarh,1.0,Moderate,181,PM10
+2023-10-23,Hanumangarh,1.0,Poor,246,PM10
+2023-10-24,Hanumangarh,1.0,Very Poor,360,PM10
+2023-10-25,Hanumangarh,1.0,Poor,297,PM10
+2023-10-26,Hanumangarh,1.0,Very Poor,342,PM10
+2023-10-27,Hanumangarh,1.0,Poor,291,PM10
+2023-10-28,Hanumangarh,1.0,Very Poor,346,PM10
+2023-10-29,Hanumangarh,1.0,Very Poor,369,PM2.5
+2023-10-30,Hanumangarh,1.0,Severe,428,PM10
+2023-10-31,Hanumangarh,1.0,Very Poor,399,PM2.5
+2023-11-01,Hanumangarh,1.0,Severe,414,PM2.5
+2023-11-02,Hanumangarh,1.0,Severe,438,PM2.5
+2023-11-03,Hanumangarh,1.0,Very Poor,395,PM2.5
+2023-11-04,Hanumangarh,1.0,Very Poor,393,PM2.5
+2023-11-05,Hanumangarh,1.0,Very Poor,371,PM2.5
+2023-11-06,Hanumangarh,1.0,Very Poor,310,PM2.5
+2023-11-07,Hanumangarh,1.0,Very Poor,369,PM2.5
+2023-11-08,Hanumangarh,1.0,Very Poor,386,PM2.5
+2023-11-09,Hanumangarh,1.0,Severe,403,PM2.5
+2023-11-10,Hanumangarh,1.0,Poor,247,PM2.5
+2023-11-11,Hanumangarh,1.0,Moderate,171,PM2.5
+2023-11-12,Hanumangarh,1.0,Poor,214,PM2.5
+2023-11-13,Hanumangarh,1.0,Very Poor,329,PM2.5
+2023-11-14,Hanumangarh,1.0,Severe,420,PM10
+2023-11-15,Hanumangarh,1.0,Very Poor,348,PM2.5
+2023-11-16,Hanumangarh,1.0,Very Poor,334,PM2.5
+2023-11-17,Hanumangarh,1.0,Severe,426,PM2.5
+2023-11-18,Hanumangarh,1.0,Severe,427,PM10
+2023-11-19,Hanumangarh,1.0,Very Poor,364,PM2.5
+2023-11-20,Hanumangarh,1.0,Severe,416,PM10
+2023-11-21,Hanumangarh,1.0,Very Poor,325,PM2.5
+2023-11-22,Hanumangarh,1.0,Very Poor,390,PM2.5
+2023-11-23,Hanumangarh,1.0,Severe,405,PM2.5
+2023-11-24,Hanumangarh,1.0,Very Poor,389,PM2.5
+2023-11-25,Hanumangarh,1.0,Severe,447,PM2.5
+2023-11-26,Hanumangarh,1.0,Severe,426,PM2.5
+2023-11-27,Hanumangarh,1.0,Severe,416,PM2.5
+2023-11-28,Hanumangarh,1.0,Severe,408,PM2.5
+2023-11-29,Hanumangarh,1.0,Poor,277,PM2.5
+2023-11-30,Hanumangarh,1.0,Very Poor,353,PM2.5
+2023-12-01,Hanumangarh,1.0,Poor,298,PM2.5
+2023-12-02,Hanumangarh,1.0,Poor,286,PM2.5
+2023-12-03,Hanumangarh,1.0,Poor,286,PM2.5
+2023-12-04,Hanumangarh,1.0,Very Poor,304,PM2.5
+2023-12-07,Hanumangarh,1.0,Very Poor,309,PM2.5
+2023-12-08,Hanumangarh,1.0,Very Poor,360,PM2.5
+2023-12-09,Hanumangarh,1.0,Very Poor,357,PM2.5
+2023-12-10,Hanumangarh,1.0,Very Poor,345,PM2.5
+2023-12-11,Hanumangarh,1.0,Very Poor,335,PM2.5
+2023-12-12,Hanumangarh,1.0,Very Poor,310,PM2.5
+2023-12-13,Hanumangarh,1.0,Very Poor,369,PM2.5
+2023-12-14,Hanumangarh,1.0,Very Poor,393,PM2.5
+2023-12-15,Hanumangarh,1.0,Very Poor,377,PM2.5
+2023-12-16,Hanumangarh,1.0,Very Poor,354,PM2.5
+2023-12-17,Hanumangarh,1.0,Very Poor,356,PM2.5
+2023-12-18,Hanumangarh,1.0,Very Poor,373,PM2.5
+2023-12-19,Hanumangarh,1.0,Poor,227,PM10
+2023-12-20,Hanumangarh,1.0,Very Poor,327,PM2.5
+2023-12-21,Hanumangarh,1.0,Very Poor,339,PM2.5
+2023-12-22,Hanumangarh,1.0,Very Poor,389,PM2.5
+2023-12-23,Hanumangarh,1.0,Severe,422,PM2.5
+2023-12-24,Hanumangarh,1.0,Severe,440,PM2.5
+2023-12-25,Hanumangarh,1.0,Very Poor,387,PM2.5
+2023-12-26,Hanumangarh,1.0,Severe,408,PM2.5
+2023-12-27,Hanumangarh,1.0,Very Poor,367,PM2.5
+2023-12-28,Hanumangarh,1.0,Very Poor,328,PM2.5
+2023-12-29,Hanumangarh,1.0,Poor,217,PM2.5
+2023-12-30,Hanumangarh,1.0,Poor,278,PM2.5
+2023-12-31,Hanumangarh,1.0,Very Poor,319,PM2.5

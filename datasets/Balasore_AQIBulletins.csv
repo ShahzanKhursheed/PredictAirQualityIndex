@@ -1,0 +1,67 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-10-24,Balasore,1.0,Good,38,O3
+2023-10-25,Balasore,1.0,Satisfactory,68,O3
+2023-10-26,Balasore,1.0,Moderate,103,PM10
+2023-10-28,Balasore,1.0,Moderate,146,PM2.5
+2023-10-29,Balasore,1.0,Moderate,151,PM10
+2023-10-30,Balasore,1.0,Moderate,131,PM2.5
+2023-10-31,Balasore,1.0,Moderate,179,PM10
+2023-11-02,Balasore,1.0,Moderate,141,PM10
+2023-11-03,Balasore,1.0,Moderate,108,PM10
+2023-11-04,Balasore,1.0,Satisfactory,60,PM10
+2023-11-05,Balasore,1.0,Satisfactory,73,PM10
+2023-11-06,Balasore,1.0,Moderate,174,PM2.5
+2023-11-07,Balasore,1.0,Moderate,182,PM2.5
+2023-11-08,Balasore,1.0,Moderate,155,PM2.5
+2023-11-09,Balasore,1.0,Moderate,183,PM2.5
+2023-11-10,Balasore,1.0,Poor,201,PM2.5
+2023-11-11,Balasore,1.0,Poor,226,PM2.5
+2023-11-12,Balasore,1.0,Poor,292,PM2.5
+2023-11-13,Balasore,1.0,Very Poor,357,PM2.5
+2023-11-14,Balasore,1.0,Poor,232,PM2.5
+2023-11-15,Balasore,1.0,Moderate,175,PM2.5
+2023-11-16,Balasore,1.0,Moderate,116,PM10
+2023-11-17,Balasore,1.0,Satisfactory,81,PM10
+2023-11-18,Balasore,1.0,Satisfactory,93,PM10
+2023-11-19,Balasore,1.0,Satisfactory,98,PM10
+2023-11-20,Balasore,1.0,Moderate,116,PM10
+2023-11-21,Balasore,1.0,Moderate,150,PM2.5
+2023-11-22,Balasore,1.0,Poor,209,PM2.5
+2023-11-23,Balasore,1.0,Very Poor,317,PM2.5
+2023-11-24,Balasore,1.0,Very Poor,307,PM2.5
+2023-11-25,Balasore,1.0,Poor,297,PM2.5
+2023-11-26,Balasore,1.0,Poor,257,PM2.5
+2023-11-27,Balasore,1.0,Moderate,189,PM2.5
+2023-11-28,Balasore,1.0,Moderate,169,PM2.5
+2023-11-29,Balasore,1.0,Moderate,183,PM2.5
+2023-11-30,Balasore,1.0,Poor,214,PM2.5
+2023-12-01,Balasore,1.0,Moderate,184,PM10
+2023-12-02,Balasore,1.0,Poor,223,PM2.5
+2023-12-03,Balasore,1.0,Poor,293,PM2.5
+2023-12-05,Balasore,1.0,Moderate,188,PM2.5
+2023-12-06,Balasore,1.0,Satisfactory,77,CO
+2023-12-07,Balasore,1.0,Satisfactory,85,CO
+2023-12-08,Balasore,1.0,Satisfactory,65,CO
+2023-12-09,Balasore,1.0,Satisfactory,88,PM10
+2023-12-10,Balasore,1.0,Satisfactory,89,PM10
+2023-12-11,Balasore,1.0,Moderate,144,PM10
+2023-12-12,Balasore,1.0,Moderate,159,PM2.5
+2023-12-13,Balasore,1.0,Moderate,180,PM2.5
+2023-12-14,Balasore,1.0,Moderate,188,PM2.5
+2023-12-15,Balasore,1.0,Poor,222,PM2.5
+2023-12-16,Balasore,1.0,Poor,233,PM2.5
+2023-12-17,Balasore,1.0,Poor,239,PM2.5
+2023-12-18,Balasore,1.0,Poor,236,PM2.5
+2023-12-19,Balasore,1.0,Poor,278,PM2.5
+2023-12-20,Balasore,1.0,Poor,261,PM2.5
+2023-12-21,Balasore,1.0,Poor,222,PM2.5
+2023-12-22,Balasore,1.0,Poor,218,PM2.5
+2023-12-23,Balasore,1.0,Poor,256,PM2.5
+2023-12-24,Balasore,1.0,Poor,231,PM2.5
+2023-12-25,Balasore,1.0,Moderate,176,PM2.5
+2023-12-26,Balasore,1.0,Poor,222,PM2.5
+2023-12-27,Balasore,1.0,Poor,263,PM2.5
+2023-12-28,Balasore,1.0,Very Poor,314,PM2.5
+2023-12-29,Balasore,1.0,Very Poor,326,PM2.5
+2023-12-30,Balasore,1.0,Poor,293,PM2.5
+2023-12-31,Balasore,1.0,Very Poor,304,PM2.5

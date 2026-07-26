@@ -1,0 +1,390 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2022-11-27,Rourkela,1.0,Poor,269,PM10
+2022-11-28,Rourkela,1.0,Poor,227,PM10
+2022-11-29,Rourkela,1.0,Poor,256,PM10
+2022-11-30,Rourkela,1.0,Poor,248,PM10
+2022-12-01,Rourkela,1.0,Poor,285,PM10
+2022-12-02,Rourkela,1.0,Poor,269,PM10
+2022-12-03,Rourkela,1.0,Poor,261,PM2.5
+2022-12-04,Rourkela,1.0,Poor,225,PM2.5
+2022-12-05,Rourkela,1.0,Poor,232,PM2.5
+2022-12-06,Rourkela,1.0,Poor,210,PM10
+2022-12-07,Rourkela,1.0,Poor,220,PM10
+2022-12-08,Rourkela,1.0,Poor,248,PM10
+2022-12-09,Rourkela,1.0,Moderate,199,PM10
+2022-12-14,Rourkela,1.0,Poor,234,PM10
+2022-12-15,Rourkela,1.0,Poor,215,PM10
+2022-12-16,Rourkela,1.0,Moderate,198,PM10
+2022-12-17,Rourkela,1.0,Moderate,174,PM10
+2022-12-18,Rourkela,1.0,Poor,221,PM10
+2022-12-19,Rourkela,1.0,Poor,210,PM10
+2022-12-20,Rourkela,1.0,Poor,251,PM2.5
+2022-12-21,Rourkela,1.0,Poor,220,PM2.5
+2022-12-22,Rourkela,1.0,Poor,264,PM2.5
+2022-12-23,Rourkela,1.0,Poor,250,PM10
+2022-12-24,Rourkela,1.0,Moderate,198,PM10
+2022-12-25,Rourkela,1.0,Poor,237,PM2.5
+2022-12-26,Rourkela,1.0,Moderate,167,PM10
+2022-12-27,Rourkela,1.0,Moderate,196,PM10
+2022-12-28,Rourkela,1.0,Poor,218,PM10
+2022-12-29,Rourkela,1.0,Poor,222,PM10
+2022-12-30,Rourkela,1.0,Moderate,193,PM10
+2022-12-31,Rourkela,1.0,Poor,206,PM10
+2023-01-01,Rourkela,1.0,Poor,251,PM2.5
+2023-01-02,Rourkela,1.0,Poor,288,PM2.5
+2023-01-03,Rourkela,1.0,Very Poor,322,PM2.5
+2023-01-04,Rourkela,1.0,Poor,291,PM2.5
+2023-01-05,Rourkela,1.0,Poor,286,PM2.5
+2023-01-06,Rourkela,1.0,Poor,242,PM2.5
+2023-01-07,Rourkela,1.0,Moderate,147,PM10
+2023-01-08,Rourkela,1.0,Moderate,132,PM10
+2023-01-09,Rourkela,1.0,Moderate,121,PM10
+2023-01-10,Rourkela,1.0,Moderate,173,PM10
+2023-01-12,Rourkela,1.0,Moderate,167,PM10
+2023-01-13,Rourkela,3.0,Poor,224,PM2.5
+2023-01-14,Rourkela,3.0,Moderate,168,PM2.5
+2023-01-15,Rourkela,3.0,Moderate,168,PM2.5
+2023-01-16,Rourkela,3.0,Moderate,149,"PM10, PM2.5"
+2023-01-17,Rourkela,3.0,Moderate,190,PM2.5
+2023-01-18,Rourkela,3.0,Poor,247,PM2.5
+2023-01-19,Rourkela,3.0,Poor,272,PM2.5
+2023-01-20,Rourkela,3.0,Poor,257,PM2.5
+2023-01-22,Rourkela,3.0,Poor,211,PM2.5
+2023-01-23,Rourkela,3.0,Moderate,179,PM2.5
+2023-01-24,Rourkela,3.0,Moderate,147,PM2.5
+2023-01-25,Rourkela,3.0,Moderate,145,PM2.5
+2023-01-26,Rourkela,3.0,Moderate,171,PM2.5
+2023-01-27,Rourkela,3.0,Moderate,169,PM2.5
+2023-01-28,Rourkela,3.0,Moderate,184,PM2.5
+2023-01-29,Rourkela,3.0,Moderate,196,PM2.5
+2023-01-30,Rourkela,3.0,Moderate,146,PM2.5
+2023-01-31,Rourkela,3.0,Moderate,134,PM2.5
+2023-02-01,Rourkela,3.0,Moderate,130,PM2.5
+2023-02-02,Rourkela,3.0,Moderate,115,PM10
+2023-02-03,Rourkela,3.0,Moderate,115,PM10
+2023-02-04,Rourkela,3.0,Moderate,130,PM2.5
+2023-02-05,Rourkela,3.0,Moderate,168,PM2.5
+2023-02-06,Rourkela,3.0,Moderate,132,PM2.5
+2023-02-07,Rourkela,3.0,Moderate,132,PM10
+2023-02-08,Rourkela,3.0,Moderate,179,PM10
+2023-02-09,Rourkela,3.0,Moderate,111,PM10
+2023-02-10,Rourkela,3.0,Moderate,167,PM10
+2023-02-11,Rourkela,3.0,Poor,214,PM10
+2023-02-12,Rourkela,2.0,Poor,234,PM10
+2023-02-13,Rourkela,2.0,Moderate,167,PM10
+2023-02-14,Rourkela,2.0,Moderate,183,PM10
+2023-02-15,Rourkela,2.0,Moderate,193,PM10
+2023-02-16,Rourkela,2.0,Poor,205,PM10
+2023-02-17,Rourkela,3.0,Moderate,158,PM10
+2023-02-18,Rourkela,3.0,Moderate,183,PM2.5
+2023-02-19,Rourkela,3.0,Moderate,163,PM2.5
+2023-02-20,Rourkela,3.0,Poor,210,PM2.5
+2023-02-21,Rourkela,3.0,Moderate,178,PM10
+2023-02-22,Rourkela,3.0,Poor,205,PM2.5
+2023-02-23,Rourkela,3.0,Poor,202,PM2.5
+2023-02-24,Rourkela,3.0,Moderate,181,PM10
+2023-02-25,Rourkela,3.0,Moderate,148,PM10
+2023-02-26,Rourkela,3.0,Moderate,150,PM10
+2023-02-27,Rourkela,3.0,Moderate,175,PM10
+2023-02-28,Rourkela,3.0,Moderate,160,PM10
+2023-03-01,Rourkela,3.0,Moderate,193,PM2.5
+2023-03-02,Rourkela,3.0,Poor,211,PM2.5
+2023-03-03,Rourkela,3.0,Poor,205,PM10
+2023-03-04,Rourkela,3.0,Moderate,173,PM10
+2023-03-05,Rourkela,3.0,Moderate,162,PM10
+2023-03-06,Rourkela,2.0,Moderate,168,PM10
+2023-03-07,Rourkela,3.0,Poor,219,PM10
+2023-03-08,Rourkela,3.0,Poor,246,PM2.5
+2023-03-09,Rourkela,3.0,Moderate,187,PM2.5
+2023-03-10,Rourkela,3.0,Poor,237,PM2.5
+2023-03-11,Rourkela,3.0,Moderate,194,PM2.5
+2023-03-12,Rourkela,3.0,Poor,279,PM2.5
+2023-03-13,Rourkela,3.0,Very Poor,305,PM2.5
+2023-03-14,Rourkela,3.0,Very Poor,309,PM2.5
+2023-03-15,Rourkela,3.0,Very Poor,304,PM10
+2023-03-16,Rourkela,3.0,Poor,216,PM2.5
+2023-03-17,Rourkela,3.0,Moderate,191,PM2.5
+2023-03-18,Rourkela,3.0,Poor,269,PM2.5
+2023-03-19,Rourkela,3.0,Satisfactory,94,PM10
+2023-03-20,Rourkela,2.0,Satisfactory,75,PM10
+2023-03-21,Rourkela,2.0,Satisfactory,74,PM10
+2023-03-22,Rourkela,3.0,Moderate,106,PM10
+2023-03-23,Rourkela,3.0,Moderate,122,PM10
+2023-03-24,Rourkela,3.0,Moderate,162,PM2.5
+2023-03-25,Rourkela,3.0,Moderate,199,PM2.5
+2023-03-26,Rourkela,3.0,Poor,215,PM2.5
+2023-03-27,Rourkela,2.0,Moderate,180,PM2.5
+2023-03-28,Rourkela,3.0,Moderate,122,PM10
+2023-03-29,Rourkela,3.0,Moderate,132,PM10
+2023-03-30,Rourkela,3.0,Moderate,122,PM10
+2023-03-31,Rourkela,2.0,Moderate,122,PM10
+2023-04-01,Rourkela,3.0,Satisfactory,73,PM10
+2023-04-02,Rourkela,2.0,Moderate,105,PM10
+2023-04-03,Rourkela,2.0,Moderate,120,PM10
+2023-04-04,Rourkela,3.0,Moderate,132,PM10
+2023-04-05,Rourkela,3.0,Moderate,140,PM10
+2023-04-06,Rourkela,3.0,Moderate,156,PM10
+2023-04-07,Rourkela,3.0,Moderate,145,"PM10, PM2.5"
+2023-04-08,Rourkela,3.0,Moderate,188,PM10
+2023-04-09,Rourkela,3.0,Moderate,150,PM2.5
+2023-04-10,Rourkela,3.0,Moderate,175,PM10
+2023-04-11,Rourkela,3.0,Moderate,174,PM10
+2023-04-12,Rourkela,2.0,Poor,218,PM10
+2023-04-13,Rourkela,3.0,Poor,238,PM10
+2023-04-14,Rourkela,3.0,Very Poor,314,PM2.5
+2023-04-15,Rourkela,3.0,Very Poor,310,PM2.5
+2023-04-16,Rourkela,3.0,Poor,253,PM2.5
+2023-04-17,Rourkela,3.0,Poor,225,PM10
+2023-04-18,Rourkela,3.0,Poor,273,PM10
+2023-04-19,Rourkela,3.0,Poor,269,PM2.5
+2023-04-20,Rourkela,3.0,Poor,201,"PM10, PM2.5"
+2023-04-21,Rourkela,3.0,Moderate,121,PM10
+2023-04-22,Rourkela,3.0,Moderate,127,PM10
+2023-04-23,Rourkela,3.0,Satisfactory,93,PM10
+2023-04-24,Rourkela,3.0,Satisfactory,77,PM10
+2023-04-25,Rourkela,2.0,Satisfactory,82,"PM10, PM2.5"
+2023-04-26,Rourkela,2.0,Satisfactory,80,PM10
+2023-04-27,Rourkela,2.0,Moderate,116,PM10
+2023-04-28,Rourkela,2.0,Moderate,113,PM2.5
+2023-04-29,Rourkela,3.0,Moderate,133,"PM10, PM2.5"
+2023-04-30,Rourkela,2.0,Moderate,106,"PM10, PM2.5"
+2023-05-01,Rourkela,3.0,Satisfactory,65,PM10
+2023-05-02,Rourkela,3.0,Satisfactory,72,PM10
+2023-05-03,Rourkela,3.0,Moderate,116,PM10
+2023-05-04,Rourkela,2.0,Good,48,CO
+2023-05-05,Rourkela,2.0,Satisfactory,76,PM10
+2023-05-06,Rourkela,2.0,Moderate,103,PM10
+2023-05-07,Rourkela,2.0,Moderate,120,PM10
+2023-05-08,Rourkela,2.0,Moderate,125,PM10
+2023-05-09,Rourkela,2.0,Moderate,124,PM10
+2023-05-10,Rourkela,2.0,Moderate,140,PM10
+2023-05-11,Rourkela,1.0,Moderate,130,PM10
+2023-05-12,Rourkela,2.0,Moderate,146,PM10
+2023-05-13,Rourkela,3.0,Moderate,117,PM10
+2023-05-14,Rourkela,2.0,Moderate,138,PM10
+2023-05-15,Rourkela,2.0,Moderate,156,PM2.5
+2023-05-16,Rourkela,2.0,Moderate,146,PM2.5
+2023-05-17,Rourkela,2.0,Moderate,128,PM10
+2023-05-18,Rourkela,2.0,Moderate,116,PM10
+2023-05-19,Rourkela,1.0,Moderate,146,PM10
+2023-05-20,Rourkela,3.0,Moderate,131,PM10
+2023-05-21,Rourkela,3.0,Satisfactory,100,PM10
+2023-05-22,Rourkela,2.0,Moderate,104,PM10
+2023-05-23,Rourkela,2.0,Moderate,111,PM10
+2023-05-24,Rourkela,2.0,Moderate,103,PM10
+2023-05-25,Rourkela,2.0,Satisfactory,91,PM10
+2023-05-26,Rourkela,2.0,Satisfactory,93,PM10
+2023-05-27,Rourkela,2.0,Satisfactory,96,PM10
+2023-05-28,Rourkela,3.0,Satisfactory,84,PM10
+2023-05-29,Rourkela,3.0,Moderate,102,PM10
+2023-05-30,Rourkela,3.0,Moderate,116,PM10
+2023-05-31,Rourkela,2.0,Moderate,136,PM10
+2023-06-01,Rourkela,2.0,Moderate,122,PM10
+2023-06-02,Rourkela,2.0,Moderate,128,PM10
+2023-06-03,Rourkela,2.0,Moderate,139,PM10
+2023-06-04,Rourkela,2.0,Satisfactory,95,PM2.5
+2023-06-05,Rourkela,2.0,Satisfactory,82,PM10
+2023-06-06,Rourkela,3.0,Moderate,110,PM10
+2023-06-07,Rourkela,2.0,Moderate,124,PM2.5
+2023-06-08,Rourkela,2.0,Moderate,155,PM10
+2023-06-09,Rourkela,1.0,Moderate,163,PM10
+2023-06-10,Rourkela,2.0,Moderate,150,PM10
+2023-06-11,Rourkela,2.0,Moderate,136,PM10
+2023-06-12,Rourkela,3.0,Moderate,145,PM10
+2023-06-15,Rourkela,1.0,Moderate,103,PM10
+2023-06-16,Rourkela,1.0,Moderate,126,PM10
+2023-06-17,Rourkela,3.0,Moderate,125,PM10
+2023-06-18,Rourkela,3.0,Moderate,120,PM10
+2023-06-19,Rourkela,3.0,Satisfactory,98,PM10
+2023-06-20,Rourkela,3.0,Satisfactory,94,PM10
+2023-06-21,Rourkela,2.0,Moderate,120,"PM10, PM2.5"
+2023-06-22,Rourkela,2.0,Moderate,105,PM10
+2023-06-23,Rourkela,1.0,Satisfactory,82,PM10
+2023-06-24,Rourkela,1.0,Satisfactory,72,PM10
+2023-06-25,Rourkela,1.0,Satisfactory,51,CO
+2023-06-26,Rourkela,2.0,Good,37,PM2.5
+2023-06-27,Rourkela,2.0,Good,22,CO
+2023-06-28,Rourkela,2.0,Good,48,CO
+2023-06-29,Rourkela,2.0,Satisfactory,78,PM10
+2023-06-30,Rourkela,2.0,Satisfactory,78,PM10
+2023-07-01,Rourkela,2.0,Satisfactory,92,PM10
+2023-07-02,Rourkela,1.0,Satisfactory,85,PM10
+2023-07-03,Rourkela,1.0,Satisfactory,77,PM10
+2023-07-04,Rourkela,1.0,Satisfactory,93,PM2.5
+2023-07-05,Rourkela,2.0,Satisfactory,77,PM10
+2023-07-06,Rourkela,2.0,Good,49,PM10
+2023-07-07,Rourkela,2.0,Satisfactory,67,PM10
+2023-07-08,Rourkela,2.0,Good,42,PM10
+2023-07-09,Rourkela,2.0,Satisfactory,58,PM10
+2023-07-10,Rourkela,1.0,Satisfactory,80,PM10
+2023-07-11,Rourkela,1.0,Satisfactory,92,PM10
+2023-07-12,Rourkela,2.0,Satisfactory,72,PM10
+2023-07-13,Rourkela,2.0,Satisfactory,68,PM10
+2023-07-14,Rourkela,2.0,Satisfactory,65,PM10
+2023-07-15,Rourkela,2.0,Satisfactory,62,PM10
+2023-07-16,Rourkela,2.0,Satisfactory,58,PM10
+2023-07-17,Rourkela,1.0,Good,49,PM2.5
+2023-07-18,Rourkela,1.0,Satisfactory,56,PM10
+2023-07-19,Rourkela,1.0,Satisfactory,56,PM10
+2023-07-20,Rourkela,2.0,Good,40,PM10
+2023-07-21,Rourkela,3.0,Good,45,"PM10, PM2.5"
+2023-07-22,Rourkela,2.0,Good,46,"CO, PM10"
+2023-07-23,Rourkela,2.0,Good,43,PM10
+2023-07-24,Rourkela,1.0,Good,49,PM10
+2023-07-25,Rourkela,2.0,Good,46,PM2.5
+2023-07-26,Rourkela,2.0,Good,44,PM2.5
+2023-07-27,Rourkela,2.0,Good,40,PM10
+2023-07-28,Rourkela,2.0,Good,46,PM10
+2023-07-29,Rourkela,2.0,Satisfactory,78,PM10
+2023-07-30,Rourkela,2.0,Satisfactory,67,PM10
+2023-07-31,Rourkela,1.0,Satisfactory,76,PM10
+2023-08-01,Rourkela,1.0,Satisfactory,64,PM10
+2023-08-02,Rourkela,1.0,Satisfactory,73,PM10
+2023-08-03,Rourkela,2.0,Good,30,PM2.5
+2023-08-06,Rourkela,2.0,Satisfactory,88,"PM10, PM2.5"
+2023-08-07,Rourkela,1.0,Satisfactory,86,PM10
+2023-08-08,Rourkela,2.0,Satisfactory,90,PM10
+2023-08-09,Rourkela,2.0,Moderate,127,PM10
+2023-08-10,Rourkela,2.0,Moderate,120,PM10
+2023-08-11,Rourkela,2.0,Moderate,106,PM10
+2023-08-12,Rourkela,3.0,Satisfactory,75,PM2.5
+2023-08-13,Rourkela,2.0,Satisfactory,82,PM2.5
+2023-08-14,Rourkela,2.0,Satisfactory,73,"PM10, PM2.5"
+2023-08-15,Rourkela,1.0,Satisfactory,78,PM2.5
+2023-08-16,Rourkela,1.0,Satisfactory,71,PM2.5
+2023-08-17,Rourkela,1.0,Satisfactory,53,PM10
+2023-08-18,Rourkela,2.0,Good,44,PM10
+2023-08-19,Rourkela,2.0,Good,44,PM10
+2023-08-20,Rourkela,2.0,Good,49,PM10
+2023-08-21,Rourkela,1.0,Good,50,PM10
+2023-08-22,Rourkela,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-08-23,Rourkela,2.0,Satisfactory,58,PM10
+2023-08-24,Rourkela,2.0,Good,46,PM10
+2023-08-25,Rourkela,2.0,Satisfactory,63,"PM10, PM2.5"
+2023-08-26,Rourkela,2.0,Satisfactory,72,"PM10, PM2.5"
+2023-08-27,Rourkela,2.0,Moderate,116,PM10
+2023-08-28,Rourkela,2.0,Moderate,108,PM10
+2023-08-29,Rourkela,2.0,Moderate,110,PM10
+2023-08-30,Rourkela,1.0,Moderate,159,PM10
+2023-08-31,Rourkela,2.0,Moderate,113,PM10
+2023-09-01,Rourkela,1.0,Moderate,121,PM10
+2023-09-02,Rourkela,1.0,Moderate,124,PM10
+2023-09-03,Rourkela,1.0,Moderate,106,PM10
+2023-09-04,Rourkela,1.0,Moderate,106,O3
+2023-09-05,Rourkela,1.0,Good,39,PM10
+2023-09-06,Rourkela,1.0,Good,41,PM10
+2023-09-08,Rourkela,2.0,Satisfactory,56,O3
+2023-09-09,Rourkela,3.0,Good,50,PM10
+2023-09-10,Rourkela,2.0,Satisfactory,58,PM10
+2023-09-11,Rourkela,2.0,Satisfactory,68,"PM10, PM2.5"
+2023-09-12,Rourkela,2.0,Satisfactory,75,PM10
+2023-09-13,Rourkela,3.0,Satisfactory,55,PM10
+2023-09-14,Rourkela,3.0,Moderate,140,O3
+2023-09-15,Rourkela,3.0,Good,34,"NO2, PM10"
+2023-09-16,Rourkela,3.0,Good,49,PM10
+2023-09-17,Rourkela,3.0,Moderate,114,"PM10, PM2.5"
+2023-09-18,Rourkela,3.0,Satisfactory,55,PM10
+2023-09-19,Rourkela,3.0,Good,47,PM10
+2023-09-20,Rourkela,2.0,Good,48,"NO2, PM10"
+2023-09-21,Rourkela,2.0,Good,49,CO
+2023-09-22,Rourkela,3.0,Satisfactory,51,"PM10, PM2.5"
+2023-09-23,Rourkela,3.0,Satisfactory,53,PM10
+2023-09-24,Rourkela,2.0,Satisfactory,62,PM10
+2023-09-25,Rourkela,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-09-26,Rourkela,3.0,Moderate,105,"PM10, PM2.5"
+2023-09-27,Rourkela,3.0,Satisfactory,83,PM10
+2023-09-28,Rourkela,3.0,Moderate,101,PM10
+2023-09-29,Rourkela,3.0,Satisfactory,63,"PM10, PM2.5"
+2023-09-30,Rourkela,2.0,Satisfactory,66,PM10
+2023-10-01,Rourkela,2.0,Good,48,PM10
+2023-10-02,Rourkela,2.0,Good,37,"PM10, PM2.5"
+2023-10-03,Rourkela,2.0,Good,33,NO2
+2023-10-04,Rourkela,2.0,Good,36,PM10
+2023-10-05,Rourkela,3.0,Satisfactory,56,"PM10, PM2.5"
+2023-10-06,Rourkela,3.0,Satisfactory,66,"PM10, PM2.5"
+2023-10-07,Rourkela,1.0,Satisfactory,77,PM10
+2023-10-08,Rourkela,2.0,Good,48,"PM10, PM2.5"
+2023-10-09,Rourkela,2.0,Moderate,102,PM2.5
+2023-10-10,Rourkela,2.0,Satisfactory,100,PM2.5
+2023-10-11,Rourkela,2.0,Moderate,106,PM2.5
+2023-10-12,Rourkela,3.0,Moderate,106,"PM10, PM2.5"
+2023-10-13,Rourkela,3.0,Satisfactory,97,"PM10, PM2.5"
+2023-10-14,Rourkela,3.0,Moderate,104,"PM10, PM2.5"
+2023-10-15,Rourkela,2.0,Satisfactory,100,PM10
+2023-10-16,Rourkela,2.0,Moderate,110,"PM10, PM2.5"
+2023-10-17,Rourkela,3.0,Satisfactory,96,"PM10, PM2.5"
+2023-10-18,Rourkela,3.0,Satisfactory,81,PM10
+2023-10-19,Rourkela,3.0,Moderate,107,PM2.5
+2023-10-20,Rourkela,2.0,Satisfactory,88,"PM10, PM2.5"
+2023-10-21,Rourkela,3.0,Satisfactory,77,PM10
+2023-10-22,Rourkela,2.0,Satisfactory,86,PM10
+2023-10-23,Rourkela,3.0,Satisfactory,79,PM10
+2023-10-24,Rourkela,2.0,Satisfactory,76,PM2.5
+2023-10-25,Rourkela,3.0,Satisfactory,80,"PM10, PM2.5"
+2023-10-26,Rourkela,3.0,Moderate,103,PM2.5
+2023-10-27,Rourkela,2.0,Moderate,161,PM2.5
+2023-10-28,Rourkela,1.0,Moderate,139,PM2.5
+2023-10-29,Rourkela,3.0,Moderate,101,PM2.5
+2023-10-30,Rourkela,3.0,Satisfactory,85,PM10
+2023-10-31,Rourkela,2.0,Moderate,114,PM2.5
+2023-11-01,Rourkela,1.0,Moderate,127,PM2.5
+2023-11-02,Rourkela,1.0,Moderate,127,PM2.5
+2023-11-03,Rourkela,1.0,Moderate,109,PM10
+2023-11-04,Rourkela,2.0,Satisfactory,86,PM10
+2023-11-05,Rourkela,3.0,Satisfactory,77,PM10
+2023-11-06,Rourkela,3.0,Moderate,101,PM2.5
+2023-11-07,Rourkela,2.0,Satisfactory,97,"PM10, PM2.5"
+2023-11-08,Rourkela,2.0,Moderate,161,PM2.5
+2023-11-09,Rourkela,2.0,Moderate,159,PM2.5
+2023-11-10,Rourkela,3.0,Moderate,163,PM2.5
+2023-11-11,Rourkela,2.0,Moderate,128,PM2.5
+2023-11-12,Rourkela,2.0,Moderate,160,PM2.5
+2023-11-13,Rourkela,2.0,Poor,236,PM2.5
+2023-11-14,Rourkela,3.0,Poor,225,PM2.5
+2023-11-15,Rourkela,2.0,Moderate,141,PM2.5
+2023-11-16,Rourkela,2.0,Moderate,123,PM10
+2023-11-17,Rourkela,1.0,Moderate,135,PM2.5
+2023-11-18,Rourkela,2.0,Satisfactory,95,"PM10, PM2.5"
+2023-11-19,Rourkela,1.0,Moderate,120,PM10
+2023-11-20,Rourkela,1.0,Satisfactory,93,PM10
+2023-11-21,Rourkela,2.0,Satisfactory,92,PM10
+2023-11-22,Rourkela,3.0,Moderate,156,"PM10, PM2.5"
+2023-11-23,Rourkela,3.0,Moderate,183,"PM10, PM2.5"
+2023-11-24,Rourkela,2.0,Moderate,162,"PM10, PM2.5"
+2023-11-25,Rourkela,3.0,Poor,216,"PM10, PM2.5"
+2023-11-26,Rourkela,2.0,Poor,256,PM2.5
+2023-11-27,Rourkela,2.0,Moderate,161,"PM10, PM2.5"
+2023-11-28,Rourkela,2.0,Moderate,147,"PM10, PM2.5"
+2023-11-29,Rourkela,2.0,Moderate,158,"PM10, PM2.5"
+2023-11-30,Rourkela,2.0,Moderate,132,"PM10, PM2.5"
+2023-12-01,Rourkela,1.0,Moderate,169,PM2.5
+2023-12-02,Rourkela,3.0,Poor,231,PM2.5
+2023-12-03,Rourkela,2.0,Poor,227,PM2.5
+2023-12-04,Rourkela,2.0,Moderate,136,PM2.5
+2023-12-05,Rourkela,2.0,Moderate,144,PM2.5
+2023-12-06,Rourkela,2.0,Good,30,PM10
+2023-12-07,Rourkela,3.0,Good,32,"CO, PM10, PM2.5"
+2023-12-08,Rourkela,2.0,Good,28,"CO, PM2.5"
+2023-12-09,Rourkela,2.0,Satisfactory,67,PM10
+2023-12-10,Rourkela,3.0,Moderate,196,PM10
+2023-12-11,Rourkela,3.0,Poor,219,"PM10, PM2.5"
+2023-12-12,Rourkela,2.0,Satisfactory,99,"PM10, PM2.5"
+2023-12-13,Rourkela,3.0,Poor,246,"PM10, PM2.5"
+2023-12-14,Rourkela,3.0,Poor,247,"PM10, PM2.5"
+2023-12-15,Rourkela,2.0,Moderate,128,"PM10, PM2.5"
+2023-12-16,Rourkela,3.0,Poor,222,"PM10, PM2.5"
+2023-12-17,Rourkela,3.0,Moderate,107,"PM10, PM2.5"
+2023-12-18,Rourkela,2.0,Moderate,148,"PM10, PM2.5"
+2023-12-19,Rourkela,2.0,Moderate,198,PM2.5
+2023-12-20,Rourkela,3.0,Moderate,130,PM2.5
+2023-12-21,Rourkela,3.0,Moderate,160,PM2.5
+2023-12-22,Rourkela,3.0,Moderate,139,PM2.5
+2023-12-23,Rourkela,2.0,Moderate,188,"PM10, PM2.5"
+2023-12-24,Rourkela,2.0,Moderate,189,"PM10, PM2.5"
+2023-12-25,Rourkela,2.0,Moderate,166,"PM10, PM2.5"
+2023-12-26,Rourkela,3.0,Moderate,127,"PM10, PM2.5"
+2023-12-27,Rourkela,2.0,Moderate,182,"PM10, PM2.5"
+2023-12-28,Rourkela,2.0,Moderate,186,PM2.5
+2023-12-29,Rourkela,2.0,Moderate,196,PM2.5
+2023-12-30,Rourkela,2.0,Poor,247,PM2.5
+2023-12-31,Rourkela,2.0,Poor,268,PM2.5

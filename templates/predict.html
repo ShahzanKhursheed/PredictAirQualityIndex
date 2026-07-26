@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}Predict AQI{% endblock %}
+
+{% block content %}
+<section class="container my-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <div class="predict-card">
+        <h3 class="mb-1">Enter Pollutant &amp; Weather Readings</h3>
+        <p class="text-muted mb-4">All values in their standard units (µg/m³ for pollutants, °C, %, km/h).</p>
+
+        {% if error %}
+        <div class="alert alert-danger">{{ error }}</div>
+        {% endif %}
+
+        <form method="POST" action="{{ url_for('predict') }}">
+          <div class="row g-3">
+            <div class="col-md-4">
+              <label class="form-label" for="PM2.5">PM2.5 (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="PM2.5" name="PM2.5" placeholder="e.g. 85" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="PM10">PM10 (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="PM10" name="PM10" placeholder="e.g. 140" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="NO2">NO₂ (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="NO2" name="NO2" placeholder="e.g. 30" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="SO2">SO₂ (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="SO2" name="SO2" placeholder="e.g. 12" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="CO">CO (mg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="CO" name="CO" placeholder="e.g. 1.2" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="O3">O₃ (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="O3" name="O3" placeholder="e.g. 45" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="NH3">NH₃ (µg/m³)</label>
+              <input type="number" step="any" min="0" class="form-control" id="NH3" name="NH3" placeholder="e.g. 20" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="Temperature">Temperature (°C)</label>
+              <input type="number" step="any" class="form-control" id="Temperature" name="Temperature" placeholder="e.g. 28" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="Humidity">Humidity (%)</label>
+              <input type="number" step="any" min="0" max="100" class="form-control" id="Humidity" name="Humidity" placeholder="e.g. 55" required>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label" for="WindSpeed">Wind Speed (km/h)</label>
+              <input type="number" step="any" min="0" class="form-control" id="WindSpeed" name="WindSpeed" placeholder="e.g. 5" required>
+            </div>
+          </div>
+
+          <hr class="my-4">
+
+          <div class="mb-4">
+            <label class="form-label d-block">Prediction Model</label>
+            <div class="btn-group model-toggle" role="group">
+              <input type="radio" class="btn-check" name="model_choice" id="model_ml" value="ml" checked>
+              <label class="btn btn-outline-primary" for="model_ml">ML Regression</label>
+
+              <input type="radio" class="btn-check" name="model_choice" id="model_ann" value="ann" {% if not ann_available %}disabled{% endif %}>
+              <label class="btn btn-outline-primary" for="model_ann">
+                ANN {% if not ann_available %}(not trained yet){% endif %}
+              </label>
+            </div>
+          </div>
+
+          <button type="submit" class="btn btn-cta w-100">Predict AQI</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

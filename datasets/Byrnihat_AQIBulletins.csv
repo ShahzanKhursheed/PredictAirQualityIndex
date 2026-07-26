@@ -1,0 +1,282 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+24-12-2022,Byrnihat,1,Severe,413,PM2.5
+25-12-2022,Byrnihat,1,Very Poor,382,PM2.5
+26-12-2022,Byrnihat,1,Very Poor,391,PM2.5
+27-12-2022,Byrnihat,1,Very Poor,377,PM2.5
+29-12-2022,Byrnihat,1,Very Poor,337,PM2.5
+31-12-2022,Byrnihat,1,Very Poor,362,PM2.5
+01-01-2023,Byrnihat,1,Very Poor,387,PM2.5
+02-01-2023,Byrnihat,1,Very Poor,368,PM2.5
+03-01-2023,Byrnihat,1,Very Poor,333,PM2.5
+04-01-2023,Byrnihat,1,Very Poor,346,PM2.5
+05-01-2023,Byrnihat,1,Very Poor,367,PM2.5
+07-01-2023,Byrnihat,1,Very Poor,347,PM2.5
+08-01-2023,Byrnihat,1,Very Poor,383,PM2.5
+09-01-2023,Byrnihat,1,Very Poor,382,PM2.5
+10-01-2023,Byrnihat,1,Very Poor,371,PM2.5
+12-01-2023,Byrnihat,1,Very Poor,360,PM10
+13-01-2023,Byrnihat,1,Very Poor,372,PM2.5
+14-01-2023,Byrnihat,1,Severe,427,PM2.5
+15-01-2023,Byrnihat,1,Severe,442,PM2.5
+16-01-2023,Byrnihat,1,Severe,420,PM2.5
+17-01-2023,Byrnihat,1,Severe,410,PM2.5
+18-01-2023,Byrnihat,1,Severe,415,PM2.5
+19-01-2023,Byrnihat,1,Severe,417,PM2.5
+20-01-2023,Byrnihat,1,Very Poor,394,PM2.5
+22-01-2023,Byrnihat,1,Very Poor,355,PM2.5
+23-01-2023,Byrnihat,1,Very Poor,373,PM2.5
+24-01-2023,Byrnihat,1,Very Poor,377,PM2.5
+25-01-2023,Byrnihat,1,Very Poor,381,PM2.5
+26-01-2023,Byrnihat,1,Very Poor,368,PM2.5
+27-01-2023,Byrnihat,1,Very Poor,370,PM2.5
+28-01-2023,Byrnihat,1,Very Poor,351,PM2.5
+29-01-2023,Byrnihat,1,Very Poor,381,PM2.5
+30-01-2023,Byrnihat,1,Severe,426,PM2.5
+01-02-2023,Byrnihat,1,Severe,402,PM2.5
+02-02-2023,Byrnihat,1,Very Poor,394,PM2.5
+03-02-2023,Byrnihat,1,Very Poor,398,PM2.5
+04-02-2023,Byrnihat,1,Very Poor,365,PM2.5
+05-02-2023,Byrnihat,1,Severe,414,PM2.5
+06-02-2023,Byrnihat,1,Very Poor,392,PM2.5
+07-02-2023,Byrnihat,1,Very Poor,366,PM2.5
+08-02-2023,Byrnihat,1,Very Poor,389,PM2.5
+09-02-2023,Byrnihat,1,Very Poor,372,PM10
+10-02-2023,Byrnihat,1,Poor,293,PM2.5
+11-02-2023,Byrnihat,1,Very Poor,337,PM2.5
+12-02-2023,Byrnihat,1,Very Poor,365,PM2.5
+13-02-2023,Byrnihat,1,Very Poor,333,PM2.5
+14-02-2023,Byrnihat,1,Very Poor,310,PM10
+15-02-2023,Byrnihat,1,Poor,296,PM2.5
+16-02-2023,Byrnihat,1,Very Poor,349,PM2.5
+17-02-2023,Byrnihat,1,Very Poor,368,PM2.5
+21-02-2023,Byrnihat,1,Severe,424,PM10
+03-03-2023,Byrnihat,1,Very Poor,324,PM2.5
+05-03-2023,Byrnihat,1,Very Poor,310,PM10
+06-03-2023,Byrnihat,1,Very Poor,366,PM2.5
+07-03-2023,Byrnihat,1,Poor,282,PM2.5
+08-03-2023,Byrnihat,1,Very Poor,335,PM10
+09-03-2023,Byrnihat,1,Poor,253,PM2.5
+10-03-2023,Byrnihat,1,Very Poor,319,PM2.5
+12-03-2023,Byrnihat,1,Very Poor,360,PM2.5
+14-03-2023,Byrnihat,1,Very Poor,349,PM2.5
+19-03-2023,Byrnihat,1,Poor,248,PM2.5
+24-03-2023,Byrnihat,1,Moderate,179,PM10
+25-03-2023,Byrnihat,1,Poor,295,PM2.5
+26-03-2023,Byrnihat,1,Poor,275,PM2.5
+27-03-2023,Byrnihat,1,Moderate,162,PM2.5
+28-03-2023,Byrnihat,1,Poor,289,PM2.5
+05-04-2023,Byrnihat,1,Satisfactory,55,PM2.5
+06-04-2023,Byrnihat,1,Moderate,190,PM2.5
+07-04-2023,Byrnihat,1,Poor,243,PM2.5
+08-04-2023,Byrnihat,1,Poor,271,PM2.5
+09-04-2023,Byrnihat,1,Very Poor,320,PM2.5
+10-04-2023,Byrnihat,1,Very Poor,332,PM2.5
+11-04-2023,Byrnihat,1,Very Poor,374,PM2.5
+12-04-2023,Byrnihat,1,Very Poor,383,PM2.5
+14-04-2023,Byrnihat,1,Very Poor,396,PM2.5
+16-04-2023,Byrnihat,1,Very Poor,389,PM2.5
+17-04-2023,Byrnihat,1,Very Poor,370,PM2.5
+18-04-2023,Byrnihat,1,Very Poor,363,PM2.5
+19-04-2023,Byrnihat,1,Poor,279,PM2.5
+20-04-2023,Byrnihat,1,Moderate,164,PM10
+21-04-2023,Byrnihat,1,Satisfactory,81,PM2.5
+22-04-2023,Byrnihat,1,Moderate,149,PM10
+23-04-2023,Byrnihat,1,Poor,256,PM10
+24-04-2023,Byrnihat,1,Satisfactory,98,PM10
+25-04-2023,Byrnihat,1,Poor,225,PM10
+26-04-2023,Byrnihat,1,Poor,270,PM2.5
+29-04-2023,Byrnihat,1,Moderate,157,PM10
+30-04-2023,Byrnihat,1,Satisfactory,86,PM10
+01-05-2023,Byrnihat,1,Moderate,103,PM2.5
+02-05-2023,Byrnihat,1,Poor,281,PM2.5
+03-05-2023,Byrnihat,1,Poor,266,PM2.5
+04-05-2023,Byrnihat,1,Very Poor,324,PM2.5
+06-05-2023,Byrnihat,1,Poor,237,PM2.5
+07-05-2023,Byrnihat,1,Moderate,196,PM10
+09-05-2023,Byrnihat,1,Moderate,186,PM2.5
+10-05-2023,Byrnihat,1,Poor,280,PM2.5
+11-05-2023,Byrnihat,1,Very Poor,301,PM10
+20-05-2023,Byrnihat,1,Poor,236,PM10
+22-05-2023,Byrnihat,1,Poor,241,PM10
+23-05-2023,Byrnihat,1,Moderate,154,PM10
+24-05-2023,Byrnihat,1,Poor,221,PM10
+28-05-2023,Byrnihat,1,Moderate,155,PM10
+31-05-2023,Byrnihat,1,Poor,224,PM10
+02-06-2023,Byrnihat,1,Poor,259,PM10
+08-06-2023,Byrnihat,1,Poor,250,PM2.5
+10-06-2023,Byrnihat,1,Satisfactory,89,PM10
+12-06-2023,Byrnihat,1,Good,49,O3
+17-06-2023,Byrnihat,1,Moderate,122,PM10
+18-06-2023,Byrnihat,1,Moderate,116,PM10
+19-06-2023,Byrnihat,1,Poor,215,PM10
+20-06-2023,Byrnihat,1,Moderate,161,PM10
+21-06-2023,Byrnihat,1,Poor,205,PM10
+22-06-2023,Byrnihat,1,Poor,201,PM10
+23-06-2023,Byrnihat,1,Poor,239,PM10
+24-06-2023,Byrnihat,1,Poor,235,PM10
+25-06-2023,Byrnihat,1,Poor,236,PM10
+28-06-2023,Byrnihat,1,Poor,229,PM10
+29-06-2023,Byrnihat,1,Moderate,175,PM2.5
+30-06-2023,Byrnihat,1,Moderate,158,PM10
+01-07-2023,Byrnihat,1,Moderate,103,PM10
+02-07-2023,Byrnihat,1,Poor,205,PM10
+03-07-2023,Byrnihat,1,Poor,238,PM10
+04-07-2023,Byrnihat,1,Moderate,150,PM10
+05-07-2023,Byrnihat,1,Poor,228,PM10
+06-07-2023,Byrnihat,1,Moderate,161,PM2.5
+07-07-2023,Byrnihat,1,Poor,213,PM2.5
+08-07-2023,Byrnihat,1,Moderate,151,PM2.5
+09-07-2023,Byrnihat,1,Poor,257,PM2.5
+10-07-2023,Byrnihat,1,Moderate,164,PM2.5
+11-07-2023,Byrnihat,1,Poor,210,PM2.5
+12-07-2023,Byrnihat,1,Moderate,162,PM2.5
+13-07-2023,Byrnihat,1,Moderate,153,PM2.5
+14-07-2023,Byrnihat,1,Satisfactory,76,PM2.5
+15-07-2023,Byrnihat,1,Moderate,175,PM2.5
+16-07-2023,Byrnihat,1,Moderate,185,PM2.5
+17-07-2023,Byrnihat,1,Satisfactory,52,PM10
+19-07-2023,Byrnihat,1,Poor,223,PM2.5
+20-07-2023,Byrnihat,1,Poor,212,PM2.5
+21-07-2023,Byrnihat,1,Satisfactory,97,PM2.5
+22-07-2023,Byrnihat,1,Poor,201,PM10
+23-07-2023,Byrnihat,1,Poor,224,PM10
+28-07-2023,Byrnihat,1,Moderate,136,PM2.5
+29-07-2023,Byrnihat,1,Satisfactory,70,PM10
+30-07-2023,Byrnihat,1,Satisfactory,74,PM10
+31-07-2023,Byrnihat,1,Moderate,163,PM10
+01-08-2023,Byrnihat,1,Moderate,174,PM10
+02-08-2023,Byrnihat,1,Moderate,187,PM2.5
+03-08-2023,Byrnihat,1,Satisfactory,64,PM10
+04-08-2023,Byrnihat,1,Moderate,121,PM2.5
+05-08-2023,Byrnihat,1,Moderate,166,PM10
+06-08-2023,Byrnihat,1,Moderate,124,PM2.5
+07-08-2023,Byrnihat,1,Moderate,118,PM10
+08-08-2023,Byrnihat,1,Moderate,170,PM2.5
+09-08-2023,Byrnihat,1,Moderate,162,PM2.5
+10-08-2023,Byrnihat,1,Moderate,185,PM2.5
+11-08-2023,Byrnihat,1,Poor,231,PM2.5
+12-08-2023,Byrnihat,1,Moderate,142,PM10
+13-08-2023,Byrnihat,1,Satisfactory,88,PM10
+14-08-2023,Byrnihat,1,Moderate,155,PM2.5
+15-08-2023,Byrnihat,1,Moderate,192,PM2.5
+16-08-2023,Byrnihat,1,Moderate,174,PM2.5
+17-08-2023,Byrnihat,1,Moderate,156,PM2.5
+18-08-2023,Byrnihat,1,Moderate,144,PM10
+19-08-2023,Byrnihat,1,Poor,234,PM2.5
+20-08-2023,Byrnihat,1,Moderate,169,PM2.5
+21-08-2023,Byrnihat,1,Moderate,148,PM2.5
+22-08-2023,Byrnihat,1,Moderate,184,PM10
+23-08-2023,Byrnihat,1,Moderate,128,PM2.5
+24-08-2023,Byrnihat,1,Moderate,196,PM2.5
+25-08-2023,Byrnihat,1,Satisfactory,75,PM10
+26-08-2023,Byrnihat,1,Moderate,107,PM10
+27-08-2023,Byrnihat,1,Moderate,152,PM2.5
+28-08-2023,Byrnihat,1,Satisfactory,100,PM10
+29-08-2023,Byrnihat,1,Moderate,147,PM10
+31-08-2023,Byrnihat,1,Poor,202,PM2.5
+01-09-2023,Byrnihat,1,Moderate,173,PM2.5
+02-09-2023,Byrnihat,1,Moderate,177,PM10
+03-09-2023,Byrnihat,1,Moderate,159,PM10
+05-09-2023,Byrnihat,1,Poor,245,PM10
+06-09-2023,Byrnihat,1,Moderate,197,PM2.5
+07-09-2023,Byrnihat,1,Poor,246,PM2.5
+08-09-2023,Byrnihat,1,Poor,230,PM2.5
+09-09-2023,Byrnihat,1,Poor,212,PM2.5
+10-09-2023,Byrnihat,1,Poor,227,PM2.5
+13-09-2023,Byrnihat,1,Moderate,188,PM10
+15-09-2023,Byrnihat,1,Moderate,180,PM10
+16-09-2023,Byrnihat,1,Moderate,156,PM2.5
+17-09-2023,Byrnihat,1,Moderate,191,PM2.5
+18-09-2023,Byrnihat,1,Poor,230,PM2.5
+19-09-2023,Byrnihat,1,Moderate,160,PM10
+21-09-2023,Byrnihat,1,Satisfactory,72,PM10
+22-09-2023,Byrnihat,1,Moderate,114,CO
+23-09-2023,Byrnihat,1,Moderate,128,PM2.5
+24-09-2023,Byrnihat,1,Poor,205,PM2.5
+25-09-2023,Byrnihat,1,Moderate,187,PM2.5
+26-09-2023,Byrnihat,1,Moderate,186,PM2.5
+27-09-2023,Byrnihat,1,Poor,257,PM2.5
+28-09-2023,Byrnihat,1,Poor,226,PM2.5
+29-09-2023,Byrnihat,1,Poor,223,PM2.5
+30-09-2023,Byrnihat,1,Very Poor,320,PM2.5
+01-10-2023,Byrnihat,1,Poor,253,PM10
+02-10-2023,Byrnihat,1,Moderate,168,PM10
+04-10-2023,Byrnihat,1,Moderate,200,PM2.5
+05-10-2023,Byrnihat,1,Moderate,104,CO
+08-10-2023,Byrnihat,1,Satisfactory,99,CO
+09-10-2023,Byrnihat,1,Moderate,160,PM2.5
+10-10-2023,Byrnihat,1,Satisfactory,100,PM2.5
+11-10-2023,Byrnihat,1,Moderate,147,PM2.5
+12-10-2023,Byrnihat,1,Poor,203,PM2.5
+13-10-2023,Byrnihat,1,Moderate,111,PM2.5
+15-10-2023,Byrnihat,1,Poor,206,PM2.5
+16-10-2023,Byrnihat,1,Poor,202,PM2.5
+17-10-2023,Byrnihat,1,Poor,218,PM10
+19-10-2023,Byrnihat,1,Poor,210,PM10
+20-10-2023,Byrnihat,1,Poor,223,PM2.5
+21-10-2023,Byrnihat,1,Poor,241,PM10
+23-10-2023,Byrnihat,1,Poor,218,PM2.5
+24-10-2023,Byrnihat,1,Poor,238,PM2.5
+25-10-2023,Byrnihat,1,Very Poor,302,PM10
+26-10-2023,Byrnihat,1,Poor,231,PM2.5
+27-10-2023,Byrnihat,1,Poor,212,PM2.5
+28-10-2023,Byrnihat,1,Poor,222,PM2.5
+29-10-2023,Byrnihat,1,Poor,247,PM2.5
+30-10-2023,Byrnihat,1,Poor,216,PM2.5
+31-10-2023,Byrnihat,1,Poor,235,PM10
+01-11-2023,Byrnihat,1,Poor,246,PM10
+02-11-2023,Byrnihat,1,Poor,279,PM10
+03-11-2023,Byrnihat,1,Poor,276,PM2.5
+04-11-2023,Byrnihat,1,Poor,272,PM10
+05-11-2023,Byrnihat,1,Poor,241,PM10
+06-11-2023,Byrnihat,1,Poor,293,PM2.5
+07-11-2023,Byrnihat,1,Poor,260,PM10
+08-11-2023,Byrnihat,1,Poor,277,PM10
+10-11-2023,Byrnihat,1,Poor,233,PM2.5
+11-11-2023,Byrnihat,1,Very Poor,312,PM10
+12-11-2023,Byrnihat,1,Poor,258,PM2.5
+13-11-2023,Byrnihat,1,Very Poor,301,PM10
+14-11-2023,Byrnihat,1,Very Poor,310,PM2.5
+15-11-2023,Byrnihat,1,Very Poor,327,PM10
+16-11-2023,Byrnihat,1,Poor,297,PM2.5
+17-11-2023,Byrnihat,1,Poor,279,PM10
+18-11-2023,Byrnihat,1,Satisfactory,69,CO
+19-11-2023,Byrnihat,1,Poor,258,PM2.5
+20-11-2023,Byrnihat,1,Poor,274,PM10
+21-11-2023,Byrnihat,1,Very Poor,311,PM10
+22-11-2023,Byrnihat,1,Very Poor,324,PM2.5
+23-11-2023,Byrnihat,1,Very Poor,343,PM2.5
+24-11-2023,Byrnihat,1,Very Poor,305,PM2.5
+25-11-2023,Byrnihat,1,Poor,284,PM10
+26-11-2023,Byrnihat,1,Very Poor,312,PM2.5
+27-11-2023,Byrnihat,1,Very Poor,365,PM10
+29-11-2023,Byrnihat,1,Very Poor,349,PM10
+30-11-2023,Byrnihat,1,Very Poor,329,PM10
+01-12-2023,Byrnihat,1,Very Poor,316,PM10
+02-12-2023,Byrnihat,1,Very Poor,356,PM10
+03-12-2023,Byrnihat,1,Very Poor,339,PM10
+04-12-2023,Byrnihat,1,Very Poor,318,PM2.5
+05-12-2023,Byrnihat,1,Very Poor,379,PM2.5
+06-12-2023,Byrnihat,1,Poor,292,PM2.5
+07-12-2023,Byrnihat,1,Poor,266,PM2.5
+08-12-2023,Byrnihat,1,Moderate,172,CO
+09-12-2023,Byrnihat,1,Moderate,184,PM2.5
+12-12-2023,Byrnihat,1,Poor,294,PM2.5
+14-12-2023,Byrnihat,1,Poor,230,PM2.5
+15-12-2023,Byrnihat,1,Poor,284,PM2.5
+16-12-2023,Byrnihat,1,Poor,244,PM2.5
+17-12-2023,Byrnihat,1,Poor,285,PM2.5
+18-12-2023,Byrnihat,1,Poor,285,PM2.5
+19-12-2023,Byrnihat,1,Poor,262,PM2.5
+20-12-2023,Byrnihat,1,Poor,243,PM2.5
+21-12-2023,Byrnihat,1,Very Poor,308,PM2.5
+22-12-2023,Byrnihat,1,Poor,271,PM2.5
+23-12-2023,Byrnihat,1,Poor,297,PM2.5
+24-12-2023,Byrnihat,1,Very Poor,313,PM2.5
+25-12-2023,Byrnihat,1,Poor,265,PM2.5
+26-12-2023,Byrnihat,1,Poor,282,PM2.5
+27-12-2023,Byrnihat,1,Poor,263,PM2.5
+28-12-2023,Byrnihat,1,Poor,268,PM2.5
+29-12-2023,Byrnihat,1,Poor,263,PM2.5
+30-12-2023,Byrnihat,1,Poor,278,PM2.5
+31-12-2023,Byrnihat,1,Very Poor,310,PM2.5

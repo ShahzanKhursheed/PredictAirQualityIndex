@@ -1,0 +1,250 @@
+{% extends "base.html" %}
+{% block title %}AQI Visualizations{% endblock %}
+
+{% block content %}
+<section class="dashboard-hero">
+  <div class="container">
+    <div class="row align-items-end g-4">
+      <div class="col-lg-7">
+        <p class="section-kicker mb-2">AQI dashboard</p>
+        <h1 class="mb-3">Air Quality Visualizations</h1>
+        <p class="mb-0 dashboard-copy">
+          Historical city bulletins and station-level readings, shaped into quick visual signals.
+        </p>
+      </div>
+      {% if dashboard.has_data %}
+      <div class="col-lg-5">
+        <form class="city-picker" method="GET" action="{{ url_for('visualizations') }}">
+          <label class="form-label" for="city">City</label>
+          <div class="d-flex gap-2">
+            <select class="form-select" id="city" name="city" onchange="this.form.submit()">
+              {% for city in dashboard.cities %}
+              <option value="{{ city }}" {% if city == dashboard.selected_city %}selected{% endif %}>{{ city }}</option>
+              {% endfor %}
+            </select>
+            <button class="btn btn-cta" type="submit">View</button>
+          </div>
+        </form>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{% if dashboard.has_data %}
+<section class="container my-5 viz-page">
+  <div class="metric-grid mb-4">
+    {% for card in dashboard.summary_cards %}
+    <div class="metric-card">
+      <span>{{ card.label }}</span>
+      <strong>{{ card.value }}</strong>
+      <small>{{ card.detail }}</small>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="row g-4">
+    <div class="col-xl-8">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">{{ dashboard.selected_city }}</p>
+            <h2>Monthly AQI Trend</h2>
+          </div>
+          <div class="trend-meta">
+            <span>Avg {{ dashboard.trend.avg_value }}</span>
+            <span>Min {{ dashboard.trend.min_value }}</span>
+            <span>Max {{ dashboard.trend.max_value }}</span>
+          </div>
+        </div>
+
+        {% if dashboard.trend.points %}
+        <div class="trend-wrap">
+          <svg class="trend-chart" viewBox="0 0 720 260" role="img" aria-label="Monthly AQI trend">
+            <defs>
+              <linearGradient id="trendFill" x1="0" x2="0" y1="0" y2="1">
+                <stop offset="0%" stop-color="#2ec4b6" stop-opacity="0.30" />
+                <stop offset="100%" stop-color="#2ec4b6" stop-opacity="0.02" />
+              </linearGradient>
+            </defs>
+            <line x1="30" x2="690" y1="58" y2="58" class="grid-line" />
+            <line x1="30" x2="690" y1="116" y2="116" class="grid-line" />
+            <line x1="30" x2="690" y1="174" y2="174" class="grid-line" />
+            <polygon class="trend-area" points="{{ dashboard.trend.area_points }}"></polygon>
+            <polyline class="trend-line" points="{{ dashboard.trend.points }}"></polyline>
+            {% for point in dashboard.trend.point_items %}
+            <circle class="trend-point" cx="{{ point.x }}" cy="{{ point.y }}" r="4" fill="{{ point.color }}">
+              <title>AQI {{ point.value }}</title>
+            </circle>
+            {% endfor %}
+          </svg>
+          <div class="trend-labels">
+            <span>{{ dashboard.trend.first_label }}</span>
+            <span>{{ dashboard.trend.last_label }}</span>
+          </div>
+        </div>
+        {% else %}
+        <div class="empty-state">No trend data available.</div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="col-xl-4">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">{{ dashboard.selected_city }}</p>
+            <h2>City Snapshot</h2>
+          </div>
+        </div>
+        <div class="selected-grid">
+          {% for card in dashboard.selected_cards %}
+          <div class="selected-card" style="--accent: {{ card.color }};">
+            <span>{{ card.label }}</span>
+            <strong>{{ card.value }}</strong>
+            <small>{{ card.detail }}</small>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row g-4 mt-1">
+    <div class="col-lg-6">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">All cities</p>
+            <h2>AQI Category Share</h2>
+          </div>
+        </div>
+
+        <div class="stacked-bar">
+          {% for item in dashboard.category_items %}
+          <span style="width: {{ item.pct }}%; background: {{ item.color }};" title="{{ item.name }} {{ item.pct }}%"></span>
+          {% endfor %}
+        </div>
+
+        <div class="legend-grid mt-4">
+          {% for item in dashboard.category_items %}
+          <div class="legend-item">
+            <i style="background: {{ item.color }};"></i>
+            <span>{{ item.name }}</span>
+            <strong>{{ item.pct }}%</strong>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">Historical average</p>
+            <h2>Highest AQI Cities</h2>
+          </div>
+        </div>
+
+        <div class="rank-list">
+          {% for city in dashboard.top_cities %}
+          <div class="rank-row">
+            <div class="rank-label">
+              <span>{{ loop.index }}. {{ city.name }}</span>
+              <small>Peak {{ city.peak }} | {{ city.days }} days</small>
+            </div>
+            <div class="rank-bar">
+              <span style="width: {{ city.width }}%; background: {{ city.color }};"></span>
+            </div>
+            <strong>{{ city.avg }}</strong>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row g-4 mt-1">
+    <div class="col-lg-5">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">Prominent pollutant</p>
+            <h2>Bulletin Drivers</h2>
+          </div>
+        </div>
+
+        <div class="pollutant-list">
+          {% for pollutant in dashboard.pollutant_items %}
+          <div class="pollutant-row">
+            <div class="pollutant-title">
+              <span>{{ pollutant.name }}</span>
+              <strong>{{ pollutant.count }}</strong>
+            </div>
+            <div class="pollutant-bar">
+              <span style="width: {{ pollutant.width }}%;"></span>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-7">
+      <div class="viz-panel h-100">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker mb-1">{{ dashboard.station_summary.scope }}</p>
+            <h2>Station Snapshot</h2>
+          </div>
+          <div class="trend-meta">
+            <span>{{ dashboard.station_summary.readings }} readings</span>
+            <span>AQI {{ dashboard.station_summary.avg_aqi }}</span>
+          </div>
+        </div>
+
+        <div class="station-layout">
+          <div class="station-map" aria-label="Station AQI scatter plot">
+            {% for point in dashboard.station_map_points %}
+            <span
+              class="map-dot"
+              style="left: {{ point.x }}%; top: {{ point.y }}%; width: {{ point.size }}px; height: {{ point.size }}px; background: {{ point.color }};"
+              title="{{ point.city }} AQI {{ point.aqi }}">
+            </span>
+            {% endfor %}
+          </div>
+
+          <div class="station-side">
+            <div class="station-meta">
+              <span>Updated</span>
+              <strong>{{ dashboard.station_summary.latest_update }}</strong>
+            </div>
+            {% for item in dashboard.station_summary.weather %}
+            <div class="weather-chip">
+              <span>{{ item.label }}</span>
+              <strong>{{ item.value }}</strong>
+            </div>
+            {% endfor %}
+
+            <div class="mini-bars">
+              {% for pollutant in dashboard.station_pollutants %}
+              <div>
+                <span>{{ pollutant.name }}</span>
+                <div><i style="width: {{ pollutant.width }}%;"></i></div>
+                <strong>{{ pollutant.value }}</strong>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="container my-5">
+  <div class="viz-panel empty-state">No extra dataset files were found.</div>
+</section>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Prediction Result{% endblock %}
+
+{% block content %}
+<section class="container my-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-7">
+      <div class="result-card">
+        <p class="text-muted mb-1">Predicted using {{ model_used }}</p>
+        <div class="aqi-number
+          {% if aqi <= 50 %}text-success
+          {% elif aqi <= 100 %}text-success
+          {% elif aqi <= 200 %}text-warning
+          {% elif aqi <= 300 %}text-danger
+          {% else %}text-danger{% endif %}">
+          {{ aqi }}
+        </div>
+        <p class="text-muted">Air Quality Index</p>
+
+        <span class="category-pill
+          {% if category == 'Good' %}badge-good
+          {% elif category == 'Satisfactory' %}badge-satisfactory
+          {% elif category == 'Moderate' %}badge-moderate
+          {% elif category == 'Poor' %}badge-poor
+          {% elif category == 'Very Poor' %}badge-very-poor
+          {% else %}badge-severe{% endif %}">
+          {{ category }}
+        </span>
+
+        <p class="lead mt-3">{{ advice }}</p>
+
+        <hr class="my-4">
+
+        <h6 class="text-muted mb-3">Input Summary</h6>
+        <div class="row text-start small">
+          {% for key, value in inputs.items() %}
+          <div class="col-6 col-md-4 mb-2">
+            <span class="text-muted">{{ key }}:</span> <strong>{{ value }}</strong>
+          </div>
+          {% endfor %}
+        </div>
+
+        <a href="{{ url_for('predict') }}" class="btn btn-cta mt-4">Predict Another</a>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

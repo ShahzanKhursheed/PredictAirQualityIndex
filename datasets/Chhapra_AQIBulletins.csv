@@ -1,0 +1,675 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2021-11-23,Chhapra,1.0,Very Poor,304,PM2.5
+2021-11-24,Chhapra,1.0,Very Poor,319,PM2.5
+2021-11-25,Chhapra,1.0,Very Poor,350,PM2.5
+2021-11-26,Chhapra,1.0,Very Poor,393,PM2.5
+2021-11-28,Chhapra,1.0,Severe,431,PM2.5
+2021-11-30,Chhapra,1.0,Very Poor,361,PM2.5
+2021-12-01,Chhapra,1.0,Very Poor,346,PM2.5
+2021-12-02,Chhapra,1.0,Very Poor,363,PM2.5
+2021-12-03,Chhapra,1.0,Very Poor,381,PM2.5
+2021-12-04,Chhapra,1.0,Very Poor,397,PM2.5
+2021-12-05,Chhapra,1.0,Very Poor,328,PM2.5
+2021-12-06,Chhapra,1.0,Poor,255,PM2.5
+2021-12-07,Chhapra,1.0,Poor,279,PM2.5
+2021-12-08,Chhapra,1.0,Poor,274,PM2.5
+2021-12-09,Chhapra,1.0,Poor,284,PM2.5
+2021-12-10,Chhapra,1.0,Very Poor,315,PM2.5
+2021-12-12,Chhapra,1.0,Very Poor,353,PM2.5
+2021-12-13,Chhapra,1.0,Very Poor,353,PM2.5
+2021-12-14,Chhapra,1.0,Very Poor,373,PM2.5
+2021-12-15,Chhapra,1.0,Very Poor,364,PM2.5
+2021-12-16,Chhapra,1.0,Very Poor,333,PM2.5
+2021-12-17,Chhapra,1.0,Very Poor,319,PM2.5
+2021-12-18,Chhapra,1.0,Very Poor,306,PM2.5
+2021-12-19,Chhapra,1.0,Poor,298,PM2.5
+2021-12-20,Chhapra,1.0,Very Poor,386,PM2.5
+2021-12-21,Chhapra,1.0,Severe,405,PM2.5
+2021-12-22,Chhapra,1.0,Very Poor,389,PM2.5
+2021-12-23,Chhapra,1.0,Very Poor,375,PM2.5
+2021-12-24,Chhapra,1.0,Very Poor,380,PM2.5
+2021-12-29,Chhapra,1.0,Poor,234,PM2.5
+2021-12-30,Chhapra,1.0,Moderate,129,PM2.5
+2021-12-31,Chhapra,1.0,Moderate,193,PM2.5
+2022-01-01,Chhapra,1.0,Poor,288,PM2.5
+2022-01-03,Chhapra,1.0,Very Poor,388,PM2.5
+2022-01-04,Chhapra,1.0,Very Poor,365,PM2.5
+2022-01-05,Chhapra,1.0,Severe,402,PM2.5
+2022-01-06,Chhapra,1.0,Severe,414,PM2.5
+2022-01-07,Chhapra,1.0,Very Poor,353,PM2.5
+2022-01-08,Chhapra,1.0,Poor,260,PM2.5
+2022-01-09,Chhapra,1.0,Poor,265,PM2.5
+2022-01-10,Chhapra,1.0,Poor,259,PM2.5
+2022-01-11,Chhapra,1.0,Poor,297,PM2.5
+2022-01-12,Chhapra,1.0,Poor,247,PM2.5
+2022-01-13,Chhapra,1.0,Moderate,189,CO
+2022-01-14,Chhapra,1.0,Poor,272,PM2.5
+2022-01-16,Chhapra,1.0,Poor,298,PM2.5
+2022-01-17,Chhapra,1.0,Very Poor,334,PM2.5
+2022-01-18,Chhapra,1.0,Very Poor,367,PM2.5
+2022-01-19,Chhapra,1.0,Very Poor,360,PM2.5
+2022-01-20,Chhapra,1.0,Very Poor,356,PM2.5
+2022-01-21,Chhapra,1.0,Severe,417,PM2.5
+2022-01-22,Chhapra,1.0,Severe,406,PM2.5
+2022-01-23,Chhapra,1.0,Very Poor,366,PM2.5
+2022-01-24,Chhapra,1.0,Very Poor,338,PM2.5
+2022-01-25,Chhapra,1.0,Very Poor,347,PM2.5
+2022-01-26,Chhapra,1.0,Poor,268,PM2.5
+2022-01-27,Chhapra,1.0,Poor,268,PM2.5
+2022-01-28,Chhapra,1.0,Very Poor,314,PM2.5
+2022-01-29,Chhapra,1.0,Very Poor,337,PM2.5
+2022-01-31,Chhapra,1.0,Very Poor,399,PM2.5
+2022-02-01,Chhapra,1.0,Very Poor,367,PM2.5
+2022-02-02,Chhapra,1.0,Very Poor,391,PM2.5
+2022-02-03,Chhapra,1.0,Very Poor,352,PM2.5
+2022-02-05,Chhapra,1.0,Satisfactory,70,PM2.5
+2022-02-06,Chhapra,1.0,Poor,204,PM2.5
+2022-02-07,Chhapra,1.0,Poor,253,PM2.5
+2022-02-08,Chhapra,1.0,Poor,299,PM2.5
+2022-02-09,Chhapra,1.0,Very Poor,331,PM2.5
+2022-02-10,Chhapra,1.0,Very Poor,357,PM2.5
+2022-02-11,Chhapra,1.0,Poor,206,PM2.5
+2022-02-12,Chhapra,1.0,Moderate,167,PM2.5
+2022-02-13,Chhapra,1.0,Poor,265,PM2.5
+2022-02-14,Chhapra,1.0,Poor,230,PM2.5
+2022-02-15,Chhapra,1.0,Poor,298,PM2.5
+2022-02-16,Chhapra,1.0,Poor,289,PM2.5
+2022-02-17,Chhapra,1.0,Very Poor,307,PM2.5
+2022-02-18,Chhapra,1.0,Poor,203,PM2.5
+2022-02-20,Chhapra,1.0,Moderate,168,PM2.5
+2022-02-21,Chhapra,1.0,Moderate,160,PM2.5
+2022-02-22,Chhapra,1.0,Poor,275,PM2.5
+2022-02-23,Chhapra,1.0,Poor,294,PM2.5
+2022-02-24,Chhapra,1.0,Poor,279,PM2.5
+2022-02-25,Chhapra,1.0,Very Poor,315,PM2.5
+2022-02-26,Chhapra,1.0,Very Poor,303,PM2.5
+2022-02-27,Chhapra,1.0,Poor,277,PM2.5
+2022-02-28,Chhapra,1.0,Poor,281,PM2.5
+2022-03-01,Chhapra,1.0,Poor,215,PM2.5
+2022-03-02,Chhapra,1.0,Poor,212,PM2.5
+2022-03-03,Chhapra,1.0,Poor,259,PM2.5
+2022-03-05,Chhapra,1.0,Poor,206,PM2.5
+2022-03-06,Chhapra,1.0,Poor,201,PM2.5
+2022-03-08,Chhapra,1.0,Poor,230,PM2.5
+2022-03-09,Chhapra,1.0,Poor,262,PM2.5
+2022-03-10,Chhapra,1.0,Poor,228,PM2.5
+2022-03-11,Chhapra,1.0,Poor,255,PM2.5
+2022-03-12,Chhapra,1.0,Poor,212,PM2.5
+2022-03-13,Chhapra,1.0,Poor,258,PM2.5
+2022-03-14,Chhapra,1.0,Poor,268,PM2.5
+2022-03-15,Chhapra,1.0,Poor,226,PM2.5
+2022-03-16,Chhapra,1.0,Poor,252,PM2.5
+2022-03-17,Chhapra,1.0,Poor,290,PM2.5
+2022-03-18,Chhapra,1.0,Very Poor,339,PM2.5
+2022-03-19,Chhapra,1.0,Poor,298,PM2.5
+2022-03-20,Chhapra,1.0,Poor,270,PM2.5
+2022-03-23,Chhapra,1.0,Poor,260,PM2.5
+2022-03-24,Chhapra,1.0,Poor,257,PM2.5
+2022-03-25,Chhapra,1.0,Moderate,191,PM2.5
+2022-03-26,Chhapra,1.0,Moderate,180,PM10
+2022-03-27,Chhapra,1.0,Moderate,177,PM10
+2022-03-29,Chhapra,1.0,Very Poor,329,PM10
+2022-03-30,Chhapra,1.0,Very Poor,338,PM10
+2022-03-31,Chhapra,1.0,Very Poor,305,PM10
+2022-04-01,Chhapra,1.0,Very Poor,367,PM10
+2022-04-02,Chhapra,1.0,Poor,219,PM2.5
+2022-04-03,Chhapra,1.0,Moderate,185,PM2.5
+2022-04-04,Chhapra,1.0,Very Poor,321,PM10
+2022-04-05,Chhapra,1.0,Poor,270,PM10
+2022-04-06,Chhapra,1.0,Very Poor,307,PM10
+2022-04-07,Chhapra,1.0,Very Poor,337,PM10
+2022-04-08,Chhapra,1.0,Poor,284,PM10
+2022-04-09,Chhapra,1.0,Poor,278,PM10
+2022-04-10,Chhapra,1.0,Poor,235,PM10
+2022-04-12,Chhapra,1.0,Poor,247,PM10
+2022-04-14,Chhapra,1.0,Severe,407,PM10
+2022-04-15,Chhapra,1.0,Very Poor,364,PM10
+2022-04-16,Chhapra,1.0,Moderate,196,PM10
+2022-04-17,Chhapra,1.0,Moderate,177,PM10
+2022-04-18,Chhapra,1.0,Moderate,189,PM10
+2022-04-19,Chhapra,1.0,Moderate,163,PM10
+2022-04-20,Chhapra,1.0,Moderate,158,PM10
+2022-04-23,Chhapra,1.0,Poor,216,PM10
+2022-04-24,Chhapra,1.0,Poor,262,PM10
+2022-04-25,Chhapra,1.0,Poor,248,PM10
+2022-04-26,Chhapra,1.0,Moderate,198,PM2.5
+2022-04-27,Chhapra,1.0,Poor,232,PM2.5
+2022-04-28,Chhapra,1.0,Moderate,197,PM10
+2022-04-29,Chhapra,1.0,Moderate,162,PM10
+2022-04-30,Chhapra,1.0,Moderate,178,PM10
+2022-05-01,Chhapra,1.0,Satisfactory,98,PM10
+2022-05-02,Chhapra,1.0,Moderate,144,PM10
+2022-05-03,Chhapra,1.0,Moderate,120,PM10
+2022-05-04,Chhapra,1.0,Satisfactory,88,PM10
+2022-05-05,Chhapra,1.0,Satisfactory,82,PM10
+2022-05-06,Chhapra,1.0,Moderate,123,PM10
+2022-05-07,Chhapra,1.0,Moderate,105,PM10
+2022-05-08,Chhapra,1.0,Moderate,125,PM10
+2022-05-09,Chhapra,1.0,Moderate,129,PM10
+2022-05-10,Chhapra,1.0,Satisfactory,98,PM10
+2022-05-11,Chhapra,1.0,Moderate,103,PM10
+2022-05-12,Chhapra,1.0,Moderate,142,PM10
+2022-05-13,Chhapra,1.0,Moderate,137,PM10
+2022-05-14,Chhapra,1.0,Satisfactory,100,PM10
+2022-05-15,Chhapra,1.0,Moderate,142,PM10
+2022-05-16,Chhapra,1.0,Poor,209,PM10
+2022-05-17,Chhapra,1.0,Moderate,142,PM10
+2022-05-18,Chhapra,1.0,Moderate,147,PM10
+2022-05-19,Chhapra,1.0,Moderate,132,PM2.5
+2022-05-20,Chhapra,1.0,Moderate,137,PM10
+2022-05-21,Chhapra,1.0,Moderate,105,PM10
+2022-05-24,Chhapra,1.0,Moderate,101,PM10
+2022-05-25,Chhapra,1.0,Satisfactory,100,PM10
+2022-05-26,Chhapra,1.0,Moderate,110,PM10
+2022-05-27,Chhapra,1.0,Moderate,135,PM10
+2022-05-28,Chhapra,1.0,Moderate,128,PM10
+2022-06-01,Chhapra,1.0,Moderate,185,PM10
+2022-06-02,Chhapra,1.0,Moderate,140,PM10
+2022-06-03,Chhapra,1.0,Moderate,182,PM10
+2022-06-04,Chhapra,1.0,Moderate,175,PM10
+2022-06-05,Chhapra,1.0,Moderate,121,PM10
+2022-06-07,Chhapra,1.0,Moderate,126,PM10
+2022-06-08,Chhapra,1.0,Moderate,145,PM10
+2022-06-09,Chhapra,1.0,Moderate,144,PM10
+2022-06-10,Chhapra,1.0,Satisfactory,91,PM10
+2022-06-11,Chhapra,1.0,Moderate,126,PM10
+2022-06-12,Chhapra,1.0,Moderate,146,PM10
+2022-06-13,Chhapra,1.0,Moderate,104,PM10
+2022-06-14,Chhapra,1.0,Moderate,141,PM10
+2022-06-15,Chhapra,1.0,Moderate,169,PM10
+2022-06-16,Chhapra,1.0,Moderate,132,PM10
+2022-06-24,Chhapra,1.0,Moderate,139,PM10
+2022-06-25,Chhapra,1.0,Moderate,121,PM10
+2022-06-26,Chhapra,1.0,Satisfactory,80,PM10
+2022-06-27,Chhapra,1.0,Satisfactory,96,PM10
+2022-06-28,Chhapra,1.0,Moderate,130,PM10
+2022-06-30,Chhapra,1.0,Moderate,129,PM10
+2022-07-01,Chhapra,1.0,Poor,256,PM10
+2022-07-02,Chhapra,1.0,Moderate,139,PM10
+2022-07-03,Chhapra,1.0,Moderate,167,PM10
+2022-07-04,Chhapra,1.0,Moderate,167,PM10
+2022-07-05,Chhapra,1.0,Moderate,131,PM10
+2022-07-06,Chhapra,1.0,Moderate,137,PM10
+2022-07-07,Chhapra,1.0,Satisfactory,74,PM10
+2022-07-08,Chhapra,1.0,Moderate,105,PM10
+2022-07-09,Chhapra,1.0,Satisfactory,92,PM10
+2022-07-10,Chhapra,1.0,Satisfactory,95,PM10
+2022-07-12,Chhapra,1.0,Satisfactory,64,PM10
+2022-07-13,Chhapra,1.0,Satisfactory,63,PM10
+2022-07-14,Chhapra,1.0,Satisfactory,64,PM10
+2022-07-15,Chhapra,1.0,Good,46,CO
+2022-07-16,Chhapra,1.0,Satisfactory,59,PM10
+2022-07-17,Chhapra,1.0,Satisfactory,53,CO
+2022-07-18,Chhapra,1.0,Satisfactory,58,PM10
+2022-07-19,Chhapra,1.0,Satisfactory,62,PM10
+2022-07-20,Chhapra,1.0,Satisfactory,70,PM10
+2022-07-21,Chhapra,1.0,Satisfactory,60,CO
+2022-07-22,Chhapra,1.0,Moderate,126,PM10
+2022-07-24,Chhapra,1.0,Satisfactory,55,CO
+2022-07-25,Chhapra,1.0,Satisfactory,66,CO
+2022-07-26,Chhapra,1.0,Satisfactory,65,CO
+2022-07-27,Chhapra,1.0,Satisfactory,51,CO
+2022-07-28,Chhapra,1.0,Satisfactory,82,PM10
+2022-07-29,Chhapra,1.0,Satisfactory,71,CO
+2022-07-30,Chhapra,1.0,Satisfactory,85,PM10
+2022-07-31,Chhapra,1.0,Satisfactory,72,CO
+2022-08-02,Chhapra,1.0,Satisfactory,70,CO
+2022-08-03,Chhapra,1.0,Satisfactory,73,CO
+2022-08-04,Chhapra,1.0,Satisfactory,88,PM10
+2022-08-05,Chhapra,1.0,Moderate,110,PM10
+2022-08-06,Chhapra,1.0,Satisfactory,99,PM10
+2022-08-07,Chhapra,1.0,Satisfactory,88,CO
+2022-08-08,Chhapra,1.0,Moderate,105,CO
+2022-08-09,Chhapra,1.0,Satisfactory,87,CO
+2022-08-10,Chhapra,1.0,Satisfactory,68,CO
+2022-08-11,Chhapra,1.0,Satisfactory,64,CO
+2022-08-12,Chhapra,1.0,Satisfactory,95,CO
+2022-08-13,Chhapra,1.0,Satisfactory,90,CO
+2022-08-14,Chhapra,1.0,Satisfactory,84,CO
+2022-08-15,Chhapra,1.0,Good,40,CO
+2022-08-16,Chhapra,1.0,Satisfactory,95,CO
+2022-08-17,Chhapra,1.0,Satisfactory,92,CO
+2022-08-18,Chhapra,1.0,Satisfactory,87,CO
+2022-08-19,Chhapra,1.0,Satisfactory,100,CO
+2022-08-20,Chhapra,1.0,Satisfactory,75,CO
+2022-08-21,Chhapra,1.0,Satisfactory,67,CO
+2022-08-22,Chhapra,1.0,Satisfactory,75,CO
+2022-08-24,Chhapra,1.0,Satisfactory,92,CO
+2022-08-25,Chhapra,1.0,Moderate,103,CO
+2022-08-26,Chhapra,1.0,Moderate,133,PM2.5
+2022-08-27,Chhapra,1.0,Moderate,126,PM2.5
+2022-08-28,Chhapra,1.0,Moderate,103,CO
+2022-08-29,Chhapra,1.0,Moderate,102,CO
+2022-08-30,Chhapra,1.0,Moderate,157,PM2.5
+2022-09-01,Chhapra,1.0,Moderate,155,PM2.5
+2022-09-02,Chhapra,1.0,Satisfactory,96,PM2.5
+2022-09-04,Chhapra,1.0,Satisfactory,64,PM2.5
+2022-09-05,Chhapra,1.0,Satisfactory,74,PM2.5
+2022-09-06,Chhapra,1.0,Moderate,127,PM2.5
+2022-09-07,Chhapra,1.0,Moderate,196,PM2.5
+2022-09-09,Chhapra,1.0,Moderate,148,PM10
+2022-09-10,Chhapra,1.0,Moderate,131,PM10
+2022-09-11,Chhapra,1.0,Satisfactory,95,PM10
+2022-09-14,Chhapra,1.0,Satisfactory,61,PM10
+2022-09-15,Chhapra,1.0,Satisfactory,100,PM10
+2022-09-16,Chhapra,1.0,Satisfactory,54,PM10
+2022-09-18,Chhapra,1.0,Moderate,105,PM10
+2022-09-19,Chhapra,1.0,Moderate,161,PM10
+2022-09-20,Chhapra,1.0,Satisfactory,90,PM10
+2022-09-21,Chhapra,1.0,Satisfactory,95,PM10
+2022-09-22,Chhapra,1.0,Moderate,127,PM10
+2022-09-24,Chhapra,1.0,Moderate,181,PM10
+2022-09-25,Chhapra,1.0,Moderate,158,PM10
+2022-09-27,Chhapra,1.0,Moderate,126,PM10
+2022-09-28,Chhapra,1.0,Satisfactory,99,PM10
+2022-09-29,Chhapra,1.0,Moderate,130,PM10
+2022-09-30,Chhapra,1.0,Satisfactory,91,PM10
+2022-10-01,Chhapra,1.0,Poor,228,PM2.5
+2022-10-02,Chhapra,1.0,Poor,229,PM2.5
+2022-10-03,Chhapra,1.0,Poor,207,PM2.5
+2022-10-04,Chhapra,1.0,Satisfactory,57,CO
+2022-10-05,Chhapra,1.0,Satisfactory,54,CO
+2022-10-06,Chhapra,1.0,Satisfactory,91,PM10
+2022-10-07,Chhapra,1.0,Satisfactory,88,PM10
+2022-10-08,Chhapra,1.0,Satisfactory,63,CO
+2022-10-09,Chhapra,1.0,Poor,207,PM10
+2022-10-10,Chhapra,1.0,Satisfactory,91,PM10
+2022-10-11,Chhapra,1.0,Satisfactory,75,PM10
+2022-10-12,Chhapra,1.0,Satisfactory,84,PM10
+2022-10-13,Chhapra,1.0,Moderate,122,PM10
+2022-10-14,Chhapra,1.0,Satisfactory,90,PM10
+2022-10-15,Chhapra,1.0,Moderate,142,PM10
+2022-10-16,Chhapra,1.0,Moderate,158,PM10
+2022-10-17,Chhapra,1.0,Moderate,182,PM10
+2022-10-18,Chhapra,1.0,Moderate,155,PM10
+2022-10-19,Chhapra,1.0,Moderate,182,PM10
+2022-10-20,Chhapra,1.0,Poor,226,PM10
+2022-10-21,Chhapra,1.0,Poor,274,PM10
+2022-10-23,Chhapra,1.0,Poor,254,PM10
+2022-10-24,Chhapra,1.0,Moderate,145,PM10
+2022-10-25,Chhapra,1.0,Moderate,167,PM10
+2022-10-26,Chhapra,1.0,Moderate,167,PM10
+2022-10-27,Chhapra,1.0,Poor,256,PM2.5
+2022-10-28,Chhapra,1.0,Poor,276,PM2.5
+2022-10-29,Chhapra,1.0,Poor,291,PM10
+2022-10-30,Chhapra,1.0,Poor,273,PM2.5
+2022-10-31,Chhapra,1.0,Moderate,198,PM2.5
+2022-11-01,Chhapra,1.0,Moderate,151,PM10
+2022-11-02,Chhapra,1.0,Moderate,187,PM2.5
+2022-11-03,Chhapra,1.0,Moderate,176,PM2.5
+2022-11-04,Chhapra,1.0,Poor,257,PM10
+2022-11-05,Chhapra,1.0,Very Poor,324,PM10
+2022-11-06,Chhapra,1.0,Very Poor,330,PM10
+2022-11-07,Chhapra,1.0,Poor,265,PM2.5
+2022-11-08,Chhapra,1.0,Poor,237,PM2.5
+2022-11-09,Chhapra,1.0,Poor,227,PM10
+2022-11-10,Chhapra,1.0,Poor,278,PM2.5
+2022-11-11,Chhapra,1.0,Very Poor,313,PM2.5
+2022-11-12,Chhapra,1.0,Very Poor,368,PM10
+2022-11-13,Chhapra,1.0,Poor,274,PM2.5
+2022-11-14,Chhapra,1.0,Very Poor,335,PM2.5
+2022-11-15,Chhapra,1.0,Very Poor,360,PM2.5
+2022-11-16,Chhapra,1.0,Very Poor,341,PM2.5
+2022-11-17,Chhapra,1.0,Very Poor,317,PM2.5
+2022-11-18,Chhapra,1.0,Very Poor,303,PM2.5
+2022-11-19,Chhapra,1.0,Very Poor,330,PM2.5
+2022-11-20,Chhapra,1.0,Very Poor,317,PM2.5
+2022-11-21,Chhapra,1.0,Very Poor,319,PM2.5
+2022-11-22,Chhapra,1.0,Very Poor,330,PM2.5
+2022-11-23,Chhapra,1.0,Very Poor,304,PM10
+2022-11-24,Chhapra,1.0,Very Poor,325,PM2.5
+2022-11-25,Chhapra,1.0,Very Poor,351,PM2.5
+2022-11-26,Chhapra,1.0,Very Poor,342,PM2.5
+2022-11-27,Chhapra,1.0,Very Poor,367,PM10
+2022-11-29,Chhapra,1.0,Severe,419,PM10
+2022-11-30,Chhapra,1.0,Severe,422,PM2.5
+2022-12-01,Chhapra,1.0,Very Poor,369,PM2.5
+2022-12-02,Chhapra,1.0,Very Poor,350,PM2.5
+2022-12-03,Chhapra,1.0,Very Poor,375,PM2.5
+2022-12-04,Chhapra,1.0,Very Poor,383,PM10
+2022-12-05,Chhapra,1.0,Very Poor,346,PM2.5
+2022-12-06,Chhapra,1.0,Very Poor,398,PM10
+2022-12-07,Chhapra,1.0,Very Poor,398,PM2.5
+2022-12-08,Chhapra,1.0,Very Poor,391,PM10
+2022-12-09,Chhapra,1.0,Very Poor,391,PM10
+2022-12-11,Chhapra,1.0,Very Poor,362,PM2.5
+2022-12-12,Chhapra,1.0,Severe,404,PM10
+2022-12-13,Chhapra,1.0,Severe,420,PM10
+2022-12-14,Chhapra,1.0,Very Poor,340,PM2.5
+2022-12-15,Chhapra,1.0,Poor,296,PM2.5
+2022-12-16,Chhapra,1.0,Poor,274,PM2.5
+2022-12-20,Chhapra,1.0,Severe,452,PM10
+2022-12-21,Chhapra,1.0,Severe,402,PM10
+2022-12-22,Chhapra,1.0,Very Poor,385,PM2.5
+2022-12-23,Chhapra,1.0,Very Poor,399,PM10
+2022-12-24,Chhapra,1.0,Severe,418,PM10
+2022-12-25,Chhapra,1.0,Very Poor,363,PM2.5
+2022-12-26,Chhapra,1.0,Very Poor,372,PM10
+2022-12-27,Chhapra,1.0,Very Poor,369,PM10
+2022-12-28,Chhapra,1.0,Very Poor,351,PM2.5
+2022-12-29,Chhapra,1.0,Severe,450,PM10
+2022-12-31,Chhapra,1.0,Severe,451,PM2.5
+2023-01-01,Chhapra,1.0,Severe,421,PM2.5
+2023-01-02,Chhapra,1.0,Very Poor,365,PM2.5
+2023-01-03,Chhapra,1.0,Very Poor,304,PM2.5
+2023-01-04,Chhapra,1.0,Very Poor,330,PM2.5
+2023-01-05,Chhapra,1.0,Very Poor,334,PM2.5
+2023-01-06,Chhapra,1.0,Very Poor,355,PM2.5
+2023-01-07,Chhapra,1.0,Severe,417,PM10
+2023-01-08,Chhapra,1.0,Severe,413,PM10
+2023-01-09,Chhapra,1.0,Severe,451,PM2.5
+2023-01-10,Chhapra,1.0,Severe,410,PM10
+2023-01-11,Chhapra,1.0,Very Poor,360,PM2.5
+2023-01-12,Chhapra,1.0,Very Poor,362,PM2.5
+2023-01-13,Chhapra,1.0,Very Poor,370,PM2.5
+2023-01-14,Chhapra,1.0,Severe,414,PM2.5
+2023-01-15,Chhapra,1.0,Very Poor,373,PM2.5
+2023-01-17,Chhapra,1.0,Very Poor,313,PM2.5
+2023-01-19,Chhapra,1.0,Very Poor,387,PM2.5
+2023-01-20,Chhapra,1.0,Very Poor,378,PM10
+2023-01-21,Chhapra,1.0,Very Poor,356,PM2.5
+2023-01-22,Chhapra,1.0,Very Poor,331,PM2.5
+2023-01-23,Chhapra,1.0,Very Poor,320,PM2.5
+2023-01-24,Chhapra,1.0,Very Poor,360,PM10
+2023-01-25,Chhapra,1.0,Severe,451,PM10
+2023-01-26,Chhapra,1.0,Very Poor,374,PM10
+2023-01-27,Chhapra,1.0,Poor,247,PM2.5
+2023-01-28,Chhapra,1.0,Very Poor,302,PM2.5
+2023-01-29,Chhapra,1.0,Very Poor,348,PM2.5
+2023-01-31,Chhapra,1.0,Poor,284,PM2.5
+2023-02-01,Chhapra,1.0,Moderate,181,PM2.5
+2023-02-02,Chhapra,1.0,Poor,260,PM2.5
+2023-02-03,Chhapra,1.0,Very Poor,311,PM2.5
+2023-02-04,Chhapra,1.0,Very Poor,338,PM2.5
+2023-02-05,Chhapra,1.0,Very Poor,320,PM2.5
+2023-02-06,Chhapra,1.0,Poor,298,PM2.5
+2023-02-09,Chhapra,1.0,Moderate,197,PM2.5
+2023-02-10,Chhapra,1.0,Poor,281,PM10
+2023-02-11,Chhapra,1.0,Very Poor,325,PM10
+2023-02-12,Chhapra,1.0,Very Poor,315,PM2.5
+2023-02-13,Chhapra,1.0,Moderate,159,PM10
+2023-02-14,Chhapra,1.0,Moderate,197,PM10
+2023-02-15,Chhapra,1.0,Poor,300,PM2.5
+2023-02-16,Chhapra,1.0,Very Poor,320,PM10
+2023-02-17,Chhapra,1.0,Very Poor,369,PM10
+2023-02-18,Chhapra,1.0,Very Poor,337,PM10
+2023-02-19,Chhapra,1.0,Very Poor,317,PM2.5
+2023-02-20,Chhapra,1.0,Very Poor,317,PM2.5
+2023-02-21,Chhapra,1.0,Very Poor,328,PM10
+2023-02-22,Chhapra,1.0,Very Poor,348,PM10
+2023-02-23,Chhapra,1.0,Moderate,193,PM2.5
+2023-02-24,Chhapra,1.0,Moderate,180,PM10
+2023-02-25,Chhapra,1.0,Poor,237,PM10
+2023-02-26,Chhapra,1.0,Poor,291,PM10
+2023-02-27,Chhapra,1.0,Poor,296,PM10
+2023-02-28,Chhapra,1.0,Very Poor,309,PM10
+2023-03-01,Chhapra,1.0,Poor,280,PM10
+2023-03-02,Chhapra,1.0,Poor,274,PM10
+2023-03-03,Chhapra,1.0,Poor,206,PM10
+2023-03-04,Chhapra,1.0,Poor,211,PM10
+2023-03-05,Chhapra,1.0,Moderate,197,PM10
+2023-03-06,Chhapra,1.0,Moderate,168,PM10
+2023-03-07,Chhapra,1.0,Moderate,188,PM10
+2023-03-08,Chhapra,1.0,Poor,229,PM2.5
+2023-03-09,Chhapra,1.0,Poor,216,PM2.5
+2023-03-10,Chhapra,1.0,Moderate,171,PM2.5
+2023-03-11,Chhapra,1.0,Poor,228,PM2.5
+2023-03-12,Chhapra,1.0,Poor,273,PM10
+2023-03-13,Chhapra,1.0,Poor,255,PM10
+2023-03-14,Chhapra,1.0,Poor,251,PM2.5
+2023-03-15,Chhapra,1.0,Poor,260,PM10
+2023-03-17,Chhapra,1.0,Poor,228,PM10
+2023-03-18,Chhapra,1.0,Very Poor,314,PM10
+2023-03-19,Chhapra,1.0,Moderate,186,PM10
+2023-03-20,Chhapra,1.0,Moderate,165,PM10
+2023-03-21,Chhapra,1.0,Moderate,143,PM10
+2023-03-22,Chhapra,1.0,Moderate,149,PM10
+2023-03-23,Chhapra,1.0,Moderate,141,PM10
+2023-03-24,Chhapra,1.0,Poor,207,PM10
+2023-03-25,Chhapra,1.0,Very Poor,337,PM10
+2023-03-26,Chhapra,1.0,Poor,214,PM10
+2023-03-27,Chhapra,1.0,Moderate,171,PM10
+2023-03-28,Chhapra,1.0,Moderate,170,PM10
+2023-03-29,Chhapra,1.0,Moderate,162,PM10
+2023-03-30,Chhapra,1.0,Moderate,181,PM10
+2023-03-31,Chhapra,1.0,Poor,291,PM10
+2023-04-02,Chhapra,1.0,Poor,209,PM10
+2023-04-03,Chhapra,1.0,Moderate,139,PM10
+2023-04-04,Chhapra,1.0,Moderate,193,PM10
+2023-04-05,Chhapra,1.0,Moderate,172,PM10
+2023-04-06,Chhapra,1.0,Poor,262,PM10
+2023-04-07,Chhapra,1.0,Poor,207,PM10
+2023-04-09,Chhapra,1.0,Poor,223,PM10
+2023-04-10,Chhapra,1.0,Poor,212,PM10
+2023-04-11,Chhapra,1.0,Poor,212,PM10
+2023-04-12,Chhapra,1.0,Poor,234,PM10
+2023-04-14,Chhapra,1.0,Poor,266,PM10
+2023-04-15,Chhapra,1.0,Poor,263,PM10
+2023-04-16,Chhapra,1.0,Poor,283,PM10
+2023-04-17,Chhapra,1.0,Poor,223,PM10
+2023-04-18,Chhapra,1.0,Poor,226,PM10
+2023-04-19,Chhapra,1.0,Poor,248,PM10
+2023-04-20,Chhapra,1.0,Poor,266,PM10
+2023-04-21,Chhapra,1.0,Poor,290,PM10
+2023-04-22,Chhapra,1.0,Moderate,168,PM10
+2023-04-23,Chhapra,1.0,Moderate,155,PM10
+2023-04-24,Chhapra,1.0,Moderate,183,PM10
+2023-04-25,Chhapra,1.0,Moderate,181,PM10
+2023-04-26,Chhapra,1.0,Poor,272,PM10
+2023-04-27,Chhapra,1.0,Poor,246,PM10
+2023-04-28,Chhapra,1.0,Poor,217,PM10
+2023-04-29,Chhapra,1.0,Poor,220,PM10
+2023-05-02,Chhapra,1.0,Moderate,178,PM10
+2023-05-03,Chhapra,1.0,Moderate,174,PM10
+2023-05-04,Chhapra,1.0,Moderate,124,PM10
+2023-05-05,Chhapra,1.0,Moderate,162,PM10
+2023-05-06,Chhapra,1.0,Moderate,141,PM10
+2023-05-07,Chhapra,1.0,Poor,206,PM10
+2023-05-08,Chhapra,1.0,Poor,209,PM10
+2023-05-09,Chhapra,1.0,Poor,208,PM10
+2023-05-10,Chhapra,1.0,Moderate,200,PM10
+2023-05-12,Chhapra,1.0,Poor,230,PM10
+2023-05-13,Chhapra,1.0,Poor,238,PM10
+2023-05-14,Chhapra,1.0,Poor,220,PM10
+2023-05-15,Chhapra,1.0,Poor,217,PM10
+2023-05-16,Chhapra,1.0,Poor,202,PM10
+2023-05-17,Chhapra,1.0,Poor,218,PM10
+2023-05-18,Chhapra,1.0,Moderate,180,PM10
+2023-05-19,Chhapra,1.0,Moderate,162,PM10
+2023-05-20,Chhapra,1.0,Very Poor,326,PM10
+2023-05-21,Chhapra,1.0,Poor,263,PM10
+2023-05-22,Chhapra,1.0,Moderate,199,PM10
+2023-05-23,Chhapra,1.0,Moderate,167,PM10
+2023-05-24,Chhapra,1.0,Moderate,128,PM10
+2023-05-25,Chhapra,1.0,Moderate,195,PM10
+2023-05-26,Chhapra,1.0,Poor,228,PM10
+2023-05-28,Chhapra,1.0,Poor,241,PM10
+2023-05-29,Chhapra,1.0,Moderate,186,PM10
+2023-05-31,Chhapra,1.0,Poor,228,PM10
+2023-06-01,Chhapra,1.0,Moderate,174,PM10
+2023-06-02,Chhapra,1.0,Moderate,166,PM10
+2023-06-03,Chhapra,1.0,Moderate,174,PM10
+2023-06-04,Chhapra,1.0,Poor,211,PM10
+2023-06-05,Chhapra,1.0,Poor,252,PM10
+2023-06-06,Chhapra,1.0,Poor,275,PM10
+2023-06-07,Chhapra,1.0,Poor,247,PM10
+2023-06-08,Chhapra,1.0,Poor,204,PM10
+2023-06-09,Chhapra,1.0,Poor,214,PM10
+2023-06-10,Chhapra,1.0,Poor,211,PM10
+2023-06-11,Chhapra,1.0,Moderate,178,PM10
+2023-06-13,Chhapra,1.0,Poor,243,PM10
+2023-06-14,Chhapra,1.0,Poor,270,PM10
+2023-06-15,Chhapra,1.0,Very Poor,386,PM10
+2023-06-16,Chhapra,1.0,Very Poor,372,PM10
+2023-06-17,Chhapra,1.0,Poor,285,PM10
+2023-06-18,Chhapra,1.0,Poor,279,PM10
+2023-06-19,Chhapra,1.0,Moderate,199,PM10
+2023-06-20,Chhapra,1.0,Moderate,178,PM10
+2023-06-21,Chhapra,1.0,Poor,225,PM10
+2023-06-22,Chhapra,1.0,Moderate,197,PM10
+2023-06-23,Chhapra,1.0,Poor,221,PM10
+2023-06-24,Chhapra,1.0,Moderate,104,CO
+2023-06-25,Chhapra,1.0,Moderate,152,PM10
+2023-06-26,Chhapra,1.0,Moderate,145,PM10
+2023-06-27,Chhapra,1.0,Moderate,153,PM10
+2023-06-28,Chhapra,1.0,Moderate,130,PM10
+2023-06-29,Chhapra,1.0,Moderate,176,PM10
+2023-06-30,Chhapra,1.0,Poor,282,PM10
+2023-07-01,Chhapra,1.0,Satisfactory,99,CO
+2023-07-02,Chhapra,1.0,Satisfactory,99,CO
+2023-07-03,Chhapra,1.0,Satisfactory,96,CO
+2023-07-04,Chhapra,1.0,Moderate,102,CO
+2023-07-05,Chhapra,1.0,Satisfactory,96,CO
+2023-07-06,Chhapra,1.0,Moderate,106,CO
+2023-07-07,Chhapra,1.0,Moderate,101,CO
+2023-07-08,Chhapra,1.0,Moderate,107,CO
+2023-07-09,Chhapra,1.0,Moderate,115,CO
+2023-07-10,Chhapra,1.0,Moderate,117,CO
+2023-07-11,Chhapra,1.0,Satisfactory,97,CO
+2023-07-12,Chhapra,1.0,Moderate,106,CO
+2023-07-14,Chhapra,1.0,Moderate,104,CO
+2023-07-15,Chhapra,1.0,Satisfactory,78,CO
+2023-07-16,Chhapra,1.0,Satisfactory,85,CO
+2023-07-17,Chhapra,1.0,Satisfactory,92,CO
+2023-07-19,Chhapra,1.0,Satisfactory,95,CO
+2023-07-20,Chhapra,1.0,Good,50,PM2.5
+2023-07-21,Chhapra,1.0,Satisfactory,52,CO
+2023-07-22,Chhapra,1.0,Good,30,PM2.5
+2023-07-23,Chhapra,1.0,Good,22,PM2.5
+2023-07-24,Chhapra,1.0,Good,30,PM2.5
+2023-07-25,Chhapra,1.0,Satisfactory,89,CO
+2023-07-26,Chhapra,1.0,Satisfactory,81,CO
+2023-07-27,Chhapra,1.0,Satisfactory,95,CO
+2023-07-28,Chhapra,1.0,Satisfactory,94,CO
+2023-07-29,Chhapra,1.0,Satisfactory,93,CO
+2023-07-30,Chhapra,1.0,Satisfactory,62,PM2.5
+2023-08-01,Chhapra,1.0,Satisfactory,74,CO
+2023-08-03,Chhapra,1.0,Satisfactory,63,CO
+2023-08-04,Chhapra,1.0,Satisfactory,71,CO
+2023-08-05,Chhapra,1.0,Satisfactory,89,CO
+2023-08-06,Chhapra,1.0,Satisfactory,98,CO
+2023-08-07,Chhapra,1.0,Satisfactory,84,PM2.5
+2023-08-08,Chhapra,1.0,Satisfactory,68,CO
+2023-08-09,Chhapra,1.0,Satisfactory,53,CO
+2023-08-10,Chhapra,1.0,Satisfactory,67,CO
+2023-08-11,Chhapra,1.0,Satisfactory,76,CO
+2023-08-12,Chhapra,1.0,Satisfactory,61,CO
+2023-08-15,Chhapra,1.0,Poor,202,PM2.5
+2023-08-16,Chhapra,1.0,Moderate,179,PM10
+2023-08-17,Chhapra,1.0,Moderate,123,PM10
+2023-08-19,Chhapra,1.0,Satisfactory,74,PM10
+2023-08-20,Chhapra,1.0,Satisfactory,77,PM10
+2023-08-23,Chhapra,1.0,Satisfactory,67,CO
+2023-08-24,Chhapra,1.0,Satisfactory,66,CO
+2023-08-25,Chhapra,1.0,Moderate,112,NO2
+2023-08-27,Chhapra,1.0,Moderate,198,PM10
+2023-08-28,Chhapra,1.0,Poor,231,PM10
+2023-08-29,Chhapra,1.0,Moderate,199,PM10
+2023-08-30,Chhapra,1.0,Moderate,189,PM10
+2023-08-31,Chhapra,1.0,Moderate,182,PM10
+2023-09-02,Chhapra,1.0,Poor,285,PM10
+2023-09-03,Chhapra,1.0,Moderate,160,PM10
+2023-09-04,Chhapra,1.0,Satisfactory,65,PM10
+2023-09-05,Chhapra,1.0,Moderate,103,PM10
+2023-09-06,Chhapra,1.0,Satisfactory,82,PM10
+2023-09-07,Chhapra,1.0,Satisfactory,88,PM10
+2023-09-08,Chhapra,1.0,Satisfactory,63,PM10
+2023-09-09,Chhapra,1.0,Satisfactory,65,PM10
+2023-09-10,Chhapra,1.0,Moderate,165,PM10
+2023-09-11,Chhapra,1.0,Poor,230,PM10
+2023-09-12,Chhapra,1.0,Very Poor,311,PM10
+2023-09-13,Chhapra,1.0,Poor,271,PM10
+2023-09-14,Chhapra,1.0,Satisfactory,63,PM10
+2023-09-16,Chhapra,1.0,Satisfactory,74,PM10
+2023-09-17,Chhapra,1.0,Satisfactory,91,PM10
+2023-09-19,Chhapra,1.0,Satisfactory,58,PM10
+2023-09-20,Chhapra,1.0,Satisfactory,57,PM10
+2023-09-23,Chhapra,1.0,Satisfactory,67,CO
+2023-09-24,Chhapra,1.0,Satisfactory,77,CO
+2023-09-25,Chhapra,1.0,Satisfactory,72,CO
+2023-09-26,Chhapra,1.0,Satisfactory,82,CO
+2023-09-27,Chhapra,1.0,Moderate,105,PM10
+2023-09-28,Chhapra,1.0,Satisfactory,94,PM2.5
+2023-09-29,Chhapra,1.0,Satisfactory,79,PM10
+2023-09-30,Chhapra,1.0,Moderate,126,NO2
+2023-10-01,Chhapra,1.0,Poor,229,NO2
+2023-10-02,Chhapra,1.0,Moderate,169,NO2
+2023-10-03,Chhapra,1.0,Satisfactory,74,CO
+2023-10-05,Chhapra,1.0,Satisfactory,75,CO
+2023-10-06,Chhapra,1.0,Satisfactory,58,CO
+2023-10-07,Chhapra,1.0,Satisfactory,62,CO
+2023-10-08,Chhapra,1.0,Satisfactory,89,PM10
+2023-10-09,Chhapra,1.0,Moderate,106,PM10
+2023-10-11,Chhapra,1.0,Satisfactory,100,PM10
+2023-10-12,Chhapra,1.0,Satisfactory,99,PM10
+2023-10-13,Chhapra,1.0,Moderate,104,PM10
+2023-10-14,Chhapra,1.0,Satisfactory,88,PM2.5
+2023-10-15,Chhapra,1.0,Satisfactory,74,CO
+2023-10-16,Chhapra,1.0,Satisfactory,78,CO
+2023-10-17,Chhapra,1.0,Satisfactory,63,CO
+2023-10-18,Chhapra,1.0,Satisfactory,64,CO
+2023-10-19,Chhapra,1.0,Satisfactory,66,CO
+2023-10-20,Chhapra,1.0,Satisfactory,64,CO
+2023-10-21,Chhapra,1.0,Satisfactory,74,CO
+2023-10-23,Chhapra,1.0,Satisfactory,70,CO
+2023-10-24,Chhapra,1.0,Satisfactory,80,CO
+2023-10-25,Chhapra,1.0,Satisfactory,78,CO
+2023-10-26,Chhapra,1.0,Satisfactory,67,CO
+2023-10-30,Chhapra,1.0,Moderate,132,PM2.5
+2023-10-31,Chhapra,1.0,Satisfactory,84,PM10
+2023-11-01,Chhapra,1.0,Satisfactory,88,PM2.5
+2023-11-02,Chhapra,1.0,Satisfactory,80,CO
+2023-11-03,Chhapra,1.0,Satisfactory,78,CO
+2023-11-04,Chhapra,1.0,Moderate,178,PM2.5
+2023-11-05,Chhapra,1.0,Poor,240,PM2.5
+2023-11-06,Chhapra,1.0,Poor,270,PM2.5
+2023-11-07,Chhapra,1.0,Very Poor,348,PM2.5
+2023-11-08,Chhapra,1.0,Very Poor,302,PM2.5
+2023-11-09,Chhapra,1.0,Very Poor,329,PM2.5
+2023-11-10,Chhapra,1.0,Very Poor,366,PM2.5
+2023-11-11,Chhapra,1.0,Very Poor,376,PM2.5
+2023-11-12,Chhapra,1.0,Very Poor,324,PM2.5
+2023-11-13,Chhapra,1.0,Very Poor,360,PM2.5
+2023-11-14,Chhapra,1.0,Very Poor,386,PM2.5
+2023-11-15,Chhapra,1.0,Poor,263,PM2.5
+2023-11-16,Chhapra,1.0,Poor,202,PM2.5
+2023-11-17,Chhapra,1.0,Poor,229,PM2.5
+2023-11-18,Chhapra,1.0,Poor,224,PM2.5
+2023-11-19,Chhapra,1.0,Poor,212,PM2.5
+2023-11-20,Chhapra,1.0,Very Poor,305,PM2.5
+2023-11-21,Chhapra,1.0,Very Poor,330,PM2.5
+2023-11-22,Chhapra,1.0,Very Poor,311,PM2.5
+2023-11-24,Chhapra,1.0,Very Poor,360,PM2.5
+2023-11-25,Chhapra,1.0,Very Poor,354,PM2.5
+2023-11-26,Chhapra,1.0,Very Poor,362,PM2.5
+2023-11-27,Chhapra,1.0,Poor,300,PM2.5
+2023-11-28,Chhapra,1.0,Very Poor,306,PM2.5
+2023-11-29,Chhapra,1.0,Very Poor,312,PM2.5
+2023-11-30,Chhapra,1.0,Very Poor,336,PM2.5
+2023-12-02,Chhapra,1.0,Poor,295,PM2.5
+2023-12-03,Chhapra,1.0,Poor,255,PM2.5
+2023-12-04,Chhapra,1.0,Poor,275,PM2.5
+2023-12-05,Chhapra,1.0,Poor,214,PM2.5
+2023-12-06,Chhapra,1.0,Poor,230,PM2.5
+2023-12-08,Chhapra,1.0,Satisfactory,86,PM2.5
+2023-12-09,Chhapra,1.0,Moderate,170,PM2.5
+2023-12-10,Chhapra,1.0,Very Poor,312,PM2.5
+2023-12-11,Chhapra,1.0,Very Poor,309,PM2.5
+2023-12-12,Chhapra,1.0,Very Poor,340,PM2.5
+2023-12-13,Chhapra,1.0,Very Poor,338,PM2.5
+2023-12-14,Chhapra,1.0,Very Poor,327,PM2.5
+2023-12-15,Chhapra,1.0,Very Poor,332,PM2.5
+2023-12-16,Chhapra,1.0,Very Poor,323,PM2.5
+2023-12-17,Chhapra,1.0,Very Poor,339,PM2.5
+2023-12-18,Chhapra,1.0,Very Poor,326,PM2.5
+2023-12-19,Chhapra,1.0,Very Poor,322,PM2.5
+2023-12-20,Chhapra,1.0,Poor,267,PM2.5
+2023-12-21,Chhapra,1.0,Poor,300,PM2.5
+2023-12-22,Chhapra,1.0,Very Poor,336,PM2.5
+2023-12-23,Chhapra,1.0,Very Poor,330,PM2.5
+2023-12-25,Chhapra,1.0,Poor,264,PM2.5
+2023-12-26,Chhapra,1.0,Very Poor,301,PM2.5
+2023-12-27,Chhapra,1.0,Very Poor,313,PM2.5
+2023-12-28,Chhapra,1.0,Very Poor,335,PM2.5
+2023-12-29,Chhapra,1.0,Very Poor,339,PM2.5
+2023-12-31,Chhapra,1.0,Poor,253,PM2.5

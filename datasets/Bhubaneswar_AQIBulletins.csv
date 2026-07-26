@@ -1,0 +1,60 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-11-02,Bhubaneswar,2.0,Satisfactory,93,PM10
+2023-11-03,Bhubaneswar,2.0,Satisfactory,64,CO
+2023-11-04,Bhubaneswar,2.0,Satisfactory,84,CO
+2023-11-05,Bhubaneswar,2.0,Satisfactory,85,CO
+2023-11-06,Bhubaneswar,2.0,Moderate,108,PM2.5
+2023-11-07,Bhubaneswar,2.0,Poor,222,PM2.5
+2023-11-08,Bhubaneswar,2.0,Moderate,199,PM2.5
+2023-11-09,Bhubaneswar,1.0,Moderate,195,PM2.5
+2023-11-10,Bhubaneswar,2.0,Poor,234,PM2.5
+2023-11-11,Bhubaneswar,2.0,Poor,245,PM2.5
+2023-11-12,Bhubaneswar,2.0,Poor,260,PM2.5
+2023-11-13,Bhubaneswar,2.0,Very Poor,380,PM2.5
+2023-11-14,Bhubaneswar,2.0,Poor,264,PM2.5
+2023-11-15,Bhubaneswar,2.0,Moderate,198,PM2.5
+2023-11-16,Bhubaneswar,2.0,Moderate,115,PM10
+2023-11-17,Bhubaneswar,2.0,Satisfactory,90,PM10
+2023-11-18,Bhubaneswar,2.0,Satisfactory,85,PM10
+2023-11-19,Bhubaneswar,2.0,Satisfactory,75,O3
+2023-11-20,Bhubaneswar,2.0,Satisfactory,98,PM10
+2023-11-21,Bhubaneswar,2.0,Satisfactory,82,O3
+2023-11-22,Bhubaneswar,2.0,Moderate,166,PM2.5
+2023-11-23,Bhubaneswar,2.0,Poor,287,PM2.5
+2023-11-24,Bhubaneswar,2.0,Poor,292,PM2.5
+2023-11-25,Bhubaneswar,2.0,Poor,293,PM2.5
+2023-11-26,Bhubaneswar,2.0,Poor,240,PM2.5
+2023-11-27,Bhubaneswar,2.0,Poor,226,PM2.5
+2023-11-28,Bhubaneswar,2.0,Poor,244,PM2.5
+2023-11-29,Bhubaneswar,2.0,Poor,267,PM2.5
+2023-11-30,Bhubaneswar,2.0,Poor,214,PM2.5
+2023-12-01,Bhubaneswar,2.0,Poor,218,PM2.5
+2023-12-02,Bhubaneswar,2.0,Moderate,142,"O3, PM10"
+2023-12-03,Bhubaneswar,2.0,Moderate,186,PM2.5
+2023-12-05,Bhubaneswar,2.0,Poor,202,PM2.5
+2023-12-06,Bhubaneswar,2.0,Satisfactory,56,PM10
+2023-12-07,Bhubaneswar,2.0,Satisfactory,58,"O3, PM10"
+2023-12-08,Bhubaneswar,2.0,Satisfactory,52,PM10
+2023-12-09,Bhubaneswar,2.0,Satisfactory,90,"O3, PM10"
+2023-12-10,Bhubaneswar,1.0,Moderate,107,PM2.5
+2023-12-11,Bhubaneswar,2.0,Moderate,160,"O3, PM10"
+2023-12-12,Bhubaneswar,2.0,Moderate,180,"O3, PM2.5"
+2023-12-13,Bhubaneswar,2.0,Poor,206,PM2.5
+2023-12-14,Bhubaneswar,2.0,Poor,210,PM2.5
+2023-12-15,Bhubaneswar,2.0,Moderate,192,PM2.5
+2023-12-16,Bhubaneswar,2.0,Poor,270,PM2.5
+2023-12-17,Bhubaneswar,2.0,Poor,257,PM2.5
+2023-12-18,Bhubaneswar,2.0,Poor,243,"O3, PM2.5"
+2023-12-19,Bhubaneswar,2.0,Poor,263,PM2.5
+2023-12-20,Bhubaneswar,2.0,Poor,294,PM2.5
+2023-12-21,Bhubaneswar,2.0,Poor,261,PM2.5
+2023-12-22,Bhubaneswar,2.0,Poor,274,"O3, PM2.5"
+2023-12-23,Bhubaneswar,2.0,Very Poor,307,PM2.5
+2023-12-24,Bhubaneswar,2.0,Poor,261,PM2.5
+2023-12-25,Bhubaneswar,2.0,Poor,272,PM2.5
+2023-12-26,Bhubaneswar,2.0,Poor,262,PM2.5
+2023-12-27,Bhubaneswar,2.0,Poor,240,"O3, PM2.5"
+2023-12-28,Bhubaneswar,2.0,Poor,266,PM2.5
+2023-12-29,Bhubaneswar,2.0,Poor,300,PM2.5
+2023-12-30,Bhubaneswar,2.0,Poor,294,PM2.5
+2023-12-31,Bhubaneswar,2.0,Poor,283,PM2.5

@@ -1,0 +1,276 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2021-12-01,Buxar,1.0,Very Poor,388,PM2.5
+2021-12-02,Buxar,1.0,Severe,403,PM2.5
+2021-12-03,Buxar,1.0,Severe,427,PM2.5
+2021-12-04,Buxar,1.0,Very Poor,393,PM10
+2021-12-05,Buxar,1.0,Very Poor,302,PM10
+2021-12-06,Buxar,1.0,Poor,214,PM10
+2021-12-07,Buxar,1.0,Poor,228,PM10
+2021-12-08,Buxar,1.0,Poor,252,PM10
+2021-12-09,Buxar,1.0,Poor,261,PM2.5
+2021-12-10,Buxar,1.0,Very Poor,343,PM2.5
+2021-12-12,Buxar,1.0,Very Poor,389,PM2.5
+2021-12-13,Buxar,1.0,Very Poor,359,PM2.5
+2021-12-14,Buxar,1.0,Severe,454,PM10
+2021-12-25,Buxar,1.0,Very Poor,373,PM10
+2021-12-26,Buxar,1.0,Severe,414,PM10
+2021-12-27,Buxar,1.0,Very Poor,370,PM2.5
+2021-12-28,Buxar,1.0,Very Poor,327,PM2.5
+2021-12-30,Buxar,1.0,Moderate,180,PM2.5
+2021-12-31,Buxar,1.0,Moderate,162,PM2.5
+2022-01-01,Buxar,1.0,Poor,249,PM2.5
+2022-01-02,Buxar,1.0,Very Poor,302,PM2.5
+2022-01-03,Buxar,1.0,Very Poor,357,PM10
+2022-01-04,Buxar,1.0,Very Poor,370,PM2.5
+2022-01-05,Buxar,1.0,Very Poor,375,PM10
+2022-01-06,Buxar,1.0,Severe,454,PM10
+2022-01-07,Buxar,1.0,Very Poor,357,PM10
+2022-01-08,Buxar,1.0,Poor,247,PM2.5
+2022-01-09,Buxar,1.0,Poor,254,PM2.5
+2022-01-10,Buxar,1.0,Moderate,187,PM2.5
+2022-01-11,Buxar,1.0,Poor,230,PM10
+2022-01-12,Buxar,1.0,Poor,264,PM2.5
+2022-01-13,Buxar,1.0,Moderate,187,PM2.5
+2022-01-14,Buxar,1.0,Poor,284,PM2.5
+2022-01-15,Buxar,1.0,Very Poor,335,PM2.5
+2022-01-16,Buxar,1.0,Very Poor,317,PM2.5
+2022-01-17,Buxar,1.0,Very Poor,347,PM10
+2022-01-18,Buxar,1.0,Very Poor,348,PM2.5
+2022-01-19,Buxar,1.0,Severe,408,PM10
+2022-01-20,Buxar,1.0,Very Poor,398,PM10
+2022-01-21,Buxar,1.0,Severe,431,PM10
+2022-01-22,Buxar,1.0,Severe,409,PM10
+2022-01-23,Buxar,1.0,Very Poor,325,PM2.5
+2022-01-25,Buxar,1.0,Poor,300,PM2.5
+2022-01-26,Buxar,1.0,Poor,218,PM2.5
+2022-01-27,Buxar,1.0,Poor,264,PM10
+2022-01-29,Buxar,1.0,Poor,261,PM2.5
+2022-01-30,Buxar,1.0,Poor,289,PM2.5
+2022-02-02,Buxar,1.0,Very Poor,379,PM2.5
+2022-02-03,Buxar,1.0,Very Poor,360,PM2.5
+2022-02-04,Buxar,1.0,Poor,209,PM2.5
+2022-02-05,Buxar,1.0,Satisfactory,99,PM10
+2022-02-06,Buxar,1.0,Poor,219,PM2.5
+2022-02-07,Buxar,1.0,Poor,236,PM2.5
+2022-02-08,Buxar,1.0,Poor,269,PM2.5
+2022-02-09,Buxar,1.0,Very Poor,315,PM2.5
+2022-02-10,Buxar,1.0,Very Poor,351,PM2.5
+2022-02-11,Buxar,1.0,Moderate,168,PM10
+2022-02-12,Buxar,1.0,Moderate,168,PM10
+2022-02-13,Buxar,1.0,Poor,203,PM2.5
+2022-02-15,Buxar,1.0,Poor,282,PM2.5
+2022-02-16,Buxar,1.0,Poor,283,PM2.5
+2022-02-17,Buxar,1.0,Very Poor,316,PM10
+2022-02-18,Buxar,1.0,Moderate,192,PM10
+2022-02-19,Buxar,1.0,Poor,213,PM2.5
+2022-02-20,Buxar,1.0,Moderate,176,PM10
+2022-02-21,Buxar,1.0,Moderate,170,PM10
+2022-02-22,Buxar,1.0,Poor,213,PM2.5
+2022-02-23,Buxar,1.0,Poor,250,PM2.5
+2022-02-25,Buxar,1.0,Very Poor,325,PM2.5
+2022-02-26,Buxar,1.0,Very Poor,317,PM2.5
+2022-02-27,Buxar,1.0,Poor,221,PM2.5
+2022-02-28,Buxar,1.0,Poor,203,PM2.5
+2022-03-01,Buxar,1.0,Moderate,197,PM10
+2022-03-02,Buxar,1.0,Moderate,196,PM10
+2022-03-03,Buxar,1.0,Poor,254,PM2.5
+2022-03-04,Buxar,1.0,Poor,251,PM2.5
+2022-03-05,Buxar,1.0,Poor,249,PM2.5
+2022-03-06,Buxar,1.0,Poor,201,PM2.5
+2022-03-07,Buxar,1.0,Poor,234,PM2.5
+2022-03-08,Buxar,1.0,Poor,287,PM2.5
+2022-03-09,Buxar,1.0,Poor,256,PM2.5
+2022-03-10,Buxar,1.0,Poor,269,PM2.5
+2022-03-11,Buxar,1.0,Poor,225,PM10
+2022-03-12,Buxar,1.0,Poor,210,PM2.5
+2022-03-13,Buxar,1.0,Poor,244,PM2.5
+2022-03-14,Buxar,1.0,Poor,240,PM2.5
+2022-03-15,Buxar,1.0,Poor,213,PM10
+2022-03-16,Buxar,1.0,Poor,221,PM2.5
+2022-03-17,Buxar,1.0,Poor,271,PM2.5
+2022-03-18,Buxar,1.0,Very Poor,309,PM2.5
+2022-03-19,Buxar,1.0,Poor,290,PM2.5
+2022-03-20,Buxar,1.0,Poor,254,PM2.5
+2022-03-21,Buxar,1.0,Poor,232,PM2.5
+2022-03-22,Buxar,1.0,Poor,224,PM2.5
+2022-03-23,Buxar,1.0,Poor,250,PM2.5
+2022-03-24,Buxar,1.0,Poor,220,PM10
+2022-03-25,Buxar,1.0,Poor,232,PM10
+2022-04-10,Buxar,1.0,Poor,214,PM10
+2022-04-11,Buxar,1.0,Moderate,103,PM2.5
+2022-04-12,Buxar,1.0,Moderate,108,PM2.5
+2022-04-14,Buxar,1.0,Very Poor,365,PM10
+2022-04-15,Buxar,1.0,Very Poor,330,PM10
+2022-04-16,Buxar,1.0,Very Poor,330,PM10
+2022-04-17,Buxar,1.0,Very Poor,302,PM10
+2022-04-18,Buxar,1.0,Poor,299,PM10
+2022-04-19,Buxar,1.0,Poor,271,PM10
+2022-04-20,Buxar,1.0,Poor,259,PM10
+2022-04-21,Buxar,1.0,Moderate,196,PM10
+2022-04-22,Buxar,1.0,Poor,202,PM10
+2022-04-23,Buxar,1.0,Very Poor,357,PM10
+2022-04-24,Buxar,1.0,Very Poor,383,PM10
+2022-04-25,Buxar,1.0,Very Poor,346,PM10
+2022-04-26,Buxar,1.0,Very Poor,332,PM10
+2022-04-27,Buxar,1.0,Very Poor,350,PM10
+2022-04-28,Buxar,1.0,Very Poor,302,PM10
+2022-04-29,Buxar,1.0,Poor,248,PM2.5
+2022-04-30,Buxar,1.0,Very Poor,308,PM10
+2022-05-01,Buxar,1.0,Poor,204,PM10
+2022-05-02,Buxar,1.0,Moderate,188,PM10
+2022-05-04,Buxar,1.0,Moderate,134,PM10
+2022-05-05,Buxar,1.0,Satisfactory,68,PM2.5
+2022-05-06,Buxar,1.0,Moderate,121,PM2.5
+2022-05-07,Buxar,1.0,Moderate,129,PM10
+2022-05-08,Buxar,1.0,Moderate,189,PM2.5
+2022-05-09,Buxar,1.0,Moderate,165,PM2.5
+2022-05-11,Buxar,1.0,Moderate,108,CO
+2022-05-12,Buxar,1.0,Moderate,105,CO
+2022-05-13,Buxar,1.0,Moderate,195,PM2.5
+2022-05-14,Buxar,1.0,Moderate,140,PM10
+2022-05-15,Buxar,1.0,Moderate,171,PM2.5
+2022-05-16,Buxar,1.0,Poor,202,PM2.5
+2022-05-17,Buxar,1.0,Moderate,181,PM10
+2022-05-18,Buxar,1.0,Moderate,164,PM10
+2022-05-19,Buxar,1.0,Poor,206,PM10
+2022-05-20,Buxar,1.0,Poor,246,PM10
+2022-05-21,Buxar,1.0,Moderate,156,PM10
+2022-05-22,Buxar,1.0,Moderate,161,PM10
+2022-05-24,Buxar,1.0,Moderate,150,PM10
+2022-05-27,Buxar,1.0,Poor,214,PM2.5
+2022-05-28,Buxar,1.0,Moderate,186,PM2.5
+2022-05-29,Buxar,1.0,Moderate,174,PM2.5
+2022-05-31,Buxar,1.0,Poor,266,PM2.5
+2022-06-01,Buxar,1.0,Poor,254,PM2.5
+2022-06-02,Buxar,1.0,Very Poor,320,PM2.5
+2022-06-03,Buxar,1.0,Poor,242,PM2.5
+2022-06-04,Buxar,1.0,Poor,250,PM2.5
+2022-06-05,Buxar,1.0,Moderate,189,PM2.5
+2022-06-06,Buxar,1.0,Poor,233,PM2.5
+2022-06-07,Buxar,1.0,Moderate,198,PM2.5
+2022-06-08,Buxar,1.0,Poor,229,PM2.5
+2022-06-09,Buxar,1.0,Poor,262,PM2.5
+2022-06-10,Buxar,1.0,Moderate,130,PM2.5
+2022-06-11,Buxar,1.0,Poor,236,PM2.5
+2022-06-13,Buxar,1.0,Poor,202,PM10
+2022-06-14,Buxar,1.0,Poor,222,PM10
+2022-06-15,Buxar,1.0,Poor,268,PM10
+2022-06-16,Buxar,1.0,Moderate,134,PM10
+2022-06-17,Buxar,1.0,Satisfactory,100,PM10
+2022-06-23,Buxar,1.0,Moderate,198,PM2.5
+2022-06-24,Buxar,1.0,Moderate,175,PM10
+2022-06-25,Buxar,1.0,Moderate,157,PM2.5
+2022-06-26,Buxar,1.0,Moderate,153,PM2.5
+2022-06-28,Buxar,1.0,Poor,213,PM2.5
+2022-06-29,Buxar,1.0,Moderate,200,PM2.5
+2022-07-02,Buxar,1.0,Moderate,143,PM2.5
+2022-07-03,Buxar,1.0,Moderate,116,PM10
+2022-07-04,Buxar,1.0,Moderate,120,PM2.5
+2022-07-05,Buxar,1.0,Moderate,183,PM2.5
+2022-07-06,Buxar,1.0,Moderate,118,PM2.5
+2022-07-07,Buxar,1.0,Satisfactory,92,CO
+2022-07-08,Buxar,1.0,Satisfactory,96,PM10
+2022-07-09,Buxar,1.0,Satisfactory,99,CO
+2022-07-10,Buxar,1.0,Satisfactory,86,CO
+2022-07-13,Buxar,1.0,Satisfactory,85,PM10
+2022-07-15,Buxar,1.0,Satisfactory,88,CO
+2022-07-16,Buxar,1.0,Satisfactory,86,CO
+2022-07-17,Buxar,1.0,Satisfactory,80,CO
+2022-07-19,Buxar,1.0,Satisfactory,86,PM10
+2022-07-20,Buxar,1.0,Moderate,109,CO
+2022-07-21,Buxar,1.0,Moderate,135,PM2.5
+2022-07-22,Buxar,1.0,Moderate,132,PM2.5
+2022-07-23,Buxar,1.0,Satisfactory,84,CO
+2022-07-24,Buxar,1.0,Satisfactory,94,PM2.5
+2022-07-25,Buxar,1.0,Satisfactory,86,CO
+2022-07-26,Buxar,1.0,Satisfactory,98,PM10
+2022-07-27,Buxar,1.0,Satisfactory,70,CO
+2022-07-28,Buxar,1.0,Moderate,108,CO
+2022-07-29,Buxar,1.0,Moderate,106,CO
+2022-07-30,Buxar,1.0,Satisfactory,92,CO
+2022-07-31,Buxar,1.0,Satisfactory,78,CO
+2022-08-01,Buxar,1.0,Satisfactory,94,CO
+2022-08-02,Buxar,1.0,Moderate,112,PM10
+2022-08-03,Buxar,1.0,Moderate,122,PM2.5
+2022-08-04,Buxar,1.0,Moderate,171,PM2.5
+2022-08-05,Buxar,1.0,Poor,267,PM2.5
+2022-08-06,Buxar,1.0,Moderate,191,PM2.5
+2022-08-07,Buxar,1.0,Moderate,101,PM2.5
+2022-08-08,Buxar,1.0,Moderate,105,PM2.5
+2022-08-09,Buxar,1.0,Satisfactory,60,PM10
+2022-08-10,Buxar,1.0,Satisfactory,54,PM10
+2022-08-12,Buxar,1.0,Satisfactory,66,PM10
+2022-08-13,Buxar,1.0,Moderate,150,PM10
+2022-08-14,Buxar,1.0,Satisfactory,86,PM10
+2022-08-16,Buxar,1.0,Satisfactory,58,CO
+2022-08-17,Buxar,1.0,Moderate,154,PM10
+2022-08-18,Buxar,1.0,Moderate,124,PM10
+2022-08-19,Buxar,1.0,Moderate,119,PM10
+2022-08-24,Buxar,1.0,Satisfactory,72,CO
+2022-08-25,Buxar,1.0,Moderate,134,PM2.5
+2022-08-26,Buxar,1.0,Poor,281,PM2.5
+2022-09-01,Buxar,1.0,Moderate,144,PM10
+2022-09-02,Buxar,1.0,Satisfactory,62,PM2.5
+2022-09-04,Buxar,1.0,Satisfactory,76,PM10
+2022-09-05,Buxar,1.0,Satisfactory,63,CO
+2022-09-06,Buxar,1.0,Poor,270,PM10
+2022-09-07,Buxar,1.0,Poor,272,PM10
+2022-09-08,Buxar,1.0,Poor,294,PM10
+2022-09-09,Buxar,1.0,Moderate,129,PM10
+2022-09-10,Buxar,1.0,Satisfactory,99,PM10
+2022-09-12,Buxar,1.0,Good,47,CO
+2022-09-13,Buxar,1.0,Satisfactory,65,CO
+2022-09-15,Buxar,1.0,Moderate,104,CO
+2022-09-16,Buxar,1.0,Satisfactory,86,CO
+2022-09-17,Buxar,1.0,Satisfactory,80,CO
+2022-09-18,Buxar,1.0,Satisfactory,61,CO
+2022-09-19,Buxar,1.0,Satisfactory,79,PM10
+2022-09-20,Buxar,1.0,Good,50,CO
+2022-09-22,Buxar,1.0,Good,49,PM10
+2022-09-23,Buxar,1.0,Satisfactory,85,PM10
+2022-09-24,Buxar,1.0,Satisfactory,95,CO
+2022-09-25,Buxar,1.0,Moderate,113,CO
+2022-09-26,Buxar,1.0,Satisfactory,79,CO
+2022-09-27,Buxar,1.0,Satisfactory,86,CO
+2022-09-28,Buxar,1.0,Satisfactory,82,CO
+2022-09-29,Buxar,1.0,Satisfactory,79,PM10
+2022-10-04,Buxar,1.0,Satisfactory,66,CO
+2022-10-05,Buxar,1.0,Satisfactory,83,CO
+2022-10-06,Buxar,1.0,Satisfactory,91,CO
+2022-10-07,Buxar,1.0,Moderate,107,CO
+2022-10-08,Buxar,1.0,Satisfactory,95,CO
+2022-10-09,Buxar,1.0,Satisfactory,97,CO
+2022-10-10,Buxar,1.0,Satisfactory,75,CO
+2022-10-11,Buxar,1.0,Satisfactory,73,CO
+2022-10-12,Buxar,1.0,Satisfactory,67,CO
+2022-10-13,Buxar,1.0,Satisfactory,68,PM10
+2022-10-14,Buxar,1.0,Satisfactory,85,CO
+2022-10-16,Buxar,1.0,Moderate,148,PM10
+2022-10-18,Buxar,1.0,Moderate,149,PM10
+2022-10-19,Buxar,1.0,Moderate,148,PM10
+2022-10-20,Buxar,1.0,Poor,232,PM10
+2022-10-21,Buxar,1.0,Poor,215,PM10
+2022-10-22,Buxar,1.0,Poor,209,PM10
+2022-10-23,Buxar,1.0,Moderate,153,PM10
+2022-10-24,Buxar,1.0,Moderate,114,PM10
+2022-10-25,Buxar,1.0,Moderate,154,PM10
+2022-10-26,Buxar,1.0,Moderate,155,PM10
+2022-10-28,Buxar,1.0,Poor,221,PM10
+2022-10-29,Buxar,1.0,Poor,235,PM10
+2022-10-30,Buxar,1.0,Poor,225,PM10
+2022-11-11,Buxar,1.0,Very Poor,377,PM2.5
+2022-11-13,Buxar,1.0,Very Poor,313,PM2.5
+2022-11-15,Buxar,1.0,Very Poor,390,PM2.5
+2022-11-16,Buxar,1.0,Very Poor,350,PM2.5
+2022-11-17,Buxar,1.0,Very Poor,341,PM2.5
+2022-11-18,Buxar,1.0,Very Poor,363,PM2.5
+2022-11-20,Buxar,1.0,Very Poor,362,PM2.5
+2022-11-21,Buxar,1.0,Very Poor,376,PM2.5
+2022-11-23,Buxar,1.0,Very Poor,376,PM2.5
+2022-11-24,Buxar,1.0,Very Poor,373,PM2.5
+2022-11-25,Buxar,1.0,Very Poor,380,PM2.5
+2022-11-26,Buxar,1.0,Severe,418,PM2.5
+2022-11-27,Buxar,1.0,Very Poor,389,PM2.5
+2022-11-28,Buxar,1.0,Severe,418,PM2.5
+2022-11-29,Buxar,1.0,Severe,439,PM2.5
+2022-11-30,Buxar,1.0,Severe,443,PM2.5

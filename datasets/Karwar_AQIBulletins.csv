@@ -1,0 +1,12 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-12-21,Karwar,1.0,Poor,222,PM2.5
+2023-12-22,Karwar,1.0,Moderate,190,PM2.5
+2023-12-23,Karwar,1.0,Poor,218,PM2.5
+2023-12-24,Karwar,1.0,Moderate,167,PM2.5
+2023-12-25,Karwar,1.0,Moderate,115,PM2.5
+2023-12-26,Karwar,1.0,Satisfactory,92,PM10
+2023-12-27,Karwar,1.0,Satisfactory,93,PM10
+2023-12-28,Karwar,1.0,Satisfactory,96,PM10
+2023-12-29,Karwar,1.0,Satisfactory,73,PM10
+2023-12-30,Karwar,1.0,Satisfactory,67,PM10
+2023-12-31,Karwar,1.0,Satisfactory,66,PM10

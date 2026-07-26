@@ -1,0 +1,613 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2021-11-23,Purnia,1.0,Very Poor,384,PM2.5
+2021-11-24,Purnia,1.0,Moderate,188,PM10
+2021-11-25,Purnia,1.0,Poor,272,PM2.5
+2021-11-26,Purnia,1.0,Poor,246,PM2.5
+2021-11-27,Purnia,1.0,Very Poor,332,PM2.5
+2021-11-28,Purnia,1.0,Very Poor,315,PM2.5
+2021-11-29,Purnia,1.0,Very Poor,320,PM2.5
+2021-11-30,Purnia,1.0,Very Poor,366,PM2.5
+2021-12-01,Purnia,1.0,Very Poor,303,PM2.5
+2021-12-02,Purnia,1.0,Poor,294,PM2.5
+2021-12-03,Purnia,1.0,Very Poor,303,PM2.5
+2021-12-04,Purnia,1.0,Very Poor,323,PM2.5
+2021-12-05,Purnia,1.0,Poor,291,PM2.5
+2021-12-06,Purnia,1.0,Poor,279,PM2.5
+2021-12-07,Purnia,1.0,Poor,295,PM2.5
+2021-12-08,Purnia,1.0,Poor,287,PM2.5
+2021-12-09,Purnia,1.0,Very Poor,306,PM2.5
+2021-12-10,Purnia,1.0,Poor,248,PM2.5
+2021-12-12,Purnia,1.0,Very Poor,335,PM2.5
+2021-12-13,Purnia,1.0,Very Poor,335,PM2.5
+2021-12-14,Purnia,1.0,Very Poor,345,PM2.5
+2021-12-17,Purnia,1.0,Very Poor,312,PM2.5
+2021-12-18,Purnia,1.0,Very Poor,318,PM2.5
+2021-12-21,Purnia,1.0,Very Poor,375,PM2.5
+2021-12-22,Purnia,1.0,Very Poor,326,PM2.5
+2021-12-23,Purnia,1.0,Very Poor,325,PM2.5
+2021-12-24,Purnia,1.0,Very Poor,355,PM2.5
+2021-12-25,Purnia,1.0,Poor,239,PM10
+2021-12-26,Purnia,1.0,Poor,207,PM10
+2021-12-27,Purnia,1.0,Poor,298,PM2.5
+2021-12-28,Purnia,1.0,Poor,286,PM2.5
+2021-12-30,Purnia,1.0,Satisfactory,84,PM2.5
+2021-12-31,Purnia,1.0,Poor,260,PM2.5
+2022-01-01,Purnia,1.0,Very Poor,305,PM2.5
+2022-01-02,Purnia,1.0,Poor,244,PM2.5
+2022-01-03,Purnia,1.0,Poor,287,PM2.5
+2022-01-04,Purnia,1.0,Very Poor,302,PM2.5
+2022-01-05,Purnia,1.0,Very Poor,305,PM2.5
+2022-01-07,Purnia,1.0,Very Poor,380,PM2.5
+2022-01-08,Purnia,1.0,Very Poor,350,PM2.5
+2022-01-09,Purnia,1.0,Poor,300,PM2.5
+2022-01-10,Purnia,1.0,Poor,298,PM2.5
+2022-01-11,Purnia,1.0,Very Poor,340,PM2.5
+2022-01-12,Purnia,1.0,Very Poor,327,PM2.5
+2022-01-13,Purnia,1.0,Poor,202,PM2.5
+2022-01-14,Purnia,1.0,Poor,207,PM2.5
+2022-01-15,Purnia,1.0,Poor,297,PM2.5
+2022-01-16,Purnia,1.0,Poor,236,PM2.5
+2022-01-18,Purnia,1.0,Very Poor,311,PM2.5
+2022-01-19,Purnia,1.0,Very Poor,309,PM2.5
+2022-01-20,Purnia,1.0,Very Poor,332,PM2.5
+2022-01-21,Purnia,1.0,Very Poor,334,PM2.5
+2022-01-22,Purnia,1.0,Very Poor,348,PM2.5
+2022-01-23,Purnia,1.0,Very Poor,366,PM2.5
+2022-01-24,Purnia,1.0,Poor,202,PM2.5
+2022-01-25,Purnia,1.0,Poor,299,PM2.5
+2022-02-01,Purnia,1.0,Severe,406,PM2.5
+2022-02-02,Purnia,1.0,Very Poor,315,PM2.5
+2022-02-03,Purnia,1.0,Poor,272,PM2.5
+2022-02-04,Purnia,1.0,Moderate,132,PM2.5
+2022-02-06,Purnia,1.0,Moderate,131,PM2.5
+2022-02-07,Purnia,1.0,Poor,238,PM2.5
+2022-02-08,Purnia,1.0,Poor,264,PM2.5
+2022-02-09,Purnia,1.0,Poor,297,PM2.5
+2022-02-10,Purnia,1.0,Very Poor,305,PM2.5
+2022-02-11,Purnia,1.0,Poor,283,PM2.5
+2022-02-12,Purnia,1.0,Moderate,187,PM2.5
+2022-02-13,Purnia,1.0,Poor,270,PM2.5
+2022-02-14,Purnia,1.0,Poor,268,PM2.5
+2022-02-15,Purnia,1.0,Poor,249,PM2.5
+2022-02-16,Purnia,1.0,Poor,260,PM2.5
+2022-02-17,Purnia,1.0,Poor,267,PM2.5
+2022-02-19,Purnia,1.0,Moderate,179,PM2.5
+2022-02-20,Purnia,1.0,Moderate,122,PM10
+2022-02-21,Purnia,1.0,Poor,204,PM2.5
+2022-02-22,Purnia,1.0,Moderate,167,PM2.5
+2022-02-23,Purnia,1.0,Moderate,160,PM2.5
+2022-02-24,Purnia,1.0,Moderate,192,PM2.5
+2022-02-25,Purnia,1.0,Moderate,177,PM2.5
+2022-02-26,Purnia,1.0,Moderate,118,PM10
+2022-02-27,Purnia,1.0,Poor,234,PM2.5
+2022-02-28,Purnia,1.0,Moderate,172,PM2.5
+2022-03-01,Purnia,1.0,Moderate,144,PM2.5
+2022-03-02,Purnia,1.0,Poor,221,PM2.5
+2022-03-04,Purnia,1.0,Moderate,194,PM2.5
+2022-03-05,Purnia,1.0,Moderate,133,PM2.5
+2022-03-06,Purnia,1.0,Poor,225,PM2.5
+2022-03-07,Purnia,1.0,Poor,248,PM2.5
+2022-03-08,Purnia,1.0,Poor,231,PM2.5
+2022-03-09,Purnia,1.0,Moderate,188,PM2.5
+2022-03-10,Purnia,1.0,Poor,222,PM2.5
+2022-03-11,Purnia,1.0,Poor,241,PM2.5
+2022-03-12,Purnia,1.0,Moderate,196,PM2.5
+2022-03-13,Purnia,1.0,Poor,230,PM2.5
+2022-03-14,Purnia,1.0,Poor,239,PM2.5
+2022-03-15,Purnia,1.0,Moderate,199,PM2.5
+2022-03-16,Purnia,1.0,Poor,257,PM2.5
+2022-03-17,Purnia,1.0,Poor,274,PM2.5
+2022-03-18,Purnia,1.0,Poor,296,PM2.5
+2022-03-19,Purnia,1.0,Moderate,186,PM2.5
+2022-03-22,Purnia,1.0,Moderate,195,PM2.5
+2022-03-24,Purnia,1.0,Poor,238,PM2.5
+2022-03-25,Purnia,1.0,Poor,235,PM2.5
+2022-03-26,Purnia,1.0,Moderate,144,PM2.5
+2022-03-27,Purnia,1.0,Moderate,175,PM2.5
+2022-03-30,Purnia,1.0,Moderate,149,PM2.5
+2022-04-02,Purnia,1.0,Satisfactory,86,NO2
+2022-04-03,Purnia,1.0,Satisfactory,94,NO2
+2022-04-04,Purnia,1.0,Satisfactory,86,NO2
+2022-04-05,Purnia,1.0,Satisfactory,82,NO2
+2022-04-06,Purnia,1.0,Satisfactory,87,PM10
+2022-04-07,Purnia,1.0,Satisfactory,72,NO2
+2022-04-08,Purnia,1.0,Satisfactory,88,NO2
+2022-04-09,Purnia,1.0,Satisfactory,96,NO2
+2022-04-12,Purnia,1.0,Satisfactory,97,NO2
+2022-04-14,Purnia,1.0,Satisfactory,92,PM10
+2022-04-15,Purnia,1.0,Moderate,155,PM10
+2022-04-16,Purnia,1.0,Moderate,143,PM10
+2022-04-19,Purnia,1.0,Satisfactory,89,NO2
+2022-04-26,Purnia,1.0,Satisfactory,80,NO2
+2022-04-27,Purnia,1.0,Satisfactory,77,NO2
+2022-04-28,Purnia,1.0,Satisfactory,70,NO2
+2022-04-29,Purnia,1.0,Satisfactory,71,NO2
+2022-04-30,Purnia,1.0,Satisfactory,78,NO2
+2022-05-03,Purnia,1.0,Satisfactory,63,PM10
+2022-05-04,Purnia,1.0,Satisfactory,73,PM10
+2022-05-05,Purnia,1.0,Satisfactory,96,PM10
+2022-05-06,Purnia,1.0,Moderate,136,PM2.5
+2022-05-07,Purnia,1.0,Moderate,104,PM2.5
+2022-05-08,Purnia,1.0,Moderate,159,PM2.5
+2022-05-09,Purnia,1.0,Moderate,175,PM2.5
+2022-05-10,Purnia,1.0,Satisfactory,89,PM10
+2022-05-11,Purnia,1.0,Satisfactory,90,PM10
+2022-05-12,Purnia,1.0,Moderate,119,PM10
+2022-05-13,Purnia,1.0,Moderate,135,PM2.5
+2022-05-14,Purnia,1.0,Moderate,103,PM10
+2022-05-15,Purnia,1.0,Moderate,130,PM10
+2022-05-16,Purnia,1.0,Moderate,108,PM2.5
+2022-05-18,Purnia,1.0,Moderate,112,PM10
+2022-05-19,Purnia,1.0,Moderate,166,PM2.5
+2022-05-25,Purnia,1.0,Moderate,122,PM2.5
+2022-05-26,Purnia,1.0,Moderate,125,PM10
+2022-05-27,Purnia,1.0,Moderate,172,PM10
+2022-05-28,Purnia,1.0,Poor,218,PM2.5
+2022-05-29,Purnia,1.0,Moderate,123,PM10
+2022-05-30,Purnia,1.0,Moderate,188,PM2.5
+2022-05-31,Purnia,1.0,Poor,203,PM2.5
+2022-06-01,Purnia,1.0,Moderate,183,PM2.5
+2022-06-02,Purnia,1.0,Moderate,183,PM2.5
+2022-06-03,Purnia,1.0,Moderate,160,PM2.5
+2022-06-05,Purnia,1.0,Moderate,197,PM2.5
+2022-06-06,Purnia,1.0,Moderate,132,PM2.5
+2022-06-10,Purnia,1.0,Poor,226,PM2.5
+2022-06-11,Purnia,1.0,Poor,268,PM2.5
+2022-06-12,Purnia,1.0,Poor,220,PM2.5
+2022-06-13,Purnia,1.0,Moderate,112,PM10
+2022-06-15,Purnia,1.0,Moderate,126,PM10
+2022-06-16,Purnia,1.0,Poor,226,PM2.5
+2022-06-17,Purnia,1.0,Poor,237,PM2.5
+2022-06-18,Purnia,1.0,Moderate,129,PM10
+2022-06-19,Purnia,1.0,Satisfactory,77,PM2.5
+2022-06-22,Purnia,1.0,Moderate,137,PM2.5
+2022-06-23,Purnia,1.0,Moderate,170,PM2.5
+2022-06-24,Purnia,1.0,Moderate,136,PM10
+2022-06-25,Purnia,1.0,Satisfactory,75,PM10
+2022-06-26,Purnia,1.0,Satisfactory,74,PM10
+2022-06-27,Purnia,1.0,Satisfactory,91,PM10
+2022-06-28,Purnia,1.0,Moderate,144,PM2.5
+2022-06-29,Purnia,1.0,Moderate,123,PM10
+2022-06-30,Purnia,1.0,Satisfactory,85,PM2.5
+2022-07-01,Purnia,1.0,Moderate,109,PM10
+2022-07-02,Purnia,1.0,Satisfactory,97,PM10
+2022-07-03,Purnia,1.0,Moderate,130,PM10
+2022-07-04,Purnia,1.0,Satisfactory,83,PM10
+2022-07-05,Purnia,1.0,Moderate,107,PM10
+2022-07-06,Purnia,1.0,Satisfactory,92,PM10
+2022-07-07,Purnia,1.0,Satisfactory,73,PM10
+2022-07-08,Purnia,1.0,Satisfactory,91,PM10
+2022-07-09,Purnia,1.0,Satisfactory,69,PM10
+2022-07-10,Purnia,1.0,Satisfactory,81,PM10
+2022-07-11,Purnia,1.0,Satisfactory,79,PM10
+2022-07-12,Purnia,1.0,Satisfactory,75,PM10
+2022-07-13,Purnia,1.0,Satisfactory,87,PM10
+2022-07-14,Purnia,1.0,Satisfactory,75,PM10
+2022-07-15,Purnia,1.0,Satisfactory,66,PM10
+2022-07-16,Purnia,1.0,Satisfactory,73,PM10
+2022-07-17,Purnia,1.0,Satisfactory,81,PM10
+2022-07-18,Purnia,1.0,Satisfactory,70,PM10
+2022-07-19,Purnia,1.0,Satisfactory,83,PM10
+2022-07-20,Purnia,1.0,Moderate,104,PM10
+2022-07-23,Purnia,1.0,Satisfactory,59,PM10
+2022-07-24,Purnia,1.0,Good,44,PM2.5
+2022-07-25,Purnia,1.0,Satisfactory,64,PM10
+2022-07-26,Purnia,1.0,Satisfactory,85,PM10
+2022-07-27,Purnia,1.0,Moderate,114,PM2.5
+2022-07-28,Purnia,1.0,Satisfactory,74,PM10
+2022-07-29,Purnia,1.0,Moderate,146,PM2.5
+2022-07-30,Purnia,1.0,Moderate,138,PM2.5
+2022-07-31,Purnia,1.0,Satisfactory,99,PM2.5
+2022-08-01,Purnia,1.0,Moderate,171,PM2.5
+2022-08-02,Purnia,1.0,Satisfactory,80,PM10
+2022-08-03,Purnia,1.0,Moderate,192,PM2.5
+2022-08-04,Purnia,1.0,Moderate,115,PM10
+2022-08-05,Purnia,1.0,Satisfactory,96,PM10
+2022-08-07,Purnia,1.0,Moderate,169,PM2.5
+2022-08-11,Purnia,1.0,Satisfactory,61,PM10
+2022-08-12,Purnia,1.0,Satisfactory,62,CO
+2022-08-13,Purnia,1.0,Moderate,161,PM2.5
+2022-08-14,Purnia,1.0,Satisfactory,65,PM10
+2022-08-15,Purnia,1.0,Satisfactory,62,CO
+2022-08-16,Purnia,1.0,Moderate,106,PM10
+2022-08-17,Purnia,1.0,Moderate,182,PM2.5
+2022-08-18,Purnia,1.0,Moderate,179,PM2.5
+2022-08-19,Purnia,1.0,Satisfactory,97,PM2.5
+2022-08-22,Purnia,1.0,Moderate,108,PM10
+2022-08-23,Purnia,1.0,Poor,240,PM2.5
+2022-08-24,Purnia,1.0,Satisfactory,74,PM10
+2022-08-25,Purnia,1.0,Moderate,110,PM10
+2022-08-26,Purnia,1.0,Poor,208,PM2.5
+2022-08-27,Purnia,1.0,Poor,297,PM2.5
+2022-08-29,Purnia,1.0,Satisfactory,68,CO
+2022-08-30,Purnia,1.0,Moderate,165,PM2.5
+2022-08-31,Purnia,1.0,Moderate,188,PM2.5
+2022-09-01,Purnia,1.0,Moderate,126,PM2.5
+2022-09-02,Purnia,1.0,Moderate,130,PM2.5
+2022-09-04,Purnia,1.0,Satisfactory,65,PM10
+2022-09-05,Purnia,1.0,Satisfactory,64,CO
+2022-09-06,Purnia,1.0,Satisfactory,80,CO
+2022-09-07,Purnia,1.0,Moderate,103,PM10
+2022-09-08,Purnia,1.0,Satisfactory,97,PM10
+2022-09-09,Purnia,1.0,Satisfactory,73,CO
+2022-09-10,Purnia,1.0,Satisfactory,88,PM10
+2022-09-11,Purnia,1.0,Satisfactory,65,CO
+2022-09-12,Purnia,1.0,Satisfactory,66,CO
+2022-09-13,Purnia,1.0,Satisfactory,67,CO
+2022-09-14,Purnia,1.0,Satisfactory,77,CO
+2022-09-15,Purnia,1.0,Satisfactory,75,CO
+2022-09-16,Purnia,1.0,Satisfactory,75,CO
+2022-09-18,Purnia,1.0,Satisfactory,87,PM2.5
+2022-09-20,Purnia,1.0,Satisfactory,94,PM10
+2022-09-22,Purnia,1.0,Satisfactory,96,PM10
+2022-09-23,Purnia,1.0,Satisfactory,100,PM10
+2022-09-24,Purnia,1.0,Moderate,122,PM10
+2022-09-25,Purnia,1.0,Satisfactory,90,PM10
+2022-09-26,Purnia,1.0,Satisfactory,93,PM10
+2022-09-27,Purnia,1.0,Moderate,115,PM2.5
+2022-09-28,Purnia,1.0,Poor,203,PM2.5
+2022-09-29,Purnia,1.0,Moderate,112,PM10
+2022-09-30,Purnia,1.0,Satisfactory,78,PM10
+2022-10-01,Purnia,1.0,Moderate,103,PM2.5
+2022-10-02,Purnia,1.0,Moderate,188,PM2.5
+2022-10-03,Purnia,1.0,Moderate,105,PM10
+2022-10-04,Purnia,1.0,Satisfactory,66,CO
+2022-10-05,Purnia,1.0,Satisfactory,72,PM10
+2022-10-07,Purnia,1.0,Satisfactory,72,PM10
+2022-10-08,Purnia,1.0,Moderate,125,PM2.5
+2022-10-10,Purnia,1.0,Satisfactory,75,PM10
+2022-10-11,Purnia,1.0,Satisfactory,66,PM10
+2022-10-13,Purnia,1.0,Satisfactory,95,PM10
+2022-10-14,Purnia,1.0,Satisfactory,98,PM10
+2022-10-15,Purnia,1.0,Satisfactory,96,PM10
+2022-10-16,Purnia,1.0,Moderate,131,PM10
+2022-10-17,Purnia,1.0,Moderate,121,PM10
+2022-10-18,Purnia,1.0,Moderate,129,PM10
+2022-10-20,Purnia,1.0,Moderate,173,PM2.5
+2022-10-21,Purnia,1.0,Moderate,172,PM10
+2022-10-22,Purnia,1.0,Moderate,145,PM10
+2022-10-23,Purnia,1.0,Moderate,141,PM10
+2022-10-24,Purnia,1.0,Moderate,136,PM10
+2022-10-25,Purnia,1.0,Satisfactory,92,PM2.5
+2022-10-26,Purnia,1.0,Poor,273,PM2.5
+2022-10-27,Purnia,1.0,Poor,241,PM2.5
+2022-10-28,Purnia,1.0,Poor,287,PM2.5
+2022-10-29,Purnia,1.0,Poor,253,PM2.5
+2022-10-30,Purnia,1.0,Moderate,182,PM2.5
+2022-10-31,Purnia,1.0,Moderate,170,PM2.5
+2022-11-02,Purnia,1.0,Moderate,148,PM2.5
+2022-11-03,Purnia,1.0,Poor,254,PM2.5
+2022-11-04,Purnia,1.0,Poor,292,PM2.5
+2022-11-05,Purnia,1.0,Poor,237,PM2.5
+2022-11-06,Purnia,1.0,Moderate,177,PM2.5
+2022-11-07,Purnia,1.0,Poor,214,PM2.5
+2022-11-08,Purnia,1.0,Poor,228,PM2.5
+2022-11-09,Purnia,1.0,Poor,269,PM2.5
+2022-11-10,Purnia,1.0,Very Poor,304,PM2.5
+2022-11-11,Purnia,1.0,Very Poor,358,PM2.5
+2022-11-12,Purnia,1.0,Very Poor,379,PM2.5
+2022-11-13,Purnia,1.0,Very Poor,378,PM2.5
+2022-11-15,Purnia,1.0,Very Poor,367,PM2.5
+2022-11-16,Purnia,1.0,Severe,418,PM2.5
+2022-11-17,Purnia,1.0,Severe,417,PM2.5
+2022-11-18,Purnia,1.0,Severe,416,PM2.5
+2022-11-20,Purnia,1.0,Very Poor,348,PM2.5
+2022-11-21,Purnia,1.0,Very Poor,347,PM2.5
+2022-11-23,Purnia,1.0,Severe,408,PM2.5
+2022-11-24,Purnia,1.0,Severe,411,PM2.5
+2022-11-25,Purnia,1.0,Very Poor,387,PM2.5
+2022-11-26,Purnia,1.0,Very Poor,373,PM2.5
+2022-11-27,Purnia,1.0,Very Poor,390,PM2.5
+2022-11-28,Purnia,1.0,Very Poor,314,PM2.5
+2022-11-29,Purnia,1.0,Poor,266,PM2.5
+2022-11-30,Purnia,1.0,Poor,282,PM2.5
+2022-12-01,Purnia,1.0,Very Poor,318,PM2.5
+2022-12-02,Purnia,1.0,Very Poor,386,PM2.5
+2022-12-03,Purnia,1.0,Very Poor,396,PM2.5
+2022-12-04,Purnia,1.0,Severe,423,PM2.5
+2022-12-05,Purnia,1.0,Severe,415,PM2.5
+2022-12-06,Purnia,1.0,Very Poor,382,PM2.5
+2022-12-07,Purnia,1.0,Very Poor,400,PM2.5
+2022-12-08,Purnia,1.0,Severe,404,PM2.5
+2022-12-09,Purnia,1.0,Very Poor,400,PM2.5
+2022-12-10,Purnia,1.0,Very Poor,347,PM2.5
+2022-12-11,Purnia,1.0,Very Poor,366,PM2.5
+2022-12-12,Purnia,1.0,Very Poor,389,PM2.5
+2022-12-13,Purnia,1.0,Severe,431,PM2.5
+2022-12-14,Purnia,1.0,Severe,450,PM2.5
+2022-12-15,Purnia,1.0,Severe,460,PM2.5
+2022-12-16,Purnia,1.0,Severe,419,PM2.5
+2022-12-17,Purnia,1.0,Severe,427,PM2.5
+2022-12-18,Purnia,1.0,Severe,404,PM2.5
+2022-12-19,Purnia,1.0,Very Poor,351,PM2.5
+2022-12-20,Purnia,1.0,Very Poor,382,PM2.5
+2022-12-21,Purnia,1.0,Severe,404,PM2.5
+2022-12-22,Purnia,1.0,Very Poor,381,PM2.5
+2022-12-24,Purnia,1.0,Very Poor,393,PM2.5
+2022-12-25,Purnia,1.0,Severe,404,PM2.5
+2022-12-26,Purnia,1.0,Severe,404,PM2.5
+2022-12-27,Purnia,1.0,Very Poor,400,PM2.5
+2022-12-29,Purnia,1.0,Very Poor,395,PM2.5
+2022-12-30,Purnia,1.0,Severe,432,PM2.5
+2022-12-31,Purnia,1.0,Severe,420,PM2.5
+2023-01-01,Purnia,1.0,Severe,445,PM2.5
+2023-01-02,Purnia,1.0,Very Poor,389,PM2.5
+2023-01-03,Purnia,1.0,Poor,287,PM2.5
+2023-01-04,Purnia,1.0,Very Poor,323,PM2.5
+2023-01-05,Purnia,1.0,Poor,297,PM2.5
+2023-01-06,Purnia,1.0,Very Poor,325,PM2.5
+2023-01-07,Purnia,1.0,Very Poor,329,PM2.5
+2023-01-08,Purnia,1.0,Very Poor,349,PM2.5
+2023-01-09,Purnia,1.0,Very Poor,353,PM2.5
+2023-01-10,Purnia,1.0,Very Poor,392,PM2.5
+2023-01-11,Purnia,1.0,Very Poor,333,PM2.5
+2023-01-12,Purnia,1.0,Very Poor,397,PM2.5
+2023-01-13,Purnia,1.0,Severe,420,PM2.5
+2023-01-14,Purnia,1.0,Severe,422,PM2.5
+2023-01-15,Purnia,1.0,Severe,406,PM2.5
+2023-01-16,Purnia,1.0,Very Poor,325,PM2.5
+2023-01-17,Purnia,1.0,Very Poor,367,PM2.5
+2023-01-18,Purnia,1.0,Very Poor,399,PM2.5
+2023-01-20,Purnia,1.0,Severe,420,PM2.5
+2023-01-21,Purnia,1.0,Severe,423,PM2.5
+2023-01-22,Purnia,1.0,Severe,410,PM2.5
+2023-01-23,Purnia,1.0,Severe,435,PM2.5
+2023-01-24,Purnia,1.0,Very Poor,383,PM2.5
+2023-01-25,Purnia,1.0,Very Poor,385,PM2.5
+2023-01-26,Purnia,1.0,Severe,411,PM2.5
+2023-01-27,Purnia,1.0,Poor,291,PM2.5
+2023-01-28,Purnia,1.0,Poor,274,PM2.5
+2023-01-29,Purnia,1.0,Very Poor,317,PM2.5
+2023-01-30,Purnia,1.0,Very Poor,379,PM2.5
+2023-01-31,Purnia,1.0,Very Poor,347,PM2.5
+2023-02-01,Purnia,1.0,Poor,228,PM2.5
+2023-02-02,Purnia,1.0,Poor,251,PM2.5
+2023-02-03,Purnia,1.0,Moderate,149,PM10
+2023-02-08,Purnia,1.0,Very Poor,312,PM2.5
+2023-02-13,Purnia,1.0,Moderate,109,PM10
+2023-02-14,Purnia,1.0,Poor,237,PM2.5
+2023-02-16,Purnia,1.0,Poor,275,PM2.5
+2023-02-20,Purnia,1.0,Poor,239,PM2.5
+2023-02-21,Purnia,1.0,Poor,213,PM2.5
+2023-02-22,Purnia,1.0,Poor,264,PM2.5
+2023-02-23,Purnia,1.0,Moderate,120,PM2.5
+2023-02-24,Purnia,1.0,Moderate,132,PM10
+2023-02-25,Purnia,1.0,Poor,223,PM2.5
+2023-02-26,Purnia,1.0,Poor,237,PM2.5
+2023-02-27,Purnia,1.0,Poor,220,PM2.5
+2023-02-28,Purnia,1.0,Moderate,199,PM2.5
+2023-03-03,Purnia,1.0,Poor,217,PM2.5
+2023-03-04,Purnia,1.0,Moderate,158,PM2.5
+2023-03-05,Purnia,1.0,Poor,214,PM2.5
+2023-03-06,Purnia,1.0,Moderate,109,PM10
+2023-03-08,Purnia,1.0,Moderate,138,PM2.5
+2023-03-10,Purnia,1.0,Moderate,179,PM10
+2023-03-11,Purnia,1.0,Moderate,157,PM10
+2023-03-12,Purnia,1.0,Moderate,159,PM10
+2023-03-14,Purnia,1.0,Moderate,195,PM2.5
+2023-03-15,Purnia,1.0,Moderate,192,PM2.5
+2023-03-16,Purnia,1.0,Moderate,114,PM10
+2023-03-17,Purnia,1.0,Moderate,131,PM10
+2023-03-18,Purnia,1.0,Moderate,123,PM10
+2023-03-21,Purnia,1.0,Satisfactory,69,PM10
+2023-03-22,Purnia,1.0,Moderate,110,PM2.5
+2023-03-23,Purnia,1.0,Satisfactory,99,PM10
+2023-03-24,Purnia,1.0,Moderate,136,PM10
+2023-03-25,Purnia,1.0,Moderate,152,PM10
+2023-03-26,Purnia,1.0,Moderate,161,PM2.5
+2023-03-27,Purnia,1.0,Moderate,125,PM10
+2023-03-29,Purnia,1.0,Moderate,151,PM2.5
+2023-03-30,Purnia,1.0,Moderate,120,PM2.5
+2023-03-31,Purnia,1.0,Moderate,107,PM10
+2023-04-05,Purnia,1.0,Satisfactory,86,PM2.5
+2023-04-06,Purnia,1.0,Moderate,106,PM10
+2023-04-08,Purnia,1.0,Moderate,153,PM2.5
+2023-04-09,Purnia,1.0,Poor,211,PM2.5
+2023-04-10,Purnia,1.0,Poor,207,PM10
+2023-04-11,Purnia,1.0,Moderate,199,PM10
+2023-04-15,Purnia,1.0,Moderate,138,PM10
+2023-04-16,Purnia,1.0,Satisfactory,98,PM2.5
+2023-04-17,Purnia,1.0,Moderate,129,PM2.5
+2023-04-21,Purnia,1.0,Moderate,112,PM10
+2023-04-22,Purnia,1.0,Poor,201,PM2.5
+2023-04-23,Purnia,1.0,Moderate,200,PM2.5
+2023-04-24,Purnia,1.0,Moderate,160,PM2.5
+2023-04-27,Purnia,1.0,Moderate,118,PM2.5
+2023-04-28,Purnia,1.0,Satisfactory,72,PM10
+2023-04-29,Purnia,1.0,Satisfactory,76,PM2.5
+2023-04-30,Purnia,1.0,Satisfactory,68,PM10
+2023-05-01,Purnia,1.0,Satisfactory,73,PM10
+2023-05-02,Purnia,1.0,Moderate,162,PM10
+2023-05-03,Purnia,1.0,Moderate,150,PM10
+2023-05-04,Purnia,1.0,Moderate,150,PM2.5
+2023-05-05,Purnia,1.0,Satisfactory,88,PM2.5
+2023-05-06,Purnia,1.0,Moderate,120,PM10
+2023-05-07,Purnia,1.0,Moderate,174,PM2.5
+2023-05-08,Purnia,1.0,Moderate,173,PM10
+2023-05-09,Purnia,1.0,Moderate,199,PM10
+2023-05-10,Purnia,1.0,Moderate,196,PM10
+2023-05-11,Purnia,1.0,Poor,217,PM10
+2023-05-12,Purnia,1.0,Moderate,181,PM10
+2023-05-13,Purnia,1.0,Moderate,170,PM10
+2023-05-14,Purnia,1.0,Moderate,171,PM2.5
+2023-05-15,Purnia,1.0,Moderate,103,PM2.5
+2023-05-19,Purnia,1.0,Satisfactory,100,PM10
+2023-05-21,Purnia,1.0,Moderate,127,PM10
+2023-05-22,Purnia,1.0,Moderate,102,PM10
+2023-05-23,Purnia,1.0,Satisfactory,97,PM10
+2023-05-24,Purnia,1.0,Satisfactory,82,PM10
+2023-05-25,Purnia,1.0,Moderate,140,PM10
+2023-05-26,Purnia,1.0,Satisfactory,86,PM10
+2023-05-27,Purnia,1.0,Satisfactory,83,PM10
+2023-05-28,Purnia,1.0,Satisfactory,99,PM10
+2023-05-29,Purnia,1.0,Moderate,104,PM10
+2023-05-30,Purnia,1.0,Moderate,138,PM2.5
+2023-05-31,Purnia,1.0,Moderate,168,PM2.5
+2023-06-01,Purnia,1.0,Moderate,182,PM10
+2023-06-02,Purnia,1.0,Moderate,142,PM10
+2023-06-03,Purnia,1.0,Moderate,165,PM2.5
+2023-06-07,Purnia,1.0,Moderate,118,PM10
+2023-06-08,Purnia,1.0,Moderate,129,PM10
+2023-06-09,Purnia,1.0,Moderate,166,PM10
+2023-06-10,Purnia,1.0,Satisfactory,79,PM10
+2023-06-11,Purnia,1.0,Satisfactory,74,PM10
+2023-06-12,Purnia,1.0,Satisfactory,75,CO
+2023-06-14,Purnia,1.0,Satisfactory,84,CO
+2023-06-15,Purnia,1.0,Satisfactory,84,PM10
+2023-06-16,Purnia,1.0,Satisfactory,98,PM10
+2023-06-17,Purnia,1.0,Satisfactory,78,PM10
+2023-06-21,Purnia,1.0,Satisfactory,79,PM10
+2023-06-22,Purnia,1.0,Satisfactory,73,CO
+2023-06-23,Purnia,1.0,Satisfactory,79,PM2.5
+2023-06-24,Purnia,1.0,Satisfactory,68,PM10
+2023-06-25,Purnia,1.0,Satisfactory,87,PM10
+2023-06-26,Purnia,1.0,Satisfactory,76,PM10
+2023-06-30,Purnia,1.0,Satisfactory,80,CO
+2023-07-01,Purnia,1.0,Satisfactory,78,CO
+2023-07-02,Purnia,1.0,Satisfactory,67,CO
+2023-07-03,Purnia,1.0,Satisfactory,89,CO
+2023-07-04,Purnia,1.0,Satisfactory,84,PM10
+2023-07-05,Purnia,1.0,Satisfactory,80,CO
+2023-07-06,Purnia,1.0,Satisfactory,64,CO
+2023-07-07,Purnia,1.0,Satisfactory,66,CO
+2023-07-08,Purnia,1.0,Satisfactory,70,CO
+2023-07-09,Purnia,1.0,Moderate,119,PM10
+2023-07-10,Purnia,1.0,Satisfactory,95,PM10
+2023-07-11,Purnia,1.0,Satisfactory,87,CO
+2023-07-12,Purnia,1.0,Satisfactory,83,CO
+2023-07-13,Purnia,1.0,Moderate,124,CO
+2023-07-14,Purnia,1.0,Satisfactory,81,CO
+2023-07-15,Purnia,1.0,Satisfactory,94,PM10
+2023-07-16,Purnia,1.0,Good,45,CO
+2023-07-17,Purnia,1.0,Satisfactory,87,CO
+2023-07-18,Purnia,1.0,Satisfactory,75,CO
+2023-07-19,Purnia,1.0,Satisfactory,70,PM10
+2023-07-22,Purnia,1.0,Satisfactory,54,CO
+2023-07-24,Purnia,1.0,Satisfactory,70,CO
+2023-07-25,Purnia,1.0,Satisfactory,80,CO
+2023-07-27,Purnia,1.0,Satisfactory,54,PM10
+2023-07-28,Purnia,1.0,Satisfactory,72,PM10
+2023-07-29,Purnia,1.0,Satisfactory,62,CO
+2023-07-30,Purnia,1.0,Satisfactory,64,CO
+2023-07-31,Purnia,1.0,Satisfactory,74,PM10
+2023-08-01,Purnia,1.0,Satisfactory,73,PM10
+2023-08-03,Purnia,1.0,Satisfactory,60,CO
+2023-08-04,Purnia,1.0,Satisfactory,79,CO
+2023-08-05,Purnia,1.0,Satisfactory,73,PM10
+2023-08-06,Purnia,1.0,Satisfactory,86,PM2.5
+2023-08-07,Purnia,1.0,Satisfactory,57,CO
+2023-08-09,Purnia,1.0,Satisfactory,71,CO
+2023-08-10,Purnia,1.0,Satisfactory,65,CO
+2023-08-11,Purnia,1.0,Satisfactory,72,PM2.5
+2023-08-12,Purnia,1.0,Satisfactory,60,PM10
+2023-08-13,Purnia,1.0,Satisfactory,60,CO
+2023-08-14,Purnia,1.0,Satisfactory,56,CO
+2023-08-15,Purnia,1.0,Satisfactory,71,PM10
+2023-08-16,Purnia,1.0,Satisfactory,71,PM10
+2023-08-17,Purnia,1.0,Satisfactory,84,PM2.5
+2023-08-18,Purnia,1.0,Satisfactory,71,CO
+2023-08-19,Purnia,1.0,Moderate,107,PM2.5
+2023-08-21,Purnia,1.0,Moderate,130,PM2.5
+2023-08-22,Purnia,1.0,Satisfactory,86,PM2.5
+2023-08-23,Purnia,1.0,Satisfactory,70,PM10
+2023-08-26,Purnia,1.0,Satisfactory,98,CO
+2023-08-27,Purnia,1.0,Satisfactory,61,PM10
+2023-08-28,Purnia,1.0,Satisfactory,93,PM2.5
+2023-08-29,Purnia,1.0,Satisfactory,92,PM2.5
+2023-08-30,Purnia,1.0,Satisfactory,89,PM2.5
+2023-09-01,Purnia,1.0,Satisfactory,88,PM10
+2023-09-02,Purnia,1.0,Satisfactory,87,PM10
+2023-09-03,Purnia,1.0,Satisfactory,69,PM10
+2023-09-04,Purnia,1.0,Satisfactory,88,PM2.5
+2023-09-05,Purnia,1.0,Satisfactory,71,PM10
+2023-09-06,Purnia,1.0,Satisfactory,86,PM2.5
+2023-09-07,Purnia,1.0,Satisfactory,64,PM10
+2023-09-08,Purnia,1.0,Satisfactory,62,CO
+2023-09-09,Purnia,1.0,Satisfactory,57,CO
+2023-09-12,Purnia,1.0,Satisfactory,80,PM2.5
+2023-09-15,Purnia,1.0,Satisfactory,57,CO
+2023-09-22,Purnia,1.0,Satisfactory,61,CO
+2023-09-25,Purnia,1.0,Satisfactory,69,CO
+2023-09-26,Purnia,1.0,Satisfactory,87,PM10
+2023-09-27,Purnia,1.0,Satisfactory,74,PM2.5
+2023-10-01,Purnia,1.0,Satisfactory,68,CO
+2023-10-02,Purnia,1.0,Satisfactory,67,PM10
+2023-10-07,Purnia,1.0,Satisfactory,54,CO
+2023-10-11,Purnia,1.0,Moderate,126,PM10
+2023-10-12,Purnia,1.0,Moderate,141,PM10
+2023-10-13,Purnia,1.0,Moderate,193,PM2.5
+2023-10-14,Purnia,1.0,Poor,225,PM2.5
+2023-10-15,Purnia,1.0,Poor,217,PM2.5
+2023-10-16,Purnia,1.0,Moderate,195,PM10
+2023-10-17,Purnia,1.0,Poor,201,PM10
+2023-10-18,Purnia,1.0,Moderate,159,PM2.5
+2023-10-19,Purnia,1.0,Moderate,130,PM2.5
+2023-10-20,Purnia,1.0,Poor,206,PM2.5
+2023-10-21,Purnia,1.0,Poor,228,PM2.5
+2023-10-22,Purnia,1.0,Moderate,194,PM2.5
+2023-10-23,Purnia,1.0,Poor,233,PM2.5
+2023-10-24,Purnia,1.0,Moderate,133,PM10
+2023-10-26,Purnia,1.0,Poor,250,PM2.5
+2023-10-27,Purnia,1.0,Poor,270,PM2.5
+2023-10-28,Purnia,1.0,Poor,280,PM2.5
+2023-10-29,Purnia,1.0,Poor,284,PM2.5
+2023-10-30,Purnia,1.0,Poor,294,PM2.5
+2023-10-31,Purnia,1.0,Poor,252,PM2.5
+2023-11-01,Purnia,1.0,Poor,203,PM2.5
+2023-11-02,Purnia,1.0,Poor,242,PM2.5
+2023-11-03,Purnia,1.0,Poor,220,PM2.5
+2023-11-04,Purnia,1.0,Poor,222,PM2.5
+2023-11-05,Purnia,1.0,Very Poor,305,PM2.5
+2023-11-06,Purnia,1.0,Very Poor,339,PM2.5
+2023-11-07,Purnia,1.0,Very Poor,307,PM2.5
+2023-11-08,Purnia,1.0,Very Poor,348,PM2.5
+2023-11-09,Purnia,1.0,Severe,409,PM2.5
+2023-11-10,Purnia,1.0,Very Poor,377,PM2.5
+2023-11-11,Purnia,1.0,Very Poor,350,PM2.5
+2023-11-12,Purnia,1.0,Very Poor,322,PM2.5
+2023-11-13,Purnia,1.0,Very Poor,347,PM2.5
+2023-11-14,Purnia,1.0,Very Poor,313,PM2.5
+2023-11-15,Purnia,1.0,Poor,262,PM2.5
+2023-11-16,Purnia,1.0,Moderate,193,PM2.5
+2023-11-17,Purnia,1.0,Moderate,158,PM2.5
+2023-11-18,Purnia,1.0,Moderate,103,PM10
+2023-11-19,Purnia,1.0,Moderate,197,PM2.5
+2023-11-22,Purnia,1.0,Very Poor,398,PM2.5
+2023-11-23,Purnia,1.0,Very Poor,354,PM2.5
+2023-11-24,Purnia,1.0,Poor,298,PM2.5
+2023-11-25,Purnia,1.0,Very Poor,350,PM2.5
+2023-11-26,Purnia,1.0,Very Poor,344,PM2.5
+2023-11-27,Purnia,1.0,Moderate,195,PM10
+2023-11-28,Purnia,1.0,Moderate,184,PM10
+2023-11-29,Purnia,1.0,Poor,201,PM2.5
+2023-11-30,Purnia,1.0,Poor,258,PM2.5
+2023-12-02,Purnia,1.0,Severe,413,PM2.5
+2023-12-03,Purnia,1.0,Very Poor,376,PM2.5
+2023-12-04,Purnia,1.0,Poor,294,PM2.5
+2023-12-05,Purnia,1.0,Very Poor,343,PM2.5
+2023-12-06,Purnia,1.0,Very Poor,359,PM2.5
+2023-12-07,Purnia,1.0,Moderate,193,PM2.5
+2023-12-08,Purnia,1.0,Poor,288,PM2.5
+2023-12-09,Purnia,1.0,Poor,229,PM2.5
+2023-12-10,Purnia,1.0,Very Poor,317,PM2.5
+2023-12-11,Purnia,1.0,Very Poor,387,PM2.5
+2023-12-12,Purnia,1.0,Very Poor,358,PM2.5
+2023-12-13,Purnia,1.0,Very Poor,363,PM2.5
+2023-12-14,Purnia,1.0,Very Poor,374,PM2.5
+2023-12-15,Purnia,1.0,Severe,416,PM2.5
+2023-12-16,Purnia,1.0,Severe,408,PM2.5
+2023-12-17,Purnia,1.0,Very Poor,333,PM2.5
+2023-12-18,Purnia,1.0,Poor,279,PM2.5
+2023-12-19,Purnia,1.0,Poor,291,PM2.5
+2023-12-20,Purnia,1.0,Poor,261,PM2.5
+2023-12-21,Purnia,1.0,Poor,221,PM2.5
+2023-12-22,Purnia,1.0,Poor,246,PM2.5
+2023-12-23,Purnia,1.0,Moderate,160,PM2.5
+2023-12-24,Purnia,1.0,Moderate,133,PM10
+2023-12-25,Purnia,1.0,Moderate,197,PM2.5
+2023-12-26,Purnia,1.0,Poor,225,PM2.5
+2023-12-27,Purnia,1.0,Poor,238,PM2.5
+2023-12-28,Purnia,1.0,Poor,241,PM2.5
+2023-12-29,Purnia,1.0,Poor,256,PM2.5
+2023-12-30,Purnia,1.0,Moderate,193,PM2.5
+2023-12-31,Purnia,1.0,Moderate,114,PM10

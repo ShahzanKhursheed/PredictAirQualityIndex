@@ -1,0 +1,2302 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2017-07-13,Thiruvananthapuram,1.0,Good,50,PM10
+2017-07-14,Thiruvananthapuram,1.0,Good,42,PM10
+2017-07-15,Thiruvananthapuram,1.0,Satisfactory,62,PM10
+2017-07-16,Thiruvananthapuram,1.0,Good,48,PM10
+2017-07-17,Thiruvananthapuram,1.0,Good,50,PM10
+2017-07-18,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2017-07-19,Thiruvananthapuram,1.0,Good,43,PM10
+2017-07-20,Thiruvananthapuram,1.0,Good,41,PM10
+2017-07-25,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2017-07-27,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2017-07-28,Thiruvananthapuram,1.0,Good,38,PM10
+2017-07-29,Thiruvananthapuram,1.0,Good,33,PM10
+2017-07-30,Thiruvananthapuram,1.0,Good,50,PM10
+2017-07-31,Thiruvananthapuram,1.0,Satisfactory,60,PM10
+2017-08-01,Thiruvananthapuram,1.0,Good,37,CO
+2017-08-02,Thiruvananthapuram,1.0,Good,50,PM10
+2017-08-03,Thiruvananthapuram,1.0,Good,49,CO
+2017-08-04,Thiruvananthapuram,1.0,Good,48,CO
+2017-08-05,Thiruvananthapuram,1.0,Good,46,CO
+2017-08-06,Thiruvananthapuram,1.0,Good,44,CO
+2017-08-07,Thiruvananthapuram,1.0,Good,44,CO
+2017-08-08,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2017-08-09,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-08-10,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2017-08-11,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2017-08-12,Thiruvananthapuram,1.0,Good,49,CO
+2017-08-13,Thiruvananthapuram,1.0,Satisfactory,59,PM10
+2017-08-14,Thiruvananthapuram,1.0,Satisfactory,76,PM10
+2017-08-15,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2017-08-16,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-08-17,Thiruvananthapuram,1.0,Good,50,PM10
+2017-08-18,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2017-08-19,Thiruvananthapuram,1.0,Good,44,CO
+2017-08-20,Thiruvananthapuram,1.0,Good,45,CO
+2017-08-21,Thiruvananthapuram,1.0,Good,49,CO
+2017-08-22,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2017-08-23,Thiruvananthapuram,1.0,Good,47,CO
+2017-08-24,Thiruvananthapuram,1.0,Moderate,161,O3
+2017-08-25,Thiruvananthapuram,1.0,Satisfactory,60,PM10
+2017-08-26,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2017-08-27,Thiruvananthapuram,1.0,Good,49,CO
+2017-08-28,Thiruvananthapuram,1.0,Good,47,CO
+2017-08-29,Thiruvananthapuram,1.0,Good,49,CO
+2017-08-30,Thiruvananthapuram,1.0,Good,50,CO
+2017-08-31,Thiruvananthapuram,1.0,Good,49,CO
+2017-09-01,Thiruvananthapuram,1.0,Good,49,PM10
+2017-09-02,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-09-03,Thiruvananthapuram,1.0,Good,48,CO
+2017-09-04,Thiruvananthapuram,1.0,Good,44,PM10
+2017-09-05,Thiruvananthapuram,1.0,Good,49,PM10
+2017-09-06,Thiruvananthapuram,1.0,Good,44,CO
+2017-09-07,Thiruvananthapuram,1.0,Good,48,CO
+2017-09-08,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-09-09,Thiruvananthapuram,1.0,Good,45,CO
+2017-09-10,Thiruvananthapuram,1.0,Good,50,CO
+2017-09-11,Thiruvananthapuram,1.0,Satisfactory,62,CO
+2017-09-12,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-09-13,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-09-14,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-09-15,Thiruvananthapuram,1.0,Good,46,CO
+2017-09-16,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2017-09-17,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-09-18,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-09-19,Thiruvananthapuram,1.0,Good,47,CO
+2017-09-20,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2017-09-21,Thiruvananthapuram,1.0,Good,44,CO
+2017-09-22,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2017-09-23,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2017-09-24,Thiruvananthapuram,1.0,Good,47,PM10
+2017-09-25,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2017-09-26,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-09-27,Thiruvananthapuram,1.0,Good,50,CO
+2017-09-28,Thiruvananthapuram,1.0,Good,49,CO
+2017-09-29,Thiruvananthapuram,1.0,Good,46,CO
+2017-09-30,Thiruvananthapuram,1.0,Good,49,CO
+2017-10-01,Thiruvananthapuram,1.0,Good,37,CO
+2017-10-02,Thiruvananthapuram,1.0,Good,44,CO
+2017-10-03,Thiruvananthapuram,1.0,Good,50,CO
+2017-10-04,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2017-10-05,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2017-10-06,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-10-07,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2017-10-08,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2017-10-09,Thiruvananthapuram,1.0,Satisfactory,67,PM10
+2017-10-10,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2017-10-11,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2017-10-12,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2017-10-13,Thiruvananthapuram,1.0,Good,50,CO
+2017-10-15,Thiruvananthapuram,1.0,Good,49,CO
+2017-10-16,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2017-10-17,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2017-10-18,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2017-10-19,Thiruvananthapuram,1.0,Satisfactory,56,PM2.5
+2017-10-20,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2017-10-21,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2017-10-22,Thiruvananthapuram,1.0,Good,39,CO
+2017-10-23,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-10-24,Thiruvananthapuram,1.0,Satisfactory,98,PM2.5
+2017-10-25,Thiruvananthapuram,1.0,Satisfactory,83,PM2.5
+2017-10-26,Thiruvananthapuram,1.0,Satisfactory,87,PM2.5
+2017-10-27,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2017-10-28,Thiruvananthapuram,1.0,Satisfactory,68,CO
+2017-10-29,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2017-10-30,Thiruvananthapuram,1.0,Satisfactory,77,PM2.5
+2017-10-31,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2017-11-01,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-11-02,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2017-11-03,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-11-04,Thiruvananthapuram,1.0,Satisfactory,70,CO
+2017-11-05,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2017-11-06,Thiruvananthapuram,1.0,Satisfactory,68,CO
+2017-11-07,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2017-11-08,Thiruvananthapuram,1.0,Satisfactory,69,CO
+2017-11-09,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2017-11-10,Thiruvananthapuram,1.0,Satisfactory,73,CO
+2017-11-11,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2017-11-12,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2017-11-13,Thiruvananthapuram,1.0,Moderate,125,PM2.5
+2017-11-14,Thiruvananthapuram,1.0,Satisfactory,96,PM2.5
+2017-11-15,Thiruvananthapuram,1.0,Moderate,110,PM2.5
+2017-11-16,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2017-11-17,Thiruvananthapuram,1.0,Moderate,119,PM2.5
+2017-11-18,Thiruvananthapuram,1.0,Moderate,125,PM2.5
+2017-11-19,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2017-11-20,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2017-11-21,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2017-11-22,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2017-11-23,Thiruvananthapuram,1.0,Satisfactory,68,PM2.5
+2017-11-24,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2017-11-25,Thiruvananthapuram,1.0,Moderate,178,PM2.5
+2017-11-26,Thiruvananthapuram,1.0,Poor,223,PM2.5
+2017-11-27,Thiruvananthapuram,1.0,Satisfactory,76,CO
+2017-11-28,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2017-11-29,Thiruvananthapuram,1.0,Satisfactory,81,PM2.5
+2017-11-30,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2017-12-01,Thiruvananthapuram,1.0,Good,49,CO
+2017-12-02,Thiruvananthapuram,1.0,Good,48,CO
+2017-12-03,Thiruvananthapuram,1.0,Good,50,CO
+2017-12-04,Thiruvananthapuram,1.0,Satisfactory,62,PM10
+2017-12-08,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2017-12-09,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2017-12-10,Thiruvananthapuram,1.0,Satisfactory,97,PM2.5
+2017-12-11,Thiruvananthapuram,1.0,Moderate,108,PM2.5
+2017-12-12,Thiruvananthapuram,1.0,Moderate,149,PM2.5
+2017-12-13,Thiruvananthapuram,1.0,Satisfactory,71,PM2.5
+2017-12-14,Thiruvananthapuram,1.0,Satisfactory,67,PM2.5
+2017-12-15,Thiruvananthapuram,1.0,Moderate,146,PM2.5
+2017-12-16,Thiruvananthapuram,1.0,Satisfactory,83,PM2.5
+2017-12-17,Thiruvananthapuram,1.0,Moderate,113,PM2.5
+2017-12-18,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2017-12-19,Thiruvananthapuram,1.0,Moderate,111,PM2.5
+2017-12-20,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2017-12-21,Thiruvananthapuram,1.0,Satisfactory,79,PM2.5
+2017-12-22,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2017-12-23,Thiruvananthapuram,1.0,Satisfactory,72,PM2.5
+2017-12-24,Thiruvananthapuram,1.0,Satisfactory,54,PM2.5
+2017-12-25,Thiruvananthapuram,1.0,Satisfactory,80,PM2.5
+2017-12-26,Thiruvananthapuram,1.0,Moderate,109,PM2.5
+2017-12-27,Thiruvananthapuram,1.0,Moderate,111,PM2.5
+2017-12-28,Thiruvananthapuram,1.0,Moderate,138,PM2.5
+2017-12-29,Thiruvananthapuram,1.0,Moderate,127,PM2.5
+2017-12-30,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2017-12-31,Thiruvananthapuram,1.0,Moderate,118,PM2.5
+2018-01-01,Thiruvananthapuram,1.0,Moderate,121,PM2.5
+2018-01-02,Thiruvananthapuram,1.0,Moderate,131,PM2.5
+2018-01-03,Thiruvananthapuram,1.0,Satisfactory,100,PM2.5
+2018-01-04,Thiruvananthapuram,1.0,Moderate,118,PM2.5
+2018-01-05,Thiruvananthapuram,1.0,Moderate,148,PM2.5
+2018-01-06,Thiruvananthapuram,1.0,Moderate,114,PM10
+2018-01-07,Thiruvananthapuram,1.0,Moderate,188,PM2.5
+2018-01-08,Thiruvananthapuram,1.0,Moderate,125,PM2.5
+2018-01-09,Thiruvananthapuram,1.0,Moderate,112,PM10
+2018-01-10,Thiruvananthapuram,1.0,Moderate,179,PM2.5
+2018-01-11,Thiruvananthapuram,1.0,Moderate,105,PM2.5
+2018-01-12,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2018-01-13,Thiruvananthapuram,1.0,Satisfactory,86,CO
+2018-01-14,Thiruvananthapuram,1.0,Satisfactory,66,PM2.5
+2018-01-15,Thiruvananthapuram,1.0,Satisfactory,74,PM2.5
+2018-01-16,Thiruvananthapuram,1.0,Moderate,117,PM2.5
+2018-01-17,Thiruvananthapuram,1.0,Moderate,183,PM2.5
+2018-01-18,Thiruvananthapuram,1.0,Moderate,142,PM2.5
+2018-01-19,Thiruvananthapuram,1.0,Satisfactory,99,PM10
+2018-01-20,Thiruvananthapuram,1.0,Moderate,127,PM2.5
+2018-01-21,Thiruvananthapuram,1.0,Poor,209,PM2.5
+2018-01-22,Thiruvananthapuram,1.0,Moderate,180,PM2.5
+2018-01-23,Thiruvananthapuram,1.0,Moderate,179,PM2.5
+2018-01-24,Thiruvananthapuram,1.0,Moderate,167,PM2.5
+2018-01-25,Thiruvananthapuram,1.0,Moderate,130,PM2.5
+2018-01-26,Thiruvananthapuram,1.0,Moderate,103,O3
+2018-01-27,Thiruvananthapuram,1.0,Moderate,107,PM2.5
+2018-01-28,Thiruvananthapuram,1.0,Satisfactory,98,PM2.5
+2018-01-29,Thiruvananthapuram,1.0,Moderate,126,PM2.5
+2018-01-30,Thiruvananthapuram,1.0,Moderate,117,PM2.5
+2018-01-31,Thiruvananthapuram,1.0,Moderate,141,PM2.5
+2018-02-01,Thiruvananthapuram,1.0,Moderate,158,PM2.5
+2018-02-02,Thiruvananthapuram,1.0,Moderate,127,PM2.5
+2018-02-03,Thiruvananthapuram,1.0,Moderate,100,OZONE
+2018-02-04,Thiruvananthapuram,1.0,Satisfactory,96,PM10
+2018-02-05,Thiruvananthapuram,1.0,Moderate,106,PM2.5
+2018-02-06,Thiruvananthapuram,1.0,Moderate,102,PM2.5
+2018-02-07,Thiruvananthapuram,1.0,Satisfactory,72,PM10
+2018-02-08,Thiruvananthapuram,1.0,Satisfactory,58,PM2.5
+2018-02-09,Thiruvananthapuram,1.0,Satisfactory,64,OZONE
+2018-02-10,Thiruvananthapuram,1.0,Satisfactory,77,PM2.5
+2018-02-13,Thiruvananthapuram,1.0,Moderate,102,PM2.5
+2018-02-14,Thiruvananthapuram,1.0,Satisfactory,98,PM2.5
+2018-02-15,Thiruvananthapuram,1.0,Satisfactory,94,PM10
+2018-02-16,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2018-02-17,Thiruvananthapuram,1.0,Satisfactory,95,PM2.5
+2018-02-18,Thiruvananthapuram,1.0,Satisfactory,94,OZONE
+2018-02-19,Thiruvananthapuram,1.0,Moderate,100,PM2.5
+2018-02-20,Thiruvananthapuram,1.0,Moderate,108,PM2.5
+2018-02-21,Thiruvananthapuram,1.0,Moderate,132,PM2.5
+2018-02-22,Thiruvananthapuram,1.0,Satisfactory,85,PM10
+2018-02-23,Thiruvananthapuram,1.0,Satisfactory,94,PM10
+2018-02-24,Thiruvananthapuram,1.0,Satisfactory,90,PM2.5
+2018-02-27,Thiruvananthapuram,1.0,Satisfactory,67,PM10
+2018-02-28,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2018-03-01,Thiruvananthapuram,1.0,Satisfactory,68,PM10
+2018-03-02,Thiruvananthapuram,1.0,Satisfactory,70,PM10
+2018-03-03,Thiruvananthapuram,1.0,Satisfactory,78,OZONE
+2018-03-04,Thiruvananthapuram,1.0,Satisfactory,90,PM2.5
+2018-03-05,Thiruvananthapuram,1.0,Satisfactory,93,PM10
+2018-03-06,Thiruvananthapuram,1.0,Satisfactory,99,PM2.5
+2018-03-07,Thiruvananthapuram,1.0,Moderate,108,PM2.5
+2018-03-08,Thiruvananthapuram,1.0,Satisfactory,90,PM2.5
+2018-03-09,Thiruvananthapuram,1.0,Satisfactory,92,PM2.5
+2018-03-10,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2018-03-12,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2018-03-13,Thiruvananthapuram,1.0,Satisfactory,72,CO
+2018-03-14,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-03-15,Thiruvananthapuram,1.0,Good,48,CO
+2018-03-16,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2018-03-17,Thiruvananthapuram,1.0,Good,49,CO
+2018-03-18,Thiruvananthapuram,1.0,Good,49,CO
+2018-03-20,Thiruvananthapuram,1.0,Satisfactory,66,CO
+2018-03-21,Thiruvananthapuram,1.0,Satisfactory,80,PM2.5
+2018-03-22,Thiruvananthapuram,1.0,Satisfactory,65,CO
+2018-03-23,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2018-03-24,Thiruvananthapuram,1.0,Satisfactory,85,PM10
+2018-03-25,Thiruvananthapuram,1.0,Satisfactory,80,PM10
+2018-03-26,Thiruvananthapuram,1.0,Satisfactory,81,PM10
+2018-03-27,Thiruvananthapuram,1.0,Satisfactory,83,CO
+2018-03-28,Thiruvananthapuram,1.0,Satisfactory,78,CO
+2018-03-30,Thiruvananthapuram,1.0,Moderate,114,CO
+2018-03-31,Thiruvananthapuram,1.0,Satisfactory,93,CO
+2018-04-01,Thiruvananthapuram,1.0,Satisfactory,72,PM10
+2018-04-02,Thiruvananthapuram,1.0,Satisfactory,64,PM10
+2018-04-03,Thiruvananthapuram,1.0,Satisfactory,68,PM10
+2018-04-04,Thiruvananthapuram,1.0,Satisfactory,62,CO
+2018-04-05,Thiruvananthapuram,1.0,Satisfactory,75,PM10
+2018-04-07,Thiruvananthapuram,1.0,Satisfactory,79,OZONE
+2018-04-08,Thiruvananthapuram,1.0,Satisfactory,59,OZONE
+2018-04-09,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2018-04-10,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2018-04-11,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2018-04-12,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-04-13,Thiruvananthapuram,1.0,Satisfactory,76,CO
+2018-04-14,Thiruvananthapuram,1.0,Good,45,OZONE
+2018-04-15,Thiruvananthapuram,1.0,Good,45,CO
+2018-04-16,Thiruvananthapuram,1.0,Good,49,OZONE
+2018-04-17,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2018-04-18,Thiruvananthapuram,1.0,Satisfactory,65,CO
+2018-04-19,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-04-20,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2018-04-21,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-04-22,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2018-04-23,Thiruvananthapuram,1.0,Satisfactory,61,OZONE
+2018-04-24,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2018-04-25,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2018-04-26,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2018-04-27,Thiruvananthapuram,1.0,Satisfactory,85,PM10
+2018-04-28,Thiruvananthapuram,1.0,Satisfactory,62,PM10
+2018-04-29,Thiruvananthapuram,1.0,Satisfactory,77,PM2.5
+2018-04-30,Thiruvananthapuram,1.0,Satisfactory,64,PM10
+2018-05-01,Thiruvananthapuram,1.0,Satisfactory,53,OZONE
+2018-05-02,Thiruvananthapuram,1.0,Satisfactory,56,PM10
+2018-05-03,Thiruvananthapuram,1.0,Satisfactory,64,OZONE
+2018-05-04,Thiruvananthapuram,1.0,Satisfactory,67,OZONE
+2018-05-05,Thiruvananthapuram,1.0,Satisfactory,78,OZONE
+2018-05-06,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2018-05-07,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2018-05-08,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2018-05-09,Thiruvananthapuram,1.0,Satisfactory,65,CO
+2018-05-10,Thiruvananthapuram,1.0,Good,46,CO
+2018-05-11,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2018-05-12,Thiruvananthapuram,1.0,Good,43,CO
+2018-05-13,Thiruvananthapuram,1.0,Good,45,OZONE
+2018-05-14,Thiruvananthapuram,1.0,Satisfactory,53,OZONE
+2018-05-15,Thiruvananthapuram,1.0,Satisfactory,57,OZONE
+2018-05-16,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2018-05-17,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-05-18,Thiruvananthapuram,1.0,Good,48,CO
+2018-05-19,Thiruvananthapuram,1.0,Good,48,CO
+2018-05-20,Thiruvananthapuram,1.0,Good,40,CO
+2018-05-21,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-05-22,Thiruvananthapuram,1.0,Satisfactory,57,OZONE
+2018-05-23,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-05-24,Thiruvananthapuram,1.0,Satisfactory,62,PM10
+2018-05-26,Thiruvananthapuram,1.0,Satisfactory,68,OZONE
+2018-05-27,Thiruvananthapuram,1.0,Satisfactory,65,OZONE
+2018-05-28,Thiruvananthapuram,1.0,Satisfactory,76,CO
+2018-05-29,Thiruvananthapuram,1.0,Good,44,OZONE
+2018-05-30,Thiruvananthapuram,1.0,Good,48,CO
+2018-05-31,Thiruvananthapuram,1.0,Good,44,CO
+2018-06-01,Thiruvananthapuram,1.0,Good,46,CO
+2018-06-02,Thiruvananthapuram,1.0,Good,42,CO
+2018-06-03,Thiruvananthapuram,1.0,Good,34,CO
+2018-06-04,Thiruvananthapuram,1.0,Good,43,CO
+2018-06-05,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2018-06-06,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2018-06-08,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2018-06-09,Thiruvananthapuram,1.0,Good,45,PM10
+2018-06-10,Thiruvananthapuram,1.0,Good,37,PM10
+2018-06-11,Thiruvananthapuram,1.0,Good,45,CO
+2018-06-12,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2018-06-13,Thiruvananthapuram,1.0,Good,47,CO
+2018-06-14,Thiruvananthapuram,1.0,Good,44,CO
+2018-06-15,Thiruvananthapuram,1.0,Good,43,CO
+2018-06-16,Thiruvananthapuram,1.0,Good,38,CO
+2018-06-17,Thiruvananthapuram,1.0,Good,43,CO
+2018-06-18,Thiruvananthapuram,1.0,Good,48,CO
+2018-06-19,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2018-06-20,Thiruvananthapuram,1.0,Good,49,PM10
+2018-06-21,Thiruvananthapuram,1.0,Satisfactory,50,PM10
+2018-06-22,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2018-06-23,Thiruvananthapuram,1.0,Good,47,PM10
+2018-06-24,Thiruvananthapuram,1.0,Good,41,CO
+2018-06-25,Thiruvananthapuram,1.0,Good,35,CO
+2018-06-26,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2018-06-27,Thiruvananthapuram,1.0,Good,39,PM10
+2018-06-28,Thiruvananthapuram,1.0,Good,39,PM10
+2018-06-29,Thiruvananthapuram,1.0,Good,42,CO
+2018-06-30,Thiruvananthapuram,1.0,Good,42,CO
+2018-07-01,Thiruvananthapuram,1.0,Good,41,OZONE
+2018-07-02,Thiruvananthapuram,1.0,Good,40,OZONE
+2018-07-03,Thiruvananthapuram,1.0,Good,44,CO
+2018-07-04,Thiruvananthapuram,1.0,Good,47,CO
+2018-07-05,Thiruvananthapuram,1.0,Good,42,PM10
+2018-07-06,Thiruvananthapuram,1.0,Good,43,PM10
+2018-07-07,Thiruvananthapuram,1.0,Good,47,PM10
+2018-07-08,Thiruvananthapuram,1.0,Good,40,PM10
+2018-07-09,Thiruvananthapuram,1.0,Good,41,CO
+2018-07-10,Thiruvananthapuram,1.0,Good,48,CO
+2018-07-11,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-07-12,Thiruvananthapuram,1.0,Good,47,CO
+2018-07-13,Thiruvananthapuram,1.0,Good,48,PM10
+2018-07-14,Thiruvananthapuram,1.0,Good,42,PM10
+2018-07-15,Thiruvananthapuram,1.0,Good,32,CO
+2018-07-16,Thiruvananthapuram,1.0,Good,32,OZONE
+2018-07-17,Thiruvananthapuram,1.0,Good,36,OZONE
+2018-07-19,Thiruvananthapuram,1.0,Good,41,CO
+2018-07-20,Thiruvananthapuram,1.0,Good,45,PM10
+2018-07-21,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2018-07-22,Thiruvananthapuram,1.0,Satisfactory,64,PM10
+2018-07-24,Thiruvananthapuram,1.0,Good,47,PM10
+2018-07-25,Thiruvananthapuram,1.0,Good,39,PM10
+2018-07-26,Thiruvananthapuram,1.0,Good,48,CO
+2018-07-27,Thiruvananthapuram,1.0,Good,44,CO
+2018-07-28,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2018-07-29,Thiruvananthapuram,1.0,Satisfactory,57,PM10
+2018-07-30,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-07-31,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2018-08-01,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-08-02,Thiruvananthapuram,1.0,Good,44,CO
+2018-08-03,Thiruvananthapuram,1.0,Good,43,CO
+2018-08-04,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2018-08-05,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-08-06,Thiruvananthapuram,1.0,Good,49,CO
+2018-08-07,Thiruvananthapuram,1.0,Good,47,CO
+2018-08-08,Thiruvananthapuram,1.0,Satisfactory,62,CO
+2018-08-09,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2018-08-10,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2018-08-11,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2018-08-12,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2018-08-13,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2018-08-14,Thiruvananthapuram,1.0,Satisfactory,71,CO
+2018-08-16,Thiruvananthapuram,1.0,Satisfactory,77,CO
+2018-08-17,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-08-18,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2018-08-19,Thiruvananthapuram,1.0,Satisfactory,70,CO
+2018-08-20,Thiruvananthapuram,1.0,Satisfactory,88,CO
+2018-08-21,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2018-08-22,Thiruvananthapuram,1.0,Good,46,CO
+2018-08-23,Thiruvananthapuram,1.0,Good,49,CO
+2018-08-24,Thiruvananthapuram,1.0,Good,46,OZONE
+2018-08-25,Thiruvananthapuram,1.0,Satisfactory,81,CO
+2018-08-26,Thiruvananthapuram,1.0,Moderate,101,CO
+2018-08-27,Thiruvananthapuram,1.0,Satisfactory,98,CO
+2018-08-28,Thiruvananthapuram,1.0,Satisfactory,82,CO
+2018-08-29,Thiruvananthapuram,1.0,Good,43,OZONE
+2018-08-30,Thiruvananthapuram,1.0,Good,42,PM10
+2018-08-31,Thiruvananthapuram,1.0,Satisfactory,50,CO
+2018-09-01,Thiruvananthapuram,1.0,Satisfactory,59,PM10
+2018-09-02,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2018-09-03,Thiruvananthapuram,1.0,Satisfactory,50,PM10
+2018-09-04,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2018-09-05,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2018-09-06,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2018-09-07,Thiruvananthapuram,1.0,Good,49,PM10
+2018-09-08,Thiruvananthapuram,1.0,Good,44,OZONE
+2018-09-11,Thiruvananthapuram,1.0,Satisfactory,57,PM10
+2018-09-12,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2018-09-13,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2018-09-14,Thiruvananthapuram,1.0,Satisfactory,75,PM10
+2018-09-15,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2018-09-16,Thiruvananthapuram,1.0,Good,48,OZONE
+2018-09-17,Thiruvananthapuram,1.0,Good,45,PM10
+2018-09-18,Thiruvananthapuram,1.0,Good,39,PM10
+2018-09-19,Thiruvananthapuram,1.0,Good,47,CO
+2018-09-20,Thiruvananthapuram,1.0,Good,47,CO
+2018-09-21,Thiruvananthapuram,1.0,Good,47,OZONE
+2018-09-22,Thiruvananthapuram,1.0,Satisfactory,64,PM10
+2018-09-23,Thiruvananthapuram,1.0,Good,39,PM10
+2018-09-24,Thiruvananthapuram,1.0,Good,45,CO
+2018-09-25,Thiruvananthapuram,1.0,Satisfactory,55,OZONE
+2018-09-26,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2018-09-27,Thiruvananthapuram,1.0,Satisfactory,59,OZONE
+2018-09-28,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2018-09-29,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2018-09-30,Thiruvananthapuram,1.0,Good,45,OZONE
+2018-10-01,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2018-10-02,Thiruvananthapuram,1.0,Good,46,CO
+2018-10-03,Thiruvananthapuram,1.0,Good,49,CO
+2018-10-04,Thiruvananthapuram,1.0,Good,44,CO
+2018-10-05,Thiruvananthapuram,1.0,Good,44,CO
+2018-10-06,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2018-10-07,Thiruvananthapuram,1.0,Good,45,CO
+2018-10-08,Thiruvananthapuram,1.0,Good,50,CO
+2018-10-09,Thiruvananthapuram,1.0,Good,48,CO
+2018-10-10,Thiruvananthapuram,1.0,Good,47,CO
+2018-10-11,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2018-10-12,Thiruvananthapuram,1.0,Satisfactory,67,PM10
+2018-10-13,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2018-10-14,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2018-10-15,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2018-10-16,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-10-17,Thiruvananthapuram,1.0,Good,45,CO
+2018-10-18,Thiruvananthapuram,1.0,Good,37,PM10
+2018-10-19,Thiruvananthapuram,1.0,Good,50,CO
+2018-10-20,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-10-21,Thiruvananthapuram,1.0,Good,39,CO
+2018-10-22,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2018-10-23,Thiruvananthapuram,1.0,Good,43,CO
+2018-10-24,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-10-25,Thiruvananthapuram,1.0,Satisfactory,67,PM2.5
+2018-10-26,Thiruvananthapuram,1.0,Moderate,106,PM2.5
+2018-10-27,Thiruvananthapuram,1.0,Moderate,105,PM2.5
+2018-10-28,Thiruvananthapuram,1.0,Moderate,127,PM2.5
+2018-10-29,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2018-10-30,Thiruvananthapuram,1.0,Satisfactory,89,PM2.5
+2018-10-31,Thiruvananthapuram,1.0,Satisfactory,90,PM10
+2018-11-01,Thiruvananthapuram,1.0,Satisfactory,60,PM2.5
+2018-11-02,Thiruvananthapuram,1.0,Moderate,104,PM2.5
+2018-11-03,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2018-11-04,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2018-11-05,Thiruvananthapuram,1.0,Satisfactory,73,PM2.5
+2018-11-06,Thiruvananthapuram,1.0,Moderate,113,PM2.5
+2018-11-07,Thiruvananthapuram,1.0,Moderate,104,PM2.5
+2018-11-08,Thiruvananthapuram,1.0,Satisfactory,89,CO
+2018-11-09,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2018-11-10,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2018-11-11,Thiruvananthapuram,1.0,Satisfactory,68,PM2.5
+2018-11-12,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2018-11-13,Thiruvananthapuram,1.0,Satisfactory,74,OZONE
+2018-11-14,Thiruvananthapuram,1.0,Moderate,102,PM2.5
+2018-11-15,Thiruvananthapuram,1.0,Moderate,142,PM2.5
+2018-11-16,Thiruvananthapuram,1.0,Satisfactory,78,PM10
+2018-11-17,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2018-11-18,Thiruvananthapuram,1.0,Moderate,104,PM2.5
+2018-11-19,Thiruvananthapuram,1.0,Satisfactory,68,CO
+2018-11-20,Thiruvananthapuram,1.0,Satisfactory,68,CO
+2018-11-21,Thiruvananthapuram,1.0,Satisfactory,57,OZONE
+2018-11-22,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2018-11-23,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2018-11-24,Thiruvananthapuram,1.0,Satisfactory,68,CO
+2018-11-25,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2018-11-26,Thiruvananthapuram,1.0,Satisfactory,76,PM2.5
+2018-11-27,Thiruvananthapuram,1.0,Moderate,160,PM2.5
+2018-11-28,Thiruvananthapuram,1.0,Moderate,177,PM2.5
+2018-11-29,Thiruvananthapuram,1.0,Moderate,190,PM2.5
+2018-11-30,Thiruvananthapuram,1.0,Satisfactory,82,CO
+2018-12-01,Thiruvananthapuram,1.0,Satisfactory,90,CO
+2018-12-02,Thiruvananthapuram,1.0,Satisfactory,72,PM10
+2018-12-03,Thiruvananthapuram,1.0,Satisfactory,78,OZONE
+2018-12-04,Thiruvananthapuram,1.0,Moderate,104,PM2.5
+2018-12-06,Thiruvananthapuram,1.0,Satisfactory,89,PM2.5
+2018-12-07,Thiruvananthapuram,1.0,Satisfactory,84,CO
+2018-12-08,Thiruvananthapuram,1.0,Satisfactory,89,CO
+2018-12-09,Thiruvananthapuram,1.0,Satisfactory,86,CO
+2018-12-10,Thiruvananthapuram,1.0,Moderate,140,PM2.5
+2018-12-11,Thiruvananthapuram,1.0,Moderate,183,PM2.5
+2018-12-12,Thiruvananthapuram,1.0,Poor,215,PM2.5
+2018-12-13,Thiruvananthapuram,1.0,Moderate,109,PM2.5
+2018-12-14,Thiruvananthapuram,1.0,Satisfactory,100,CO
+2018-12-15,Thiruvananthapuram,1.0,Moderate,115,PM2.5
+2018-12-16,Thiruvananthapuram,1.0,Moderate,128,PM2.5
+2018-12-17,Thiruvananthapuram,1.0,Satisfactory,90,PM10
+2018-12-18,Thiruvananthapuram,1.0,Moderate,125,PM2.5
+2018-12-19,Thiruvananthapuram,1.0,Poor,202,PM2.5
+2018-12-20,Thiruvananthapuram,1.0,Moderate,152,PM2.5
+2018-12-21,Thiruvananthapuram,1.0,Moderate,139,PM2.5
+2018-12-22,Thiruvananthapuram,1.0,Moderate,123,PM2.5
+2018-12-23,Thiruvananthapuram,1.0,Moderate,129,PM2.5
+2018-12-24,Thiruvananthapuram,1.0,Moderate,107,CO
+2018-12-25,Thiruvananthapuram,1.0,Moderate,105,CO
+2018-12-26,Thiruvananthapuram,1.0,Moderate,103,CO
+2018-12-27,Thiruvananthapuram,1.0,Moderate,107,CO
+2018-12-28,Thiruvananthapuram,1.0,Moderate,130,CO
+2018-12-29,Thiruvananthapuram,1.0,Moderate,154,CO
+2018-12-30,Thiruvananthapuram,1.0,Moderate,156,CO
+2018-12-31,Thiruvananthapuram,1.0,Moderate,121,CO
+2019-01-01,Thiruvananthapuram,1.0,Moderate,133,PM2.5
+2019-01-02,Thiruvananthapuram,1.0,Moderate,117,OZONE
+2019-01-03,Thiruvananthapuram,1.0,Moderate,122,OZONE
+2019-01-04,Thiruvananthapuram,1.0,Moderate,117,OZONE
+2019-01-05,Thiruvananthapuram,1.0,Satisfactory,98,OZONE
+2019-01-06,Thiruvananthapuram,1.0,Satisfactory,97,OZONE
+2019-01-07,Thiruvananthapuram,1.0,Satisfactory,98,PM2.5
+2019-01-08,Thiruvananthapuram,1.0,Satisfactory,97,OZONE
+2019-01-09,Thiruvananthapuram,1.0,Moderate,155,PM2.5
+2019-01-10,Thiruvananthapuram,1.0,Moderate,119,OZONE
+2019-01-11,Thiruvananthapuram,1.0,Moderate,158,OZONE
+2019-01-12,Thiruvananthapuram,1.0,Moderate,134,PM2.5
+2019-01-13,Thiruvananthapuram,1.0,Moderate,114,PM2.5
+2019-01-14,Thiruvananthapuram,1.0,Moderate,143,PM2.5
+2019-01-15,Thiruvananthapuram,1.0,Moderate,133,PM2.5
+2019-01-16,Thiruvananthapuram,1.0,Moderate,158,PM2.5
+2019-01-17,Thiruvananthapuram,1.0,Moderate,126,PM2.5
+2019-01-18,Thiruvananthapuram,1.0,Moderate,134,PM2.5
+2019-01-19,Thiruvananthapuram,1.0,Moderate,159,PM2.5
+2019-01-20,Thiruvananthapuram,1.0,Moderate,162,PM2.5
+2019-01-21,Thiruvananthapuram,1.0,Moderate,182,PM2.5
+2019-01-22,Thiruvananthapuram,1.0,Moderate,120,PM2.5
+2019-01-23,Thiruvananthapuram,1.0,Moderate,164,OZONE
+2019-01-24,Thiruvananthapuram,1.0,Moderate,172,PM2.5
+2019-01-25,Thiruvananthapuram,1.0,Moderate,116,PM2.5
+2019-01-26,Thiruvananthapuram,1.0,Satisfactory,93,PM2.5
+2019-01-27,Thiruvananthapuram,1.0,Satisfactory,81,OZONE
+2019-01-28,Thiruvananthapuram,1.0,Satisfactory,79,OZONE
+2019-01-29,Thiruvananthapuram,1.0,Satisfactory,84,OZONE
+2019-01-30,Thiruvananthapuram,1.0,Satisfactory,89,OZONE
+2019-01-31,Thiruvananthapuram,1.0,Moderate,152,OZONE
+2019-02-01,Thiruvananthapuram,1.0,Moderate,110,OZONE
+2019-02-02,Thiruvananthapuram,1.0,Satisfactory,96,OZONE
+2019-02-03,Thiruvananthapuram,1.0,Satisfactory,83,OZONE
+2019-02-04,Thiruvananthapuram,1.0,Satisfactory,85,PM2.5
+2019-02-05,Thiruvananthapuram,1.0,Satisfactory,68,OZONE
+2019-02-06,Thiruvananthapuram,1.0,Satisfactory,75,OZONE
+2019-02-07,Thiruvananthapuram,1.0,Satisfactory,82,OZONE
+2019-02-08,Thiruvananthapuram,1.0,Satisfactory,98,OZONE
+2019-02-09,Thiruvananthapuram,1.0,Moderate,115,PM2.5
+2019-02-10,Thiruvananthapuram,1.0,Satisfactory,58,PM2.5
+2019-02-11,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2019-02-12,Thiruvananthapuram,1.0,Satisfactory,70,OZONE
+2019-02-13,Thiruvananthapuram,1.0,Satisfactory,93,OZONE
+2019-02-14,Thiruvananthapuram,1.0,Satisfactory,85,PM10
+2019-02-15,Thiruvananthapuram,1.0,Satisfactory,82,OZONE
+2019-02-16,Thiruvananthapuram,1.0,Satisfactory,85,OZONE
+2019-02-17,Thiruvananthapuram,1.0,Satisfactory,70,OZONE
+2019-02-18,Thiruvananthapuram,1.0,Satisfactory,70,OZONE
+2019-02-19,Thiruvananthapuram,1.0,Satisfactory,55,OZONE
+2019-02-20,Thiruvananthapuram,1.0,Satisfactory,68,PM10
+2019-02-21,Thiruvananthapuram,1.0,Satisfactory,71,OZONE
+2019-02-22,Thiruvananthapuram,1.0,Satisfactory,71,OZONE
+2019-02-23,Thiruvananthapuram,1.0,Satisfactory,94,OZONE
+2019-02-24,Thiruvananthapuram,1.0,Satisfactory,96,OZONE
+2019-02-25,Thiruvananthapuram,1.0,Satisfactory,90,OZONE
+2019-02-26,Thiruvananthapuram,1.0,Satisfactory,86,OZONE
+2019-02-27,Thiruvananthapuram,1.0,Satisfactory,74,OZONE
+2019-02-28,Thiruvananthapuram,1.0,Satisfactory,77,OZONE
+2019-03-01,Thiruvananthapuram,1.0,Satisfactory,84,PM10
+2019-03-02,Thiruvananthapuram,1.0,Satisfactory,78,OZONE
+2019-03-03,Thiruvananthapuram,1.0,Satisfactory,77,OZONE
+2019-03-04,Thiruvananthapuram,1.0,Satisfactory,75,OZONE
+2019-03-05,Thiruvananthapuram,1.0,Satisfactory,74,OZONE
+2019-03-06,Thiruvananthapuram,1.0,Satisfactory,61,OZONE
+2019-03-07,Thiruvananthapuram,1.0,Moderate,137,PM10
+2019-03-08,Thiruvananthapuram,1.0,Moderate,128,PM10
+2019-03-09,Thiruvananthapuram,1.0,Moderate,102,PM10
+2019-03-10,Thiruvananthapuram,1.0,Satisfactory,76,OZONE
+2019-03-11,Thiruvananthapuram,1.0,Satisfactory,73,PM10
+2019-03-12,Thiruvananthapuram,1.0,Satisfactory,97,OZONE
+2019-03-14,Thiruvananthapuram,1.0,Satisfactory,89,PM10
+2019-03-16,Thiruvananthapuram,1.0,Satisfactory,87,PM10
+2019-03-17,Thiruvananthapuram,1.0,Satisfactory,93,PM10
+2019-03-18,Thiruvananthapuram,1.0,Satisfactory,77,OZONE
+2019-03-19,Thiruvananthapuram,1.0,Satisfactory,71,PM10
+2019-03-20,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2019-03-21,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2019-03-22,Thiruvananthapuram,1.0,Satisfactory,87,OZONE
+2019-03-23,Thiruvananthapuram,1.0,Satisfactory,77,OZONE
+2019-03-24,Thiruvananthapuram,1.0,Satisfactory,76,OZONE
+2019-03-25,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2019-03-26,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2019-03-27,Thiruvananthapuram,1.0,Satisfactory,87,OZONE
+2019-03-28,Thiruvananthapuram,1.0,Satisfactory,72,PM10
+2019-03-29,Thiruvananthapuram,1.0,Satisfactory,77,PM10
+2019-03-30,Thiruvananthapuram,1.0,Satisfactory,83,PM10
+2019-03-31,Thiruvananthapuram,1.0,Satisfactory,86,PM10
+2019-04-01,Thiruvananthapuram,1.0,Satisfactory,78,PM10
+2019-04-02,Thiruvananthapuram,1.0,Satisfactory,81,PM10
+2019-04-03,Thiruvananthapuram,1.0,Satisfactory,84,PM10
+2019-04-04,Thiruvananthapuram,1.0,Satisfactory,65,OZONE
+2019-04-05,Thiruvananthapuram,1.0,Satisfactory,54,OZONE
+2019-04-06,Thiruvananthapuram,1.0,Satisfactory,56,OZONE
+2019-04-07,Thiruvananthapuram,1.0,Satisfactory,65,OZONE
+2019-04-08,Thiruvananthapuram,1.0,Satisfactory,71,PM10
+2019-04-09,Thiruvananthapuram,1.0,Satisfactory,68,PM10
+2019-04-10,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2019-04-11,Thiruvananthapuram,1.0,Satisfactory,67,OZONE
+2019-04-12,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2019-04-13,Thiruvananthapuram,1.0,Satisfactory,62,OZONE
+2019-04-14,Thiruvananthapuram,1.0,Satisfactory,61,OZONE
+2019-04-15,Thiruvananthapuram,1.0,Satisfactory,59,OZONE
+2019-04-16,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2019-04-17,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2019-04-18,Thiruvananthapuram,1.0,Satisfactory,60,OZONE
+2019-04-19,Thiruvananthapuram,1.0,Satisfactory,56,OZONE
+2019-04-20,Thiruvananthapuram,1.0,Satisfactory,55,OZONE
+2019-04-21,Thiruvananthapuram,1.0,Satisfactory,51,OZONE
+2019-04-22,Thiruvananthapuram,1.0,Satisfactory,60,OZONE
+2019-04-23,Thiruvananthapuram,1.0,Satisfactory,66,OZONE
+2019-04-24,Thiruvananthapuram,1.0,Satisfactory,72,OZONE
+2019-04-25,Thiruvananthapuram,1.0,Satisfactory,66,OZONE
+2019-04-26,Thiruvananthapuram,1.0,Satisfactory,65,OZONE
+2019-04-27,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2019-04-28,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2019-04-29,Thiruvananthapuram,1.0,Satisfactory,57,PM10
+2019-04-30,Thiruvananthapuram,1.0,Satisfactory,63,OZONE
+2019-05-01,Thiruvananthapuram,1.0,Satisfactory,53,OZONE
+2019-05-02,Thiruvananthapuram,1.0,Satisfactory,73,PM10
+2019-05-03,Thiruvananthapuram,1.0,Moderate,102,PM10
+2019-05-04,Thiruvananthapuram,1.0,Moderate,103,PM10
+2019-05-05,Thiruvananthapuram,1.0,Satisfactory,93,PM10
+2019-05-06,Thiruvananthapuram,1.0,Moderate,108,PM10
+2019-05-07,Thiruvananthapuram,1.0,Satisfactory,95,PM10
+2019-05-08,Thiruvananthapuram,1.0,Satisfactory,70,PM10
+2019-05-09,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2019-05-10,Thiruvananthapuram,1.0,Satisfactory,56,OZONE
+2019-05-11,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2019-05-12,Thiruvananthapuram,1.0,Good,50,OZONE
+2019-05-13,Thiruvananthapuram,1.0,Good,49,CO
+2019-05-14,Thiruvananthapuram,1.0,Good,50,CO
+2019-05-15,Thiruvananthapuram,1.0,Satisfactory,66,CO
+2019-05-16,Thiruvananthapuram,1.0,Moderate,108,CO
+2019-05-17,Thiruvananthapuram,1.0,Moderate,114,CO
+2019-05-23,Thiruvananthapuram,1.0,Satisfactory,56,PM10
+2019-05-25,Thiruvananthapuram,1.0,Good,45,OZONE
+2019-05-26,Thiruvananthapuram,1.0,Good,46,OZONE
+2019-05-27,Thiruvananthapuram,1.0,Good,45,PM10
+2019-05-28,Thiruvananthapuram,1.0,Satisfactory,71,PM10
+2019-05-29,Thiruvananthapuram,1.0,Satisfactory,87,PM10
+2019-05-30,Thiruvananthapuram,1.0,Satisfactory,65,PM10
+2019-05-31,Thiruvananthapuram,1.0,Satisfactory,65,PM10
+2019-06-01,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2019-06-02,Thiruvananthapuram,1.0,Good,44,PM10
+2019-06-04,Thiruvananthapuram,1.0,Good,39,OZONE
+2019-06-05,Thiruvananthapuram,1.0,Good,46,OZONE
+2019-06-06,Thiruvananthapuram,1.0,Good,39,CO
+2019-06-07,Thiruvananthapuram,1.0,Good,42,PM10
+2019-06-08,Thiruvananthapuram,1.0,Good,36,OZONE
+2019-06-09,Thiruvananthapuram,1.0,Good,28,CO
+2019-06-10,Thiruvananthapuram,1.0,Good,35,OZONE
+2019-06-19,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2019-06-20,Thiruvananthapuram,1.0,Good,45,CO
+2019-06-26,Thiruvananthapuram,1.0,Satisfactory,56,PM10
+2019-06-27,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2019-06-28,Thiruvananthapuram,1.0,Good,47,PM10
+2019-06-29,Thiruvananthapuram,1.0,Good,46,PM10
+2019-06-30,Thiruvananthapuram,1.0,Good,43,PM10
+2019-07-01,Thiruvananthapuram,1.0,Good,41,CO
+2019-07-02,Thiruvananthapuram,1.0,Good,43,CO
+2019-07-03,Thiruvananthapuram,1.0,Good,47,CO
+2019-07-04,Thiruvananthapuram,1.0,Good,36,CO
+2019-07-05,Thiruvananthapuram,1.0,Good,44,CO
+2019-07-06,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2019-07-07,Thiruvananthapuram,1.0,Good,30,PM10
+2019-07-08,Thiruvananthapuram,1.0,Good,31,CO
+2019-07-09,Thiruvananthapuram,1.0,Good,40,CO
+2019-07-10,Thiruvananthapuram,1.0,Good,38,CO
+2019-07-11,Thiruvananthapuram,1.0,Good,44,CO
+2019-07-12,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2019-07-13,Thiruvananthapuram,1.0,Good,36,CO
+2019-07-14,Thiruvananthapuram,1.0,Good,33,PM10
+2019-07-15,Thiruvananthapuram,1.0,Good,30,CO
+2019-07-16,Thiruvananthapuram,1.0,Good,37,CO
+2019-07-17,Thiruvananthapuram,1.0,Good,40,CO
+2019-07-18,Thiruvananthapuram,1.0,Good,32,CO
+2019-07-19,Thiruvananthapuram,1.0,Good,35,CO
+2019-07-20,Thiruvananthapuram,1.0,Good,37,CO
+2019-07-21,Thiruvananthapuram,1.0,Good,27,OZONE
+2019-07-22,Thiruvananthapuram,1.0,Good,35,CO
+2019-07-23,Thiruvananthapuram,1.0,Good,36,CO
+2019-07-24,Thiruvananthapuram,1.0,Good,39,CO
+2019-07-25,Thiruvananthapuram,1.0,Good,43,CO
+2019-07-26,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-07-27,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2019-07-28,Thiruvananthapuram,1.0,Good,45,CO
+2019-07-29,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2019-07-30,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2019-07-31,Thiruvananthapuram,1.0,Satisfactory,70,CO
+2019-08-01,Thiruvananthapuram,1.0,Good,38,CO
+2019-08-02,Thiruvananthapuram,1.0,Good,39,CO
+2019-08-03,Thiruvananthapuram,1.0,Good,45,PM10
+2019-08-04,Thiruvananthapuram,1.0,Good,35,PM10
+2019-08-05,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2019-08-06,Thiruvananthapuram,1.0,Good,40,CO
+2019-08-07,Thiruvananthapuram,1.0,Good,38,CO
+2019-08-08,Thiruvananthapuram,1.0,Good,35,CO
+2019-08-09,Thiruvananthapuram,1.0,Good,26,OZONE
+2019-08-10,Thiruvananthapuram,1.0,Good,32,CO
+2019-08-11,Thiruvananthapuram,1.0,Good,29,OZONE
+2019-08-12,Thiruvananthapuram,1.0,Good,30,OZONE
+2019-08-13,Thiruvananthapuram,1.0,Good,35,CO
+2019-08-14,Thiruvananthapuram,1.0,Good,36,CO
+2019-08-15,Thiruvananthapuram,1.0,Good,37,OZONE
+2019-08-16,Thiruvananthapuram,1.0,Good,38,CO
+2019-08-17,Thiruvananthapuram,1.0,Good,42,CO
+2019-08-18,Thiruvananthapuram,1.0,Good,47,PM10
+2019-08-19,Thiruvananthapuram,1.0,Good,39,PM10
+2019-08-20,Thiruvananthapuram,1.0,Good,39,PM10
+2019-08-21,Thiruvananthapuram,1.0,Good,36,PM10
+2019-08-22,Thiruvananthapuram,1.0,Good,45,CO
+2019-08-23,Thiruvananthapuram,1.0,Good,35,CO
+2019-08-24,Thiruvananthapuram,1.0,Good,36,CO
+2019-08-25,Thiruvananthapuram,1.0,Good,35,OZONE
+2019-08-26,Thiruvananthapuram,1.0,Good,40,CO
+2019-08-27,Thiruvananthapuram,1.0,Good,36,CO
+2019-08-29,Thiruvananthapuram,1.0,Good,41,CO
+2019-08-30,Thiruvananthapuram,1.0,Good,38,CO
+2019-08-31,Thiruvananthapuram,1.0,Good,39,PM10
+2019-09-01,Thiruvananthapuram,1.0,Good,35,PM10
+2019-09-02,Thiruvananthapuram,1.0,Good,41,CO
+2019-09-03,Thiruvananthapuram,1.0,Good,46,CO
+2019-09-04,Thiruvananthapuram,1.0,Good,41,CO
+2019-09-05,Thiruvananthapuram,1.0,Good,44,CO
+2019-09-06,Thiruvananthapuram,1.0,Good,40,CO
+2019-09-07,Thiruvananthapuram,1.0,Good,42,CO
+2019-09-08,Thiruvananthapuram,1.0,Good,40,CO
+2019-09-09,Thiruvananthapuram,1.0,Good,44,CO
+2019-09-10,Thiruvananthapuram,1.0,Good,35,CO
+2019-09-11,Thiruvananthapuram,1.0,Good,35,CO
+2019-09-13,Thiruvananthapuram,1.0,Good,36,OZONE
+2019-09-14,Thiruvananthapuram,1.0,Good,39,CO
+2019-09-15,Thiruvananthapuram,1.0,Good,40,CO
+2019-09-16,Thiruvananthapuram,1.0,Good,50,CO
+2019-09-17,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2019-09-18,Thiruvananthapuram,1.0,Good,45,CO
+2019-09-19,Thiruvananthapuram,1.0,Good,45,CO
+2019-09-20,Thiruvananthapuram,1.0,Good,43,CO
+2019-09-21,Thiruvananthapuram,1.0,Good,40,CO
+2019-09-22,Thiruvananthapuram,1.0,Good,44,CO
+2019-09-23,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2019-09-24,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2019-09-25,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-09-26,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2019-09-27,Thiruvananthapuram,1.0,Good,46,CO
+2019-09-28,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2019-09-29,Thiruvananthapuram,1.0,Satisfactory,69,CO
+2019-09-30,Thiruvananthapuram,1.0,Moderate,156,CO
+2019-10-01,Thiruvananthapuram,1.0,Satisfactory,69,CO
+2019-10-02,Thiruvananthapuram,1.0,Good,46,OZONE
+2019-10-03,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2019-10-04,Thiruvananthapuram,1.0,Good,46,CO
+2019-10-05,Thiruvananthapuram,1.0,Good,47,CO
+2019-10-06,Thiruvananthapuram,1.0,Good,46,OZONE
+2019-10-07,Thiruvananthapuram,1.0,Good,37,CO
+2019-10-08,Thiruvananthapuram,1.0,Good,40,OZONE
+2019-10-09,Thiruvananthapuram,1.0,Good,47,CO
+2019-10-10,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2019-10-11,Thiruvananthapuram,1.0,Good,45,CO
+2019-10-12,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-10-13,Thiruvananthapuram,1.0,Good,40,CO
+2019-10-14,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-10-15,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-10-16,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2019-10-17,Thiruvananthapuram,1.0,Good,49,CO
+2019-10-18,Thiruvananthapuram,1.0,Good,49,CO
+2019-10-19,Thiruvananthapuram,1.0,Good,49,CO
+2019-10-21,Thiruvananthapuram,1.0,Good,45,CO
+2019-10-22,Thiruvananthapuram,1.0,Good,40,CO
+2019-10-23,Thiruvananthapuram,1.0,Good,44,CO
+2019-10-24,Thiruvananthapuram,1.0,Good,49,CO
+2019-10-25,Thiruvananthapuram,1.0,Satisfactory,91,PM2.5
+2019-10-26,Thiruvananthapuram,1.0,Good,42,CO
+2019-10-27,Thiruvananthapuram,1.0,Satisfactory,68,PM2.5
+2019-10-28,Thiruvananthapuram,1.0,Satisfactory,57,PM2.5
+2019-10-29,Thiruvananthapuram,1.0,Good,47,PM10
+2019-10-30,Thiruvananthapuram,1.0,Good,46,CO
+2019-10-31,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2019-11-01,Thiruvananthapuram,1.0,Good,49,CO
+2019-11-02,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2019-11-03,Thiruvananthapuram,1.0,Good,50,CO
+2019-11-04,Thiruvananthapuram,1.0,Good,49,OZONE
+2019-11-05,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2019-11-06,Thiruvananthapuram,1.0,Satisfactory,57,PM10
+2019-11-07,Thiruvananthapuram,1.0,Good,47,OZONE
+2019-11-08,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2019-11-09,Thiruvananthapuram,1.0,Good,47,CO
+2019-11-10,Thiruvananthapuram,1.0,Good,44,CO
+2019-11-11,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2019-11-12,Thiruvananthapuram,1.0,Satisfactory,63,CO
+2019-11-13,Thiruvananthapuram,1.0,Satisfactory,70,CO
+2019-11-14,Thiruvananthapuram,1.0,Satisfactory,98,CO
+2019-11-15,Thiruvananthapuram,1.0,Satisfactory,82,CO
+2019-11-16,Thiruvananthapuram,1.0,Moderate,133,CO
+2019-11-17,Thiruvananthapuram,1.0,Good,40,CO
+2019-11-18,Thiruvananthapuram,1.0,Good,50,CO
+2019-11-19,Thiruvananthapuram,1.0,Good,50,PM10
+2019-11-20,Thiruvananthapuram,1.0,Good,49,PM10
+2019-11-21,Thiruvananthapuram,1.0,Good,45,CO
+2019-11-22,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2019-11-23,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2019-11-24,Thiruvananthapuram,1.0,Satisfactory,65,PM10
+2019-11-25,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2019-11-26,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2019-11-27,Thiruvananthapuram,1.0,Satisfactory,67,PM2.5
+2019-11-28,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2019-11-29,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2019-11-30,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2019-12-01,Thiruvananthapuram,1.0,Good,32,CO
+2019-12-02,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2019-12-03,Thiruvananthapuram,1.0,Satisfactory,64,CO
+2019-12-04,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2019-12-05,Thiruvananthapuram,1.0,Satisfactory,65,PM2.5
+2019-12-06,Thiruvananthapuram,1.0,Satisfactory,66,O3
+2019-12-07,Thiruvananthapuram,1.0,Satisfactory,74,PM10
+2019-12-08,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2019-12-09,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2019-12-10,Thiruvananthapuram,1.0,Satisfactory,62,O3
+2019-12-11,Thiruvananthapuram,1.0,Satisfactory,69,PM2.5
+2019-12-12,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2019-12-13,Thiruvananthapuram,1.0,Satisfactory,75,CO
+2019-12-14,Thiruvananthapuram,1.0,Satisfactory,66,CO
+2019-12-15,Thiruvananthapuram,1.0,Satisfactory,71,CO
+2019-12-16,Thiruvananthapuram,1.0,Satisfactory,67,CO
+2019-12-17,Thiruvananthapuram,1.0,Satisfactory,60,PM10
+2019-12-18,Thiruvananthapuram,1.0,Satisfactory,74,CO
+2019-12-19,Thiruvananthapuram,1.0,Satisfactory,62,CO
+2019-12-20,Thiruvananthapuram,1.0,Satisfactory,89,CO
+2019-12-21,Thiruvananthapuram,1.0,Satisfactory,73,CO
+2019-12-22,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2019-12-23,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2019-12-24,Thiruvananthapuram,1.0,Satisfactory,75,PM2.5
+2019-12-25,Thiruvananthapuram,1.0,Satisfactory,85,PM2.5
+2019-12-26,Thiruvananthapuram,1.0,Satisfactory,75,CO
+2019-12-27,Thiruvananthapuram,1.0,Satisfactory,78,CO
+2019-12-28,Thiruvananthapuram,1.0,Satisfactory,56,PM10
+2019-12-29,Thiruvananthapuram,1.0,Satisfactory,89,CO
+2019-12-30,Thiruvananthapuram,1.0,Satisfactory,95,PM2.5
+2019-12-31,Thiruvananthapuram,1.0,Satisfactory,71,CO
+2020-01-01,Thiruvananthapuram,1.0,Satisfactory,68,PM10
+2020-01-02,Thiruvananthapuram,1.0,Satisfactory,58,PM2.5
+2020-01-03,Thiruvananthapuram,1.0,Satisfactory,76,PM2.5
+2020-01-04,Thiruvananthapuram,1.0,Satisfactory,59,O3
+2020-01-05,Thiruvananthapuram,1.0,Satisfactory,52,O3
+2020-01-06,Thiruvananthapuram,1.0,Satisfactory,77,PM10
+2020-01-07,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2020-01-08,Thiruvananthapuram,1.0,Good,45,O3
+2020-01-09,Thiruvananthapuram,1.0,Satisfactory,53,PM2.5
+2020-01-10,Thiruvananthapuram,1.0,Satisfactory,70,PM2.5
+2020-01-11,Thiruvananthapuram,1.0,Satisfactory,67,O3
+2020-01-12,Thiruvananthapuram,1.0,Satisfactory,63,O3
+2020-01-13,Thiruvananthapuram,1.0,Satisfactory,87,PM2.5
+2020-01-15,Thiruvananthapuram,1.0,Moderate,107,PM2.5
+2020-01-16,Thiruvananthapuram,1.0,Satisfactory,96,PM2.5
+2020-01-17,Thiruvananthapuram,1.0,Satisfactory,74,PM10
+2020-01-18,Thiruvananthapuram,1.0,Satisfactory,63,PM10
+2020-01-19,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2020-01-20,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2020-01-21,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2020-01-22,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2020-01-23,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2020-01-24,Thiruvananthapuram,1.0,Satisfactory,59,PM10
+2020-01-25,Thiruvananthapuram,1.0,Satisfactory,64,PM10
+2020-01-26,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2020-01-27,Thiruvananthapuram,1.0,Satisfactory,60,PM10
+2020-01-28,Thiruvananthapuram,1.0,Satisfactory,73,PM10
+2020-01-29,Thiruvananthapuram,1.0,Satisfactory,92,PM2.5
+2020-01-30,Thiruvananthapuram,1.0,Satisfactory,91,PM2.5
+2020-01-31,Thiruvananthapuram,1.0,Satisfactory,88,PM10
+2020-02-01,Thiruvananthapuram,1.0,Satisfactory,81,PM2.5
+2020-02-02,Thiruvananthapuram,1.0,Satisfactory,58,O3
+2020-02-03,Thiruvananthapuram,1.0,Satisfactory,71,PM2.5
+2020-02-04,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2020-02-05,Thiruvananthapuram,1.0,Satisfactory,61,PM10
+2020-02-06,Thiruvananthapuram,1.0,Satisfactory,61,O3
+2020-02-07,Thiruvananthapuram,1.0,Satisfactory,58,PM10
+2020-02-08,Thiruvananthapuram,1.0,Satisfactory,65,PM2.5
+2020-02-09,Thiruvananthapuram,1.0,Satisfactory,62,O3
+2020-02-10,Thiruvananthapuram,1.0,Moderate,166,PM2.5
+2020-02-11,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2020-02-12,Thiruvananthapuram,1.0,Satisfactory,69,PM2.5
+2020-02-13,Thiruvananthapuram,1.0,Satisfactory,69,PM2.5
+2020-02-14,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2020-02-15,Thiruvananthapuram,1.0,Satisfactory,65,PM10
+2020-02-16,Thiruvananthapuram,1.0,Satisfactory,75,PM2.5
+2020-02-17,Thiruvananthapuram,2.0,Moderate,118,PM2.5
+2020-02-18,Thiruvananthapuram,2.0,Satisfactory,86,"O3, PM2.5"
+2020-02-19,Thiruvananthapuram,2.0,Satisfactory,84,O3
+2020-02-20,Thiruvananthapuram,2.0,Satisfactory,80,"O3, PM2.5"
+2020-02-21,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2020-02-22,Thiruvananthapuram,2.0,Satisfactory,76,"CO, PM2.5"
+2020-02-23,Thiruvananthapuram,2.0,Satisfactory,68,O3
+2020-02-24,Thiruvananthapuram,2.0,Satisfactory,68,"CO, O3"
+2020-02-25,Thiruvananthapuram,2.0,Satisfactory,70,"CO, O3"
+2020-02-26,Thiruvananthapuram,2.0,Satisfactory,81,"CO, O3"
+2020-02-27,Thiruvananthapuram,2.0,Satisfactory,83,"CO, O3"
+2020-02-28,Thiruvananthapuram,2.0,Satisfactory,77,"CO, PM2.5"
+2020-02-29,Thiruvananthapuram,2.0,Moderate,132,"O3, PM10"
+2020-03-01,Thiruvananthapuram,2.0,Satisfactory,78,"CO, O3"
+2020-03-02,Thiruvananthapuram,2.0,Satisfactory,86,"CO, O3"
+2020-03-03,Thiruvananthapuram,2.0,Satisfactory,84,"CO, PM2.5"
+2020-03-04,Thiruvananthapuram,2.0,Satisfactory,99,"CO, PM2.5"
+2020-03-05,Thiruvananthapuram,2.0,Satisfactory,82,"CO, PM2.5"
+2020-03-06,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2020-03-07,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2020-03-08,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2020-03-09,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-03-10,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2020-03-11,Thiruvananthapuram,2.0,Satisfactory,57,PM10
+2020-03-12,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2020-03-13,Thiruvananthapuram,2.0,Satisfactory,70,O3
+2020-03-14,Thiruvananthapuram,2.0,Satisfactory,70,"O3, PM10"
+2020-03-15,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2020-03-16,Thiruvananthapuram,1.0,Satisfactory,56,PM10
+2020-03-17,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2020-03-18,Thiruvananthapuram,2.0,Satisfactory,54,"CO, O3"
+2020-03-19,Thiruvananthapuram,2.0,Satisfactory,54,"CO, O3"
+2020-03-20,Thiruvananthapuram,2.0,Satisfactory,60,"O3, PM10"
+2020-03-21,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2020-03-22,Thiruvananthapuram,2.0,Satisfactory,56,"O3, PM10"
+2020-03-23,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM10"
+2020-03-24,Thiruvananthapuram,2.0,Good,50,O3
+2020-03-25,Thiruvananthapuram,2.0,Good,49,"O3, PM10"
+2020-03-26,Thiruvananthapuram,2.0,Satisfactory,53,O3
+2020-03-27,Thiruvananthapuram,1.0,Satisfactory,69,O3
+2020-03-28,Thiruvananthapuram,1.0,Satisfactory,73,O3
+2020-03-29,Thiruvananthapuram,1.0,Good,43,PM10
+2020-03-30,Thiruvananthapuram,1.0,Good,46,PM10
+2020-03-31,Thiruvananthapuram,1.0,Good,49,PM10
+2020-04-01,Thiruvananthapuram,1.0,Good,48,PM10
+2020-04-02,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2020-04-03,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2020-04-04,Thiruvananthapuram,2.0,Satisfactory,61,"O3, PM10"
+2020-04-05,Thiruvananthapuram,2.0,Satisfactory,54,"O3, PM10"
+2020-04-06,Thiruvananthapuram,1.0,Satisfactory,54,O3
+2020-04-07,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2020-04-08,Thiruvananthapuram,2.0,Satisfactory,62,O3
+2020-04-09,Thiruvananthapuram,2.0,Good,47,"CO, O3"
+2020-04-10,Thiruvananthapuram,2.0,Good,50,"O3, PM10"
+2020-04-11,Thiruvananthapuram,2.0,Satisfactory,54,"O3, PM10"
+2020-04-12,Thiruvananthapuram,2.0,Satisfactory,54,"O3, PM10"
+2020-04-13,Thiruvananthapuram,2.0,Satisfactory,59,"O3, PM10"
+2020-04-14,Thiruvananthapuram,2.0,Satisfactory,57,"O3, PM10"
+2020-04-15,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2020-04-16,Thiruvananthapuram,2.0,Good,41,"CO, O3"
+2020-04-17,Thiruvananthapuram,2.0,Satisfactory,52,"CO, O3"
+2020-04-18,Thiruvananthapuram,2.0,Good,48,O3
+2020-04-19,Thiruvananthapuram,2.0,Good,36,"CO, O3"
+2020-04-20,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2020-04-21,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2020-04-22,Thiruvananthapuram,2.0,Good,47,O3
+2020-04-23,Thiruvananthapuram,2.0,Good,42,"CO, O3"
+2020-04-24,Thiruvananthapuram,2.0,Good,38,"CO, O3"
+2020-04-25,Thiruvananthapuram,2.0,Good,43,"O3, PM10"
+2020-04-26,Thiruvananthapuram,2.0,Satisfactory,61,PM10
+2020-04-27,Thiruvananthapuram,2.0,Satisfactory,52,O3
+2020-04-28,Thiruvananthapuram,2.0,Good,49,O3
+2020-04-29,Thiruvananthapuram,2.0,Good,46,O3
+2020-04-30,Thiruvananthapuram,2.0,Good,50,PM10
+2020-05-01,Thiruvananthapuram,2.0,Good,42,"O3, PM10"
+2020-05-02,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2020-05-03,Thiruvananthapuram,2.0,Good,44,O3
+2020-05-04,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2020-05-05,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2020-05-06,Thiruvananthapuram,2.0,Satisfactory,54,O3
+2020-05-07,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2020-05-08,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2020-05-09,Thiruvananthapuram,2.0,Good,41,"CO, O3"
+2020-05-10,Thiruvananthapuram,2.0,Good,37,"O3, PM10"
+2020-05-11,Thiruvananthapuram,1.0,Good,33,O3
+2020-05-12,Thiruvananthapuram,2.0,Good,47,"CO, PM10"
+2020-05-13,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2020-05-14,Thiruvananthapuram,2.0,Good,43,"CO, O3"
+2020-05-15,Thiruvananthapuram,2.0,Good,38,"O3, PM10"
+2020-05-16,Thiruvananthapuram,2.0,Good,43,O3
+2020-05-17,Thiruvananthapuram,2.0,Satisfactory,52,O3
+2020-05-18,Thiruvananthapuram,1.0,Good,48,O3
+2020-05-19,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2020-05-20,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2020-05-21,Thiruvananthapuram,1.0,Good,36,PM10
+2020-05-22,Thiruvananthapuram,1.0,Good,35,O3
+2020-05-23,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2020-05-24,Thiruvananthapuram,2.0,Good,37,PM10
+2020-05-25,Thiruvananthapuram,2.0,Good,43,"CO, PM10"
+2020-05-26,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2020-05-27,Thiruvananthapuram,2.0,Good,43,"CO, PM10"
+2020-05-28,Thiruvananthapuram,2.0,Good,50,PM10
+2020-05-29,Thiruvananthapuram,2.0,Good,37,"CO, PM10"
+2020-05-30,Thiruvananthapuram,1.0,Good,39,CO
+2020-05-31,Thiruvananthapuram,2.0,Good,36,O3
+2020-06-01,Thiruvananthapuram,2.0,Good,31,"CO, O3"
+2020-06-02,Thiruvananthapuram,1.0,Good,26,PM10
+2020-06-03,Thiruvananthapuram,1.0,Good,28,PM10
+2020-06-04,Thiruvananthapuram,1.0,Good,31,PM10
+2020-06-05,Thiruvananthapuram,1.0,Good,36,PM10
+2020-06-07,Thiruvananthapuram,1.0,Good,26,O3
+2020-06-08,Thiruvananthapuram,1.0,Good,33,CO
+2020-06-09,Thiruvananthapuram,1.0,Good,37,PM2.5
+2020-06-10,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-06-11,Thiruvananthapuram,2.0,Good,39,"CO, PM10"
+2020-06-12,Thiruvananthapuram,2.0,Good,47,PM10
+2020-06-13,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2020-06-14,Thiruvananthapuram,2.0,Good,36,PM10
+2020-06-15,Thiruvananthapuram,1.0,Good,41,CO
+2020-06-16,Thiruvananthapuram,1.0,Good,44,PM10
+2020-06-17,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2020-06-18,Thiruvananthapuram,2.0,Good,50,PM10
+2020-06-19,Thiruvananthapuram,2.0,Good,48,PM10
+2020-06-20,Thiruvananthapuram,2.0,Good,38,PM10
+2020-06-21,Thiruvananthapuram,2.0,Good,37,PM10
+2020-06-22,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2020-06-23,Thiruvananthapuram,2.0,Good,44,PM10
+2020-06-24,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2020-06-25,Thiruvananthapuram,2.0,Satisfactory,55,PM10
+2020-06-26,Thiruvananthapuram,1.0,Good,36,O3
+2020-06-27,Thiruvananthapuram,1.0,Good,36,O3
+2020-06-28,Thiruvananthapuram,1.0,Good,41,PM10
+2020-06-29,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2020-06-30,Thiruvananthapuram,1.0,Good,38,PM10
+2020-07-01,Thiruvananthapuram,1.0,Good,38,PM10
+2020-07-02,Thiruvananthapuram,1.0,Good,38,PM10
+2020-07-03,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2020-07-04,Thiruvananthapuram,1.0,Good,35,PM10
+2020-07-05,Thiruvananthapuram,1.0,Good,45,PM10
+2020-07-06,Thiruvananthapuram,1.0,Good,47,PM10
+2020-07-07,Thiruvananthapuram,2.0,Good,39,"O3, PM10"
+2020-07-08,Thiruvananthapuram,1.0,Good,33,PM10
+2020-07-09,Thiruvananthapuram,2.0,Good,36,"PM10, PM2.5"
+2020-07-10,Thiruvananthapuram,1.0,Good,30,PM2.5
+2020-07-11,Thiruvananthapuram,1.0,Satisfactory,51,PM2.5
+2020-07-12,Thiruvananthapuram,1.0,Good,29,PM10
+2020-07-13,Thiruvananthapuram,1.0,Good,31,PM2.5
+2020-07-14,Thiruvananthapuram,1.0,Good,39,PM10
+2020-07-15,Thiruvananthapuram,1.0,Good,45,PM10
+2020-07-16,Thiruvananthapuram,1.0,Good,33,PM10
+2020-07-17,Thiruvananthapuram,1.0,Good,28,PM10
+2020-07-18,Thiruvananthapuram,1.0,Good,33,PM10
+2020-07-19,Thiruvananthapuram,1.0,Good,34,PM10
+2020-07-20,Thiruvananthapuram,1.0,Good,48,PM10
+2020-07-21,Thiruvananthapuram,1.0,Good,29,O3
+2020-07-22,Thiruvananthapuram,1.0,Good,36,PM10
+2020-07-23,Thiruvananthapuram,1.0,Good,33,O3
+2020-07-24,Thiruvananthapuram,1.0,Good,30,CO
+2020-07-25,Thiruvananthapuram,1.0,Good,34,PM10
+2020-07-26,Thiruvananthapuram,2.0,Good,36,PM10
+2020-07-27,Thiruvananthapuram,1.0,Satisfactory,52,PM10
+2020-07-28,Thiruvananthapuram,1.0,Good,47,PM10
+2020-07-29,Thiruvananthapuram,1.0,Good,28,O3
+2020-07-30,Thiruvananthapuram,1.0,Good,31,CO
+2020-07-31,Thiruvananthapuram,1.0,Good,30,PM10
+2020-08-01,Thiruvananthapuram,1.0,Good,30,CO
+2020-08-02,Thiruvananthapuram,1.0,Good,29,CO
+2020-08-03,Thiruvananthapuram,1.0,Good,33,PM10
+2020-08-04,Thiruvananthapuram,1.0,Good,48,PM10
+2020-08-05,Thiruvananthapuram,1.0,Good,45,PM10
+2020-08-06,Thiruvananthapuram,1.0,Satisfactory,51,PM10
+2020-08-07,Thiruvananthapuram,1.0,Good,35,CO
+2020-08-08,Thiruvananthapuram,1.0,Good,34,CO
+2020-08-09,Thiruvananthapuram,2.0,Good,28,"CO, PM10"
+2020-08-10,Thiruvananthapuram,2.0,Good,35,CO
+2020-08-11,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2020-08-12,Thiruvananthapuram,2.0,Good,46,PM10
+2020-08-13,Thiruvananthapuram,2.0,Good,47,PM10
+2020-08-14,Thiruvananthapuram,2.0,Good,47,PM10
+2020-08-15,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2020-08-16,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2020-08-17,Thiruvananthapuram,2.0,Good,50,PM10
+2020-08-18,Thiruvananthapuram,1.0,Satisfactory,55,PM10
+2020-08-19,Thiruvananthapuram,2.0,Satisfactory,51,PM10
+2020-08-20,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2020-08-21,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2020-08-22,Thiruvananthapuram,2.0,Good,50,PM10
+2020-08-23,Thiruvananthapuram,2.0,Good,48,PM10
+2020-08-24,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2020-08-25,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2020-08-26,Thiruvananthapuram,2.0,Satisfactory,63,PM10
+2020-08-27,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2020-08-28,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2020-08-29,Thiruvananthapuram,2.0,Good,50,PM10
+2020-08-30,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2020-08-31,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2020-09-01,Thiruvananthapuram,1.0,Good,37,PM10
+2020-09-02,Thiruvananthapuram,1.0,Good,38,PM10
+2020-09-03,Thiruvananthapuram,1.0,Good,29,PM10
+2020-09-04,Thiruvananthapuram,1.0,Good,32,PM10
+2020-09-05,Thiruvananthapuram,1.0,Good,26,PM10
+2020-09-06,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2020-09-07,Thiruvananthapuram,2.0,Satisfactory,68,"CO, PM2.5"
+2020-09-08,Thiruvananthapuram,2.0,Good,43,PM10
+2020-09-09,Thiruvananthapuram,2.0,Good,35,"CO, PM10"
+2020-09-10,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2020-09-11,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2020-09-12,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-09-13,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2020-09-14,Thiruvananthapuram,2.0,Good,44,CO
+2020-09-15,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-09-16,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2020-09-17,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2020-09-18,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2020-09-19,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-09-20,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2020-09-21,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2020-09-22,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-09-23,Thiruvananthapuram,2.0,Good,47,"CO, PM10"
+2020-09-24,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2020-09-25,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2020-09-26,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-09-27,Thiruvananthapuram,2.0,Good,50,PM10
+2020-09-28,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-09-29,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2020-09-30,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2020-10-01,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-10-02,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2020-10-03,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-10-04,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2020-10-05,Thiruvananthapuram,1.0,Satisfactory,56,PM2.5
+2020-10-06,Thiruvananthapuram,1.0,Good,47,PM10
+2020-10-07,Thiruvananthapuram,1.0,Good,48,PM10
+2020-10-08,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM10"
+2020-10-09,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2020-10-10,Thiruvananthapuram,1.0,Good,46,PM10
+2020-10-11,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2020-10-12,Thiruvananthapuram,1.0,Good,44,PM10
+2020-10-13,Thiruvananthapuram,1.0,Good,44,PM10
+2020-10-14,Thiruvananthapuram,1.0,Good,39,PM10
+2020-10-15,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2020-10-16,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2020-10-17,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2020-10-18,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2020-10-19,Thiruvananthapuram,2.0,Satisfactory,64,PM10
+2020-10-20,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2020-10-21,Thiruvananthapuram,2.0,Satisfactory,68,"CO, PM10"
+2020-10-22,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2020-10-23,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2020-10-24,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2020-10-25,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-10-26,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2020-10-27,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM10"
+2020-10-28,Thiruvananthapuram,2.0,Satisfactory,64,PM10
+2020-10-29,Thiruvananthapuram,2.0,Satisfactory,70,"CO, PM10"
+2020-10-30,Thiruvananthapuram,1.0,Satisfactory,69,PM10
+2020-10-31,Thiruvananthapuram,2.0,Satisfactory,86,PM10
+2020-11-01,Thiruvananthapuram,2.0,Satisfactory,95,"PM10, PM2.5"
+2020-11-02,Thiruvananthapuram,2.0,Satisfactory,87,"PM10, PM2.5"
+2020-11-03,Thiruvananthapuram,1.0,Satisfactory,78,PM10
+2020-11-04,Thiruvananthapuram,2.0,Satisfactory,92,"PM10, PM2.5"
+2020-11-05,Thiruvananthapuram,2.0,Satisfactory,74,"CO, PM10"
+2020-11-06,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2020-11-07,Thiruvananthapuram,1.0,Satisfactory,57,CO
+2020-11-08,Thiruvananthapuram,1.0,Good,46,PM10
+2020-11-09,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2020-11-10,Thiruvananthapuram,2.0,Satisfactory,80,PM10
+2020-11-11,Thiruvananthapuram,2.0,Satisfactory,86,PM10
+2020-11-12,Thiruvananthapuram,2.0,Moderate,105,"PM10, PM2.5"
+2020-11-13,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2020-11-14,Thiruvananthapuram,2.0,Moderate,122,"PM10, PM2.5"
+2020-11-15,Thiruvananthapuram,2.0,Satisfactory,52,"PM10, PM2.5"
+2020-11-16,Thiruvananthapuram,2.0,Good,49,"CO, PM10"
+2020-11-17,Thiruvananthapuram,1.0,Good,48,PM10
+2020-11-18,Thiruvananthapuram,2.0,Good,43,CO
+2020-11-19,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2020-11-20,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2020-11-21,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2020-11-22,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2020-11-23,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2020-11-24,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2020-11-25,Thiruvananthapuram,2.0,Satisfactory,84,"PM10, PM2.5"
+2020-11-26,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2020-11-27,Thiruvananthapuram,2.0,Satisfactory,83,PM10
+2020-11-28,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2020-11-29,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2020-11-30,Thiruvananthapuram,2.0,Satisfactory,59,"PM10, PM2.5"
+2020-12-01,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2020-12-02,Thiruvananthapuram,2.0,Satisfactory,64,PM10
+2020-12-03,Thiruvananthapuram,2.0,Satisfactory,78,PM10
+2020-12-04,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2020-12-05,Thiruvananthapuram,2.0,Satisfactory,52,CO
+2020-12-06,Thiruvananthapuram,2.0,Good,41,"CO, PM10"
+2020-12-07,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2020-12-08,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2020-12-09,Thiruvananthapuram,2.0,Good,47,"CO, PM10"
+2020-12-10,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2020-12-11,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2020-12-12,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2020-12-13,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2020-12-14,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2020-12-15,Thiruvananthapuram,2.0,Satisfactory,92,"PM10, PM2.5"
+2020-12-16,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2020-12-17,Thiruvananthapuram,2.0,Good,50,PM10
+2020-12-18,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2020-12-19,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2020-12-20,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2020-12-21,Thiruvananthapuram,2.0,Moderate,103,"PM10, PM2.5"
+2020-12-22,Thiruvananthapuram,2.0,Moderate,110,"PM10, PM2.5"
+2020-12-23,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2020-12-24,Thiruvananthapuram,2.0,Satisfactory,69,"PM10, PM2.5"
+2020-12-25,Thiruvananthapuram,1.0,Satisfactory,62,PM10
+2020-12-26,Thiruvananthapuram,1.0,Satisfactory,83,PM2.5
+2020-12-27,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2020-12-28,Thiruvananthapuram,1.0,Satisfactory,88,PM2.5
+2020-12-29,Thiruvananthapuram,1.0,Satisfactory,95,PM2.5
+2020-12-30,Thiruvananthapuram,2.0,Satisfactory,66,PM10
+2020-12-31,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2021-01-01,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2021-01-02,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2021-01-03,Thiruvananthapuram,1.0,Satisfactory,92,PM2.5
+2021-01-04,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2021-01-05,Thiruvananthapuram,1.0,Satisfactory,53,CO
+2021-01-06,Thiruvananthapuram,1.0,Satisfactory,55,CO
+2021-01-07,Thiruvananthapuram,2.0,Good,38,"O3, PM10"
+2021-01-08,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-01-09,Thiruvananthapuram,2.0,Good,41,"CO, PM10"
+2021-01-10,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-01-11,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2021-01-12,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-01-13,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-01-14,Thiruvananthapuram,2.0,Good,36,CO
+2021-01-15,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2021-01-16,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-01-17,Thiruvananthapuram,2.0,Good,47,"CO, PM10"
+2021-01-18,Thiruvananthapuram,2.0,Satisfactory,64,PM10
+2021-01-19,Thiruvananthapuram,2.0,Satisfactory,70,"PM10, PM2.5"
+2021-01-20,Thiruvananthapuram,2.0,Satisfactory,94,"PM10, PM2.5"
+2021-01-21,Thiruvananthapuram,2.0,Moderate,104,"PM10, PM2.5"
+2021-01-22,Thiruvananthapuram,2.0,Satisfactory,100,"PM10, PM2.5"
+2021-01-23,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2021-01-24,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2021-01-25,Thiruvananthapuram,2.0,Satisfactory,66,PM10
+2021-01-26,Thiruvananthapuram,2.0,Satisfactory,87,"PM10, PM2.5"
+2021-01-27,Thiruvananthapuram,2.0,Satisfactory,70,"O3, PM10"
+2021-01-28,Thiruvananthapuram,1.0,Satisfactory,90,PM2.5
+2021-01-29,Thiruvananthapuram,1.0,Moderate,128,PM2.5
+2021-01-30,Thiruvananthapuram,1.0,Moderate,135,PM2.5
+2021-01-31,Thiruvananthapuram,2.0,Satisfactory,95,"PM10, PM2.5"
+2021-02-01,Thiruvananthapuram,1.0,Satisfactory,90,PM10
+2021-02-02,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2021-02-03,Thiruvananthapuram,2.0,Satisfactory,67,PM10
+2021-02-04,Thiruvananthapuram,2.0,Satisfactory,76,PM10
+2021-02-05,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-02-06,Thiruvananthapuram,2.0,Satisfactory,98,PM10
+2021-02-07,Thiruvananthapuram,2.0,Moderate,102,"PM10, PM2.5"
+2021-02-08,Thiruvananthapuram,2.0,Satisfactory,89,PM10
+2021-02-09,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-02-10,Thiruvananthapuram,1.0,Satisfactory,76,PM10
+2021-02-11,Thiruvananthapuram,1.0,Satisfactory,88,PM2.5
+2021-02-12,Thiruvananthapuram,1.0,Satisfactory,70,PM10
+2021-02-13,Thiruvananthapuram,1.0,Satisfactory,85,PM10
+2021-02-14,Thiruvananthapuram,1.0,Satisfactory,81,PM2.5
+2021-02-15,Thiruvananthapuram,1.0,Satisfactory,88,PM10
+2021-02-16,Thiruvananthapuram,1.0,Satisfactory,85,PM2.5
+2021-02-17,Thiruvananthapuram,1.0,Satisfactory,79,PM10
+2021-02-18,Thiruvananthapuram,1.0,Satisfactory,74,PM10
+2021-02-19,Thiruvananthapuram,1.0,Satisfactory,60,PM10
+2021-02-20,Thiruvananthapuram,1.0,Satisfactory,64,PM2.5
+2021-02-21,Thiruvananthapuram,1.0,Good,50,PM10
+2021-02-22,Thiruvananthapuram,1.0,Good,46,PM10
+2021-02-23,Thiruvananthapuram,1.0,Good,39,O3
+2021-02-24,Thiruvananthapuram,1.0,Satisfactory,57,PM10
+2021-02-25,Thiruvananthapuram,1.0,Satisfactory,74,PM10
+2021-02-26,Thiruvananthapuram,1.0,Satisfactory,52,PM2.5
+2021-02-27,Thiruvananthapuram,2.0,Satisfactory,93,PM10
+2021-02-28,Thiruvananthapuram,2.0,Satisfactory,94,PM2.5
+2021-03-01,Thiruvananthapuram,2.0,Satisfactory,69,PM10
+2021-03-02,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2021-03-03,Thiruvananthapuram,2.0,Satisfactory,70,PM10
+2021-03-04,Thiruvananthapuram,2.0,Satisfactory,74,PM10
+2021-03-05,Thiruvananthapuram,2.0,Satisfactory,78,PM10
+2021-03-06,Thiruvananthapuram,2.0,Satisfactory,74,PM10
+2021-03-07,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-03-08,Thiruvananthapuram,2.0,Satisfactory,88,PM10
+2021-03-09,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2021-03-10,Thiruvananthapuram,2.0,Satisfactory,51,"CO, PM10"
+2021-03-11,Thiruvananthapuram,1.0,Good,34,CO
+2021-03-12,Thiruvananthapuram,1.0,Good,35,CO
+2021-03-13,Thiruvananthapuram,1.0,Good,47,PM10
+2021-03-14,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2021-03-15,Thiruvananthapuram,1.0,Good,42,PM10
+2021-03-16,Thiruvananthapuram,1.0,Satisfactory,51,O3
+2021-03-17,Thiruvananthapuram,1.0,Satisfactory,66,PM10
+2021-03-18,Thiruvananthapuram,1.0,Satisfactory,75,PM10
+2021-03-19,Thiruvananthapuram,2.0,Satisfactory,83,PM10
+2021-03-20,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-03-21,Thiruvananthapuram,2.0,Satisfactory,66,PM10
+2021-03-22,Thiruvananthapuram,2.0,Satisfactory,74,PM10
+2021-03-23,Thiruvananthapuram,2.0,Satisfactory,81,PM10
+2021-03-24,Thiruvananthapuram,2.0,Satisfactory,77,"PM10, PM2.5"
+2021-03-25,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2021-03-26,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2021-03-27,Thiruvananthapuram,2.0,Good,50,PM10
+2021-03-28,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-03-29,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2021-03-30,Thiruvananthapuram,2.0,Good,40,CO
+2021-03-31,Thiruvananthapuram,2.0,Good,39,"CO, PM10"
+2021-04-01,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2021-04-02,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2021-04-03,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2021-04-04,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-04-05,Thiruvananthapuram,2.0,Satisfactory,99,PM10
+2021-04-06,Thiruvananthapuram,2.0,Moderate,105,PM10
+2021-04-07,Thiruvananthapuram,2.0,Satisfactory,79,PM10
+2021-04-08,Thiruvananthapuram,2.0,Satisfactory,77,PM10
+2021-04-09,Thiruvananthapuram,2.0,Satisfactory,76,PM10
+2021-04-10,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2021-04-11,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2021-04-12,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2021-04-13,Thiruvananthapuram,2.0,Good,41,"CO, O3"
+2021-04-14,Thiruvananthapuram,2.0,Good,49,"O3, PM10"
+2021-04-15,Thiruvananthapuram,2.0,Good,48,"CO, O3"
+2021-04-16,Thiruvananthapuram,1.0,Good,50,O3
+2021-04-17,Thiruvananthapuram,2.0,Good,42,"CO, O3"
+2021-04-18,Thiruvananthapuram,2.0,Good,42,"O3, PM10"
+2021-04-19,Thiruvananthapuram,2.0,Good,42,"CO, O3"
+2021-04-20,Thiruvananthapuram,2.0,Good,49,"CO, O3"
+2021-04-21,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2021-04-22,Thiruvananthapuram,2.0,Good,46,"O3, PM10"
+2021-04-23,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2021-04-24,Thiruvananthapuram,2.0,Good,39,O3
+2021-04-25,Thiruvananthapuram,2.0,Good,46,"O3, PM10"
+2021-04-26,Thiruvananthapuram,2.0,Good,46,"O3, PM10"
+2021-04-27,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2021-04-28,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-04-29,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-04-30,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2021-05-01,Thiruvananthapuram,2.0,Satisfactory,51,PM10
+2021-05-02,Thiruvananthapuram,2.0,Good,50,PM10
+2021-05-03,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-05-04,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2021-05-05,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-05-06,Thiruvananthapuram,2.0,Good,46,"O3, PM10"
+2021-05-07,Thiruvananthapuram,2.0,Good,45,"O3, PM10"
+2021-05-08,Thiruvananthapuram,2.0,Good,44,"O3, PM10"
+2021-05-09,Thiruvananthapuram,2.0,Good,45,"O3, PM10"
+2021-05-10,Thiruvananthapuram,2.0,Good,45,"O3, PM10"
+2021-05-11,Thiruvananthapuram,2.0,Good,43,"CO, PM10"
+2021-05-12,Thiruvananthapuram,2.0,Satisfactory,64,CO
+2021-05-13,Thiruvananthapuram,2.0,Satisfactory,64,"CO, O3"
+2021-05-14,Thiruvananthapuram,1.0,Good,29,CO
+2021-05-15,Thiruvananthapuram,1.0,Good,27,CO
+2021-05-16,Thiruvananthapuram,1.0,Good,29,CO
+2021-05-17,Thiruvananthapuram,1.0,Good,28,CO
+2021-05-18,Thiruvananthapuram,1.0,Good,24,CO
+2021-05-19,Thiruvananthapuram,1.0,Good,29,CO
+2021-05-21,Thiruvananthapuram,1.0,Good,29,CO
+2021-05-22,Thiruvananthapuram,1.0,Good,33,CO
+2021-05-24,Thiruvananthapuram,1.0,Good,37,CO
+2021-05-25,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2021-05-26,Thiruvananthapuram,2.0,Good,49,CO
+2021-05-27,Thiruvananthapuram,2.0,Good,50,"CO, NO2"
+2021-05-28,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-05-29,Thiruvananthapuram,2.0,Satisfactory,52,CO
+2021-05-30,Thiruvananthapuram,2.0,Good,49,"CO, PM10"
+2021-05-31,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2021-06-01,Thiruvananthapuram,2.0,Satisfactory,51,CO
+2021-06-02,Thiruvananthapuram,2.0,Good,44,CO
+2021-06-03,Thiruvananthapuram,2.0,Good,44,CO
+2021-06-04,Thiruvananthapuram,2.0,Good,48,CO
+2021-06-05,Thiruvananthapuram,2.0,Good,44,CO
+2021-06-06,Thiruvananthapuram,1.0,Satisfactory,60,CO
+2021-06-07,Thiruvananthapuram,2.0,Good,50,CO
+2021-06-08,Thiruvananthapuram,2.0,Good,44,CO
+2021-06-09,Thiruvananthapuram,2.0,Good,46,CO
+2021-06-10,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-06-11,Thiruvananthapuram,2.0,Satisfactory,73,CO
+2021-06-12,Thiruvananthapuram,2.0,Satisfactory,65,CO
+2021-06-13,Thiruvananthapuram,2.0,Satisfactory,63,CO
+2021-06-14,Thiruvananthapuram,1.0,Satisfactory,100,CO
+2021-06-15,Thiruvananthapuram,2.0,Satisfactory,64,CO
+2021-06-16,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM10"
+2021-06-17,Thiruvananthapuram,2.0,Satisfactory,74,CO
+2021-06-18,Thiruvananthapuram,2.0,Satisfactory,65,CO
+2021-06-19,Thiruvananthapuram,2.0,Satisfactory,63,"CO, PM10"
+2021-06-20,Thiruvananthapuram,2.0,Satisfactory,68,"CO, PM10"
+2021-06-21,Thiruvananthapuram,1.0,Satisfactory,100,CO
+2021-06-22,Thiruvananthapuram,2.0,Satisfactory,74,"CO, PM10"
+2021-06-23,Thiruvananthapuram,2.0,Satisfactory,72,"CO, PM10"
+2021-06-24,Thiruvananthapuram,2.0,Satisfactory,70,CO
+2021-06-25,Thiruvananthapuram,2.0,Satisfactory,88,"CO, PM10"
+2021-06-26,Thiruvananthapuram,2.0,Satisfactory,78,"CO, PM10"
+2021-06-27,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM10"
+2021-06-28,Thiruvananthapuram,2.0,Satisfactory,69,"CO, PM10"
+2021-06-29,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-06-30,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-07-01,Thiruvananthapuram,2.0,Good,46,PM10
+2021-07-02,Thiruvananthapuram,2.0,Good,40,"CO, NO2"
+2021-07-03,Thiruvananthapuram,2.0,Good,39,CO
+2021-07-04,Thiruvananthapuram,2.0,Good,38,"CO, NO2"
+2021-07-05,Thiruvananthapuram,2.0,Good,40,CO
+2021-07-06,Thiruvananthapuram,2.0,Good,41,CO
+2021-07-07,Thiruvananthapuram,2.0,Good,42,CO
+2021-07-08,Thiruvananthapuram,2.0,Satisfactory,52,CO
+2021-07-09,Thiruvananthapuram,2.0,Satisfactory,54,CO
+2021-07-10,Thiruvananthapuram,2.0,Good,50,"CO, NO2"
+2021-07-11,Thiruvananthapuram,2.0,Good,50,CO
+2021-07-12,Thiruvananthapuram,2.0,Satisfactory,53,"CO, PM10"
+2021-07-13,Thiruvananthapuram,2.0,Satisfactory,54,CO
+2021-07-14,Thiruvananthapuram,2.0,Satisfactory,57,CO
+2021-07-15,Thiruvananthapuram,2.0,Satisfactory,72,CO
+2021-07-16,Thiruvananthapuram,1.0,Good,38,CO
+2021-07-18,Thiruvananthapuram,1.0,Satisfactory,99,CO
+2021-07-19,Thiruvananthapuram,1.0,Satisfactory,99,CO
+2021-07-20,Thiruvananthapuram,2.0,Satisfactory,76,CO
+2021-07-21,Thiruvananthapuram,2.0,Satisfactory,64,CO
+2021-07-22,Thiruvananthapuram,2.0,Satisfactory,68,CO
+2021-07-23,Thiruvananthapuram,2.0,Satisfactory,74,CO
+2021-07-24,Thiruvananthapuram,2.0,Satisfactory,62,CO
+2021-07-25,Thiruvananthapuram,2.0,Satisfactory,62,CO
+2021-07-26,Thiruvananthapuram,2.0,Satisfactory,55,CO
+2021-07-27,Thiruvananthapuram,2.0,Good,39,"CO, O3"
+2021-07-28,Thiruvananthapuram,2.0,Good,36,"CO, O3"
+2021-07-29,Thiruvananthapuram,2.0,Good,34,"CO, O3"
+2021-07-30,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2021-07-31,Thiruvananthapuram,2.0,Good,32,"CO, O3"
+2021-08-01,Thiruvananthapuram,2.0,Good,33,"CO, O3"
+2021-08-02,Thiruvananthapuram,2.0,Good,49,"CO, PM10"
+2021-08-03,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2021-08-04,Thiruvananthapuram,2.0,Good,36,"CO, O3"
+2021-08-05,Thiruvananthapuram,2.0,Good,47,"CO, O3"
+2021-08-06,Thiruvananthapuram,2.0,Good,48,"CO, O3"
+2021-08-07,Thiruvananthapuram,2.0,Good,45,"CO, O3"
+2021-08-08,Thiruvananthapuram,2.0,Good,34,"CO, O3"
+2021-08-09,Thiruvananthapuram,1.0,Good,39,PM10
+2021-08-10,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-08-11,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-08-12,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-08-13,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-08-14,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-08-15,Thiruvananthapuram,2.0,Good,42,PM10
+2021-08-16,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM10"
+2021-08-17,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM10"
+2021-08-18,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2021-08-19,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2021-08-20,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-08-21,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-08-22,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-08-23,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2021-08-24,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2021-08-25,Thiruvananthapuram,2.0,Satisfactory,53,"CO, PM10"
+2021-08-26,Thiruvananthapuram,2.0,Satisfactory,92,"O3, PM2.5"
+2021-08-27,Thiruvananthapuram,1.0,Moderate,107,PM2.5
+2021-08-28,Thiruvananthapuram,2.0,Moderate,102,"O3, PM2.5"
+2021-08-29,Thiruvananthapuram,2.0,Satisfactory,91,"O3, PM2.5"
+2021-08-30,Thiruvananthapuram,2.0,Poor,214,"O3, PM2.5"
+2021-08-31,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2021-09-01,Thiruvananthapuram,2.0,Moderate,184,"PM10, PM2.5"
+2021-09-02,Thiruvananthapuram,2.0,Satisfactory,88,"PM10, PM2.5"
+2021-09-03,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2021-09-04,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-09-05,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-09-06,Thiruvananthapuram,2.0,Satisfactory,87,"O3, PM2.5"
+2021-09-07,Thiruvananthapuram,2.0,Good,42,"CO, O3"
+2021-09-08,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-09-09,Thiruvananthapuram,2.0,Good,38,"CO, O3"
+2021-09-10,Thiruvananthapuram,2.0,Good,36,"CO, O3"
+2021-09-11,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-09-12,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-09-13,Thiruvananthapuram,2.0,Good,40,O3
+2021-09-14,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2021-09-15,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2021-09-16,Thiruvananthapuram,1.0,Good,47,PM10
+2021-09-17,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2021-09-18,Thiruvananthapuram,2.0,Satisfactory,53,"CO, PM10"
+2021-09-19,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-09-20,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-09-21,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2021-09-22,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-09-23,Thiruvananthapuram,2.0,Good,41,"CO, PM10"
+2021-09-24,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-09-25,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-09-26,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-09-27,Thiruvananthapuram,1.0,Good,40,O3
+2021-09-28,Thiruvananthapuram,2.0,Good,40,"CO, O3"
+2021-09-29,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-09-30,Thiruvananthapuram,2.0,Good,49,"CO, PM10"
+2021-10-01,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2021-10-02,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2021-10-03,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-10-04,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2021-10-05,Thiruvananthapuram,2.0,Good,45,PM10
+2021-10-06,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-10-07,Thiruvananthapuram,2.0,Good,40,O3
+2021-10-08,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2021-10-09,Thiruvananthapuram,2.0,Good,44,"CO, O3"
+2021-10-10,Thiruvananthapuram,2.0,Good,30,"CO, O3"
+2021-10-11,Thiruvananthapuram,2.0,Good,36,"CO, O3"
+2021-10-12,Thiruvananthapuram,2.0,Good,38,"CO, O3"
+2021-10-13,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2021-10-14,Thiruvananthapuram,2.0,Good,39,"CO, PM10"
+2021-10-15,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2021-10-16,Thiruvananthapuram,2.0,Good,32,PM10
+2021-10-17,Thiruvananthapuram,2.0,Good,44,PM10
+2021-10-18,Thiruvananthapuram,2.0,Good,48,PM10
+2021-10-19,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-10-20,Thiruvananthapuram,1.0,Satisfactory,73,PM10
+2021-10-21,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2021-10-22,Thiruvananthapuram,2.0,Good,43,"CO, PM10"
+2021-10-23,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2021-10-24,Thiruvananthapuram,2.0,Good,28,"O3, PM10"
+2021-10-25,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-10-26,Thiruvananthapuram,1.0,Good,40,CO
+2021-10-27,Thiruvananthapuram,1.0,Good,32,CO
+2021-10-28,Thiruvananthapuram,1.0,Good,38,PM2.5
+2021-10-29,Thiruvananthapuram,1.0,Good,37,CO
+2021-10-30,Thiruvananthapuram,1.0,Good,39,CO
+2021-10-31,Thiruvananthapuram,1.0,Good,29,CO
+2021-11-01,Thiruvananthapuram,1.0,Good,33,CO
+2021-11-02,Thiruvananthapuram,2.0,Good,47,"CO, PM10"
+2021-11-03,Thiruvananthapuram,2.0,Good,44,"NO2, PM10"
+2021-11-04,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2021-11-05,Thiruvananthapuram,2.0,Satisfactory,54,"PM10, PM2.5"
+2021-11-06,Thiruvananthapuram,1.0,Good,46,CO
+2021-11-07,Thiruvananthapuram,2.0,Good,44,"NO2, PM10"
+2021-11-08,Thiruvananthapuram,2.0,Good,46,"NO2, PM10"
+2021-11-09,Thiruvananthapuram,1.0,Satisfactory,61,CO
+2021-11-10,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2021-11-11,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2021-11-12,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2021-11-13,Thiruvananthapuram,2.0,Good,34,"NO2, PM10"
+2021-11-14,Thiruvananthapuram,2.0,Good,40,"NO2, PM10"
+2021-11-15,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-11-16,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2021-11-17,Thiruvananthapuram,2.0,Satisfactory,61,"PM10, PM2.5"
+2021-11-18,Thiruvananthapuram,2.0,Satisfactory,65,"CO, PM10"
+2021-11-19,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2021-11-20,Thiruvananthapuram,2.0,Good,46,"NO2, PM10"
+2021-11-21,Thiruvananthapuram,2.0,Good,42,"NO2, PM10"
+2021-11-22,Thiruvananthapuram,2.0,Good,49,"PM10, PM2.5"
+2021-11-23,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2021-11-24,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-11-25,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2021-11-26,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-11-27,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2021-11-28,Thiruvananthapuram,2.0,Good,38,"PM10, PM2.5"
+2021-11-29,Thiruvananthapuram,2.0,Good,31,"NO2, PM10"
+2021-11-30,Thiruvananthapuram,2.0,Good,37,"NO2, PM10"
+2021-12-01,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2021-12-02,Thiruvananthapuram,2.0,Good,48,"PM10, PM2.5"
+2021-12-03,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-12-04,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2021-12-05,Thiruvananthapuram,2.0,Good,42,"PM10, PM2.5"
+2021-12-06,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2021-12-07,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2021-12-08,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2021-12-09,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2021-12-10,Thiruvananthapuram,2.0,Satisfactory,53,"PM10, PM2.5"
+2021-12-11,Thiruvananthapuram,2.0,Satisfactory,70,"NO2, PM10"
+2021-12-12,Thiruvananthapuram,2.0,Moderate,136,"NO2, PM10"
+2021-12-13,Thiruvananthapuram,2.0,Moderate,104,"NO2, PM10"
+2021-12-14,Thiruvananthapuram,2.0,Satisfactory,60,"NO2, PM10"
+2021-12-15,Thiruvananthapuram,1.0,Satisfactory,59,CO
+2021-12-16,Thiruvananthapuram,1.0,Satisfactory,63,PM2.5
+2021-12-17,Thiruvananthapuram,2.0,Satisfactory,90,"PM10, PM2.5"
+2021-12-18,Thiruvananthapuram,2.0,Satisfactory,96,"PM10, PM2.5"
+2021-12-19,Thiruvananthapuram,2.0,Moderate,102,"PM10, PM2.5"
+2021-12-20,Thiruvananthapuram,2.0,Moderate,132,"PM10, PM2.5"
+2021-12-21,Thiruvananthapuram,2.0,Moderate,134,"PM10, PM2.5"
+2021-12-22,Thiruvananthapuram,2.0,Moderate,128,"PM10, PM2.5"
+2021-12-23,Thiruvananthapuram,2.0,Moderate,120,"PM10, PM2.5"
+2021-12-24,Thiruvananthapuram,2.0,Satisfactory,98,PM10
+2021-12-25,Thiruvananthapuram,2.0,Satisfactory,84,PM10
+2021-12-26,Thiruvananthapuram,2.0,Satisfactory,75,PM10
+2021-12-27,Thiruvananthapuram,2.0,Satisfactory,80,PM10
+2021-12-28,Thiruvananthapuram,2.0,Moderate,102,"PM10, PM2.5"
+2021-12-29,Thiruvananthapuram,2.0,Satisfactory,95,PM10
+2021-12-30,Thiruvananthapuram,2.0,Satisfactory,88,"PM10, PM2.5"
+2021-12-31,Thiruvananthapuram,2.0,Good,49,"NO2, PM10"
+2022-01-01,Thiruvananthapuram,2.0,Good,42,"NO2, PM10"
+2022-01-02,Thiruvananthapuram,2.0,Good,40,"NO2, PM10"
+2022-01-03,Thiruvananthapuram,1.0,Good,34,NO2
+2022-01-04,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2022-01-05,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2022-01-06,Thiruvananthapuram,1.0,Satisfactory,84,PM2.5
+2022-01-07,Thiruvananthapuram,2.0,Satisfactory,92,"PM10, PM2.5"
+2022-01-08,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2022-01-09,Thiruvananthapuram,2.0,Satisfactory,73,"PM10, PM2.5"
+2022-01-10,Thiruvananthapuram,2.0,Good,49,"PM10, PM2.5"
+2022-01-11,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-01-12,Thiruvananthapuram,2.0,Satisfactory,70,"PM10, PM2.5"
+2022-01-13,Thiruvananthapuram,2.0,Satisfactory,59,"PM10, PM2.5"
+2022-01-14,Thiruvananthapuram,2.0,Satisfactory,73,"CO, PM10"
+2022-01-15,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2022-01-16,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2022-01-17,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-01-18,Thiruvananthapuram,2.0,Satisfactory,64,"PM10, PM2.5"
+2022-01-19,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2022-01-20,Thiruvananthapuram,2.0,Satisfactory,70,"PM10, PM2.5"
+2022-01-21,Thiruvananthapuram,1.0,Satisfactory,66,PM2.5
+2022-01-22,Thiruvananthapuram,2.0,Satisfactory,70,"PM10, PM2.5"
+2022-01-23,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2022-01-24,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2022-01-25,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2022-01-26,Thiruvananthapuram,2.0,Moderate,114,"PM10, PM2.5"
+2022-01-27,Thiruvananthapuram,2.0,Satisfactory,65,"PM10, PM2.5"
+2022-01-28,Thiruvananthapuram,2.0,Satisfactory,55,"PM10, PM2.5"
+2022-01-29,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2022-01-30,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2022-01-31,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2022-02-01,Thiruvananthapuram,2.0,Satisfactory,79,"PM10, PM2.5"
+2022-02-02,Thiruvananthapuram,2.0,Satisfactory,87,"PM10, PM2.5"
+2022-02-03,Thiruvananthapuram,2.0,Satisfactory,84,"PM10, PM2.5"
+2022-02-04,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2022-02-05,Thiruvananthapuram,2.0,Satisfactory,70,PM10
+2022-02-06,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2022-02-07,Thiruvananthapuram,2.0,Satisfactory,61,PM10
+2022-02-08,Thiruvananthapuram,2.0,Satisfactory,82,PM10
+2022-02-09,Thiruvananthapuram,2.0,Satisfactory,86,PM10
+2022-02-10,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2022-02-11,Thiruvananthapuram,2.0,Satisfactory,80,"PM10, PM2.5"
+2022-02-12,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2022-02-13,Thiruvananthapuram,1.0,Good,17,CO
+2022-02-14,Thiruvananthapuram,1.0,Good,37,PM2.5
+2022-02-15,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2022-02-16,Thiruvananthapuram,1.0,Good,49,PM2.5
+2022-02-17,Thiruvananthapuram,1.0,Satisfactory,51,PM2.5
+2022-02-18,Thiruvananthapuram,1.0,Satisfactory,54,PM2.5
+2022-02-19,Thiruvananthapuram,1.0,Satisfactory,55,PM2.5
+2022-02-20,Thiruvananthapuram,1.0,Good,50,PM2.5
+2022-02-21,Thiruvananthapuram,1.0,Satisfactory,64,PM2.5
+2022-02-22,Thiruvananthapuram,2.0,Satisfactory,92,PM2.5
+2022-02-23,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-02-24,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2022-02-25,Thiruvananthapuram,1.0,Good,43,PM2.5
+2022-02-26,Thiruvananthapuram,2.0,Satisfactory,64,"PM10, PM2.5"
+2022-02-27,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2022-02-28,Thiruvananthapuram,2.0,Satisfactory,64,"NO2, PM2.5"
+2022-03-01,Thiruvananthapuram,2.0,Satisfactory,94,PM2.5
+2022-03-02,Thiruvananthapuram,2.0,Satisfactory,85,"PM10, PM2.5"
+2022-03-03,Thiruvananthapuram,1.0,Satisfactory,72,PM2.5
+2022-03-04,Thiruvananthapuram,1.0,Satisfactory,70,PM2.5
+2022-03-05,Thiruvananthapuram,1.0,Satisfactory,65,PM2.5
+2022-03-06,Thiruvananthapuram,2.0,Satisfactory,60,PM2.5
+2022-03-07,Thiruvananthapuram,2.0,Satisfactory,55,"PM10, PM2.5"
+2022-03-08,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2022-03-09,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2022-03-10,Thiruvananthapuram,2.0,Satisfactory,62,PM2.5
+2022-03-11,Thiruvananthapuram,2.0,Satisfactory,94,PM2.5
+2022-03-12,Thiruvananthapuram,2.0,Satisfactory,78,PM2.5
+2022-03-13,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2022-03-14,Thiruvananthapuram,2.0,Satisfactory,70,PM2.5
+2022-03-15,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2022-03-16,Thiruvananthapuram,2.0,Satisfactory,91,PM2.5
+2022-03-17,Thiruvananthapuram,2.0,Satisfactory,66,PM2.5
+2022-03-18,Thiruvananthapuram,2.0,Satisfactory,74,PM2.5
+2022-03-19,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2022-03-21,Thiruvananthapuram,1.0,Satisfactory,76,PM10
+2022-03-22,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2022-03-23,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2022-03-24,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2022-03-25,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM10"
+2022-03-26,Thiruvananthapuram,2.0,Satisfactory,52,"PM10, PM2.5"
+2022-03-27,Thiruvananthapuram,2.0,Good,50,PM10
+2022-03-28,Thiruvananthapuram,2.0,Good,44,"PM10, PM2.5"
+2022-03-29,Thiruvananthapuram,2.0,Good,40,PM10
+2022-03-30,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2022-03-31,Thiruvananthapuram,2.0,Good,38,"PM10, PM2.5"
+2022-04-01,Thiruvananthapuram,2.0,Good,48,PM2.5
+2022-04-02,Thiruvananthapuram,2.0,Good,48,PM2.5
+2022-04-03,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-04-04,Thiruvananthapuram,2.0,Satisfactory,52,"PM10, PM2.5"
+2022-04-05,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2022-04-06,Thiruvananthapuram,2.0,Good,38,"PM10, PM2.5"
+2022-04-07,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2022-04-08,Thiruvananthapuram,2.0,Satisfactory,59,"CO, PM10"
+2022-04-09,Thiruvananthapuram,2.0,Good,42,PM10
+2022-04-10,Thiruvananthapuram,2.0,Good,34,PM10
+2022-04-11,Thiruvananthapuram,2.0,Good,36,PM10
+2022-04-12,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2022-04-13,Thiruvananthapuram,1.0,Good,46,CO
+2022-04-14,Thiruvananthapuram,2.0,Good,39,"CO, PM10"
+2022-04-15,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2022-04-16,Thiruvananthapuram,2.0,Good,41,"CO, PM10"
+2022-04-17,Thiruvananthapuram,2.0,Good,35,"CO, O3"
+2022-04-18,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2022-04-19,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2022-04-20,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2022-04-21,Thiruvananthapuram,2.0,Satisfactory,67,"CO, PM10"
+2022-04-22,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2022-04-23,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2022-04-24,Thiruvananthapuram,2.0,Good,38,"CO, PM2.5"
+2022-04-25,Thiruvananthapuram,2.0,Good,38,"CO, PM2.5"
+2022-04-26,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2022-04-27,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2022-04-28,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM10"
+2022-04-29,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-04-30,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2022-05-01,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2022-05-02,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2022-05-03,Thiruvananthapuram,2.0,Satisfactory,51,"CO, PM10"
+2022-05-04,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-05-05,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2022-05-06,Thiruvananthapuram,2.0,Good,36,PM2.5
+2022-05-07,Thiruvananthapuram,2.0,Good,36,PM2.5
+2022-05-08,Thiruvananthapuram,1.0,Good,49,PM10
+2022-05-09,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2022-05-10,Thiruvananthapuram,1.0,Satisfactory,54,PM10
+2022-05-11,Thiruvananthapuram,1.0,Good,36,CO
+2022-05-12,Thiruvananthapuram,1.0,Good,33,PM10
+2022-05-13,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2022-05-14,Thiruvananthapuram,1.0,Good,32,CO
+2022-05-15,Thiruvananthapuram,1.0,Good,29,CO
+2022-05-16,Thiruvananthapuram,1.0,Good,32,CO
+2022-05-17,Thiruvananthapuram,1.0,Good,32,CO
+2022-05-18,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2022-05-19,Thiruvananthapuram,2.0,Good,49,"CO, PM10"
+2022-05-20,Thiruvananthapuram,2.0,Good,50,"CO, PM10"
+2022-05-21,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-05-22,Thiruvananthapuram,2.0,Good,42,PM10
+2022-05-23,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-05-24,Thiruvananthapuram,2.0,Good,48,"CO, PM10"
+2022-05-25,Thiruvananthapuram,2.0,Satisfactory,51,"CO, PM10"
+2022-05-26,Thiruvananthapuram,1.0,Good,40,CO
+2022-05-27,Thiruvananthapuram,2.0,Good,48,"CO, PM2.5"
+2022-05-28,Thiruvananthapuram,1.0,Good,39,CO
+2022-05-29,Thiruvananthapuram,1.0,Good,36,CO
+2022-05-30,Thiruvananthapuram,1.0,Good,33,CO
+2022-05-31,Thiruvananthapuram,1.0,Good,44,CO
+2022-06-01,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM2.5"
+2022-06-04,Thiruvananthapuram,1.0,Good,35,CO
+2022-06-05,Thiruvananthapuram,1.0,Good,31,CO
+2022-06-06,Thiruvananthapuram,1.0,Good,36,CO
+2022-06-07,Thiruvananthapuram,1.0,Good,38,CO
+2022-06-08,Thiruvananthapuram,2.0,Satisfactory,61,"CO, PM2.5"
+2022-06-09,Thiruvananthapuram,2.0,Satisfactory,58,"PM10, PM2.5"
+2022-06-10,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2022-06-11,Thiruvananthapuram,1.0,Good,30,CO
+2022-06-12,Thiruvananthapuram,1.0,Good,29,CO
+2022-06-13,Thiruvananthapuram,1.0,Good,28,CO
+2022-06-14,Thiruvananthapuram,1.0,Good,22,CO
+2022-06-15,Thiruvananthapuram,2.0,Satisfactory,59,"CO, PM2.5"
+2022-06-16,Thiruvananthapuram,1.0,Good,20,CO
+2022-06-17,Thiruvananthapuram,1.0,Good,28,CO
+2022-06-18,Thiruvananthapuram,1.0,Good,29,CO
+2022-06-19,Thiruvananthapuram,1.0,Good,23,CO
+2022-06-20,Thiruvananthapuram,2.0,Satisfactory,59,"CO, PM2.5"
+2022-06-21,Thiruvananthapuram,1.0,Good,38,CO
+2022-06-22,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM2.5"
+2022-06-23,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM2.5"
+2022-06-24,Thiruvananthapuram,1.0,Good,44,CO
+2022-06-25,Thiruvananthapuram,1.0,Good,31,CO
+2022-06-26,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2022-06-27,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-06-28,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM2.5"
+2022-06-29,Thiruvananthapuram,1.0,Good,34,CO
+2022-06-30,Thiruvananthapuram,1.0,Good,37,CO
+2022-07-01,Thiruvananthapuram,1.0,Good,38,CO
+2022-07-02,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2022-07-03,Thiruvananthapuram,1.0,Good,32,CO
+2022-07-04,Thiruvananthapuram,1.0,Good,47,CO
+2022-07-05,Thiruvananthapuram,1.0,Satisfactory,52,CO
+2022-07-06,Thiruvananthapuram,2.0,Satisfactory,74,"CO, PM2.5"
+2022-07-07,Thiruvananthapuram,1.0,Good,37,CO
+2022-07-08,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2022-07-09,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM2.5"
+2022-07-10,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2022-07-11,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM2.5"
+2022-07-12,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM2.5"
+2022-07-13,Thiruvananthapuram,2.0,Satisfactory,63,"CO, PM2.5"
+2022-07-14,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM2.5"
+2022-07-15,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM2.5"
+2022-07-16,Thiruvananthapuram,1.0,Good,31,CO
+2022-07-17,Thiruvananthapuram,1.0,Good,28,CO
+2022-07-18,Thiruvananthapuram,1.0,Good,31,CO
+2022-07-19,Thiruvananthapuram,1.0,Good,42,CO
+2022-07-20,Thiruvananthapuram,1.0,Good,40,CO
+2022-07-21,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2022-07-22,Thiruvananthapuram,1.0,Satisfactory,66,CO
+2022-07-23,Thiruvananthapuram,1.0,Good,34,CO
+2022-07-24,Thiruvananthapuram,1.0,Good,31,CO
+2022-07-25,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2022-07-26,Thiruvananthapuram,1.0,Good,44,CO
+2022-07-27,Thiruvananthapuram,1.0,Good,45,CO
+2022-07-28,Thiruvananthapuram,1.0,Good,27,CO
+2022-07-29,Thiruvananthapuram,1.0,Satisfactory,58,CO
+2022-07-30,Thiruvananthapuram,1.0,Satisfactory,56,CO
+2022-07-31,Thiruvananthapuram,1.0,Good,32,CO
+2022-08-01,Thiruvananthapuram,1.0,Good,48,CO
+2022-08-02,Thiruvananthapuram,1.0,Good,50,CO
+2022-08-03,Thiruvananthapuram,1.0,Good,43,CO
+2022-08-04,Thiruvananthapuram,1.0,Good,24,CO
+2022-08-05,Thiruvananthapuram,1.0,Good,43,CO
+2022-08-06,Thiruvananthapuram,1.0,Satisfactory,51,CO
+2022-08-07,Thiruvananthapuram,1.0,Good,28,PM10
+2022-08-08,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM2.5"
+2022-08-09,Thiruvananthapuram,1.0,Good,42,CO
+2022-08-10,Thiruvananthapuram,1.0,Good,33,CO
+2022-08-11,Thiruvananthapuram,1.0,Good,50,CO
+2022-08-12,Thiruvananthapuram,2.0,Good,44,"CO, PM2.5"
+2022-08-13,Thiruvananthapuram,2.0,Good,42,"PM10, PM2.5"
+2022-08-14,Thiruvananthapuram,2.0,Good,40,"PM10, PM2.5"
+2022-08-15,Thiruvananthapuram,2.0,Good,44,"PM10, PM2.5"
+2022-08-16,Thiruvananthapuram,2.0,Good,46,"CO, PM2.5"
+2022-08-17,Thiruvananthapuram,2.0,Good,48,"PM10, PM2.5"
+2022-08-18,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM2.5"
+2022-08-19,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM2.5"
+2022-08-20,Thiruvananthapuram,2.0,Good,50,"CO, PM2.5"
+2022-08-21,Thiruvananthapuram,1.0,Good,31,PM10
+2022-08-22,Thiruvananthapuram,1.0,Good,34,CO
+2022-08-23,Thiruvananthapuram,1.0,Good,36,CO
+2022-08-24,Thiruvananthapuram,1.0,Good,33,CO
+2022-08-25,Thiruvananthapuram,1.0,Good,40,CO
+2022-08-26,Thiruvananthapuram,1.0,Good,36,CO
+2022-08-27,Thiruvananthapuram,2.0,Good,32,"CO, PM2.5"
+2022-08-28,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2022-08-29,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2022-08-30,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2022-08-31,Thiruvananthapuram,2.0,Good,28,"CO, NO2"
+2022-09-01,Thiruvananthapuram,2.0,Good,34,"CO, NO2"
+2022-09-02,Thiruvananthapuram,2.0,Good,30,"CO, NO2"
+2022-09-03,Thiruvananthapuram,2.0,Good,32,"CO, NO2"
+2022-09-04,Thiruvananthapuram,2.0,Good,30,"CO, NO2"
+2022-09-05,Thiruvananthapuram,2.0,Good,34,"CO, NO2"
+2022-09-06,Thiruvananthapuram,2.0,Good,33,"CO, NO2"
+2022-09-07,Thiruvananthapuram,2.0,Good,28,"CO, NO2"
+2022-09-08,Thiruvananthapuram,2.0,Good,29,"CO, NO2"
+2022-09-09,Thiruvananthapuram,2.0,Good,28,"CO, NO2"
+2022-09-10,Thiruvananthapuram,2.0,Good,30,"NO2, PM10"
+2022-09-11,Thiruvananthapuram,2.0,Good,28,"NO2, PM10"
+2022-09-12,Thiruvananthapuram,1.0,Good,34,CO
+2022-09-13,Thiruvananthapuram,2.0,Good,32,"CO, NO2"
+2022-09-14,Thiruvananthapuram,2.0,Good,30,"NO2, PM10"
+2022-09-15,Thiruvananthapuram,2.0,Good,46,"CO, NO2"
+2022-09-16,Thiruvananthapuram,2.0,Good,43,"CO, NO2"
+2022-09-17,Thiruvananthapuram,2.0,Good,44,"CO, NO2"
+2022-09-18,Thiruvananthapuram,2.0,Good,30,"CO, NO2"
+2022-09-19,Thiruvananthapuram,2.0,Good,33,"CO, NO2"
+2022-09-20,Thiruvananthapuram,2.0,Good,32,"CO, NO2"
+2022-09-21,Thiruvananthapuram,2.0,Good,44,"CO, NO2"
+2022-09-22,Thiruvananthapuram,2.0,Good,38,"CO, NO2"
+2022-09-23,Thiruvananthapuram,2.0,Good,33,"CO, NO2"
+2022-09-24,Thiruvananthapuram,2.0,Good,36,"CO, NO2"
+2022-09-25,Thiruvananthapuram,2.0,Good,30,"NO2, PM10"
+2022-09-26,Thiruvananthapuram,2.0,Good,32,"CO, NO2"
+2022-09-27,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2022-09-28,Thiruvananthapuram,1.0,Good,44,CO
+2022-09-29,Thiruvananthapuram,2.0,Satisfactory,62,"CO, PM10"
+2022-09-30,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2022-10-01,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2022-10-02,Thiruvananthapuram,2.0,Good,28,"CO, PM10"
+2022-10-03,Thiruvananthapuram,2.0,Good,40,"CO, PM2.5"
+2022-10-04,Thiruvananthapuram,2.0,Good,32,"CO, PM2.5"
+2022-10-05,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2022-10-06,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM10"
+2022-10-07,Thiruvananthapuram,2.0,Good,42,"CO, PM2.5"
+2022-10-08,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2022-10-09,Thiruvananthapuram,2.0,Good,42,"PM10, PM2.5"
+2022-10-10,Thiruvananthapuram,1.0,Good,41,CO
+2022-10-11,Thiruvananthapuram,2.0,Good,43,"PM10, PM2.5"
+2022-10-12,Thiruvananthapuram,1.0,Good,31,CO
+2022-10-13,Thiruvananthapuram,2.0,Good,40,PM2.5
+2022-10-14,Thiruvananthapuram,2.0,Good,36,"CO, PM2.5"
+2022-10-15,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2022-10-16,Thiruvananthapuram,2.0,Good,36,"CO, NO2"
+2022-10-17,Thiruvananthapuram,2.0,Good,34,"CO, NO2"
+2022-10-18,Thiruvananthapuram,2.0,Good,28,"CO, NO2"
+2022-10-19,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2022-10-20,Thiruvananthapuram,1.0,Good,36,PM2.5
+2022-10-21,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM10"
+2022-10-22,Thiruvananthapuram,2.0,Satisfactory,54,"CO, PM2.5"
+2022-10-23,Thiruvananthapuram,2.0,Good,40,"CO, PM2.5"
+2022-10-24,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2022-10-25,Thiruvananthapuram,2.0,Satisfactory,79,PM2.5
+2022-10-26,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM2.5"
+2022-10-27,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2022-10-28,Thiruvananthapuram,2.0,Satisfactory,88,"CO, PM2.5"
+2022-10-29,Thiruvananthapuram,2.0,Satisfactory,66,"CO, PM2.5"
+2022-10-30,Thiruvananthapuram,2.0,Good,45,"CO, PM2.5"
+2022-10-31,Thiruvananthapuram,2.0,Satisfactory,65,"CO, PM2.5"
+2022-11-01,Thiruvananthapuram,2.0,Good,42,"CO, PM2.5"
+2022-11-02,Thiruvananthapuram,2.0,Good,49,"CO, PM2.5"
+2022-11-03,Thiruvananthapuram,2.0,Satisfactory,64,"CO, PM2.5"
+2022-11-04,Thiruvananthapuram,2.0,Satisfactory,64,CO
+2022-11-05,Thiruvananthapuram,2.0,Good,37,"CO, PM2.5"
+2022-11-06,Thiruvananthapuram,2.0,Good,29,"CO, PM2.5"
+2022-11-07,Thiruvananthapuram,2.0,Satisfactory,54,CO
+2022-11-08,Thiruvananthapuram,2.0,Satisfactory,55,CO
+2022-11-09,Thiruvananthapuram,2.0,Good,48,CO
+2022-11-10,Thiruvananthapuram,2.0,Satisfactory,51,CO
+2022-11-11,Thiruvananthapuram,2.0,Satisfactory,54,CO
+2022-11-12,Thiruvananthapuram,2.0,Satisfactory,67,CO
+2022-11-13,Thiruvananthapuram,2.0,Satisfactory,57,"PM10, PM2.5"
+2022-11-14,Thiruvananthapuram,2.0,Good,37,CO
+2022-11-15,Thiruvananthapuram,2.0,Good,38,CO
+2022-11-16,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2022-11-17,Thiruvananthapuram,2.0,Good,47,PM10
+2022-11-18,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2022-11-19,Thiruvananthapuram,2.0,Satisfactory,70,PM2.5
+2022-11-20,Thiruvananthapuram,2.0,Satisfactory,66,PM2.5
+2022-11-21,Thiruvananthapuram,2.0,Moderate,108,PM2.5
+2022-11-22,Thiruvananthapuram,2.0,Satisfactory,76,PM2.5
+2022-11-23,Thiruvananthapuram,1.0,Moderate,113,PM2.5
+2022-11-24,Thiruvananthapuram,1.0,Satisfactory,86,PM2.5
+2022-11-25,Thiruvananthapuram,2.0,Satisfactory,66,PM2.5
+2022-11-26,Thiruvananthapuram,2.0,Satisfactory,68,PM2.5
+2022-11-27,Thiruvananthapuram,2.0,Satisfactory,66,PM2.5
+2022-11-28,Thiruvananthapuram,2.0,Good,45,"CO, PM2.5"
+2022-11-29,Thiruvananthapuram,2.0,Good,44,"PM10, PM2.5"
+2022-11-30,Thiruvananthapuram,2.0,Satisfactory,58,PM2.5
+2022-12-01,Thiruvananthapuram,2.0,Satisfactory,90,PM2.5
+2022-12-02,Thiruvananthapuram,2.0,Satisfactory,92,PM2.5
+2022-12-03,Thiruvananthapuram,2.0,Good,39,"CO, PM2.5"
+2022-12-04,Thiruvananthapuram,2.0,Good,42,PM2.5
+2022-12-05,Thiruvananthapuram,2.0,Good,42,CO
+2022-12-06,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2022-12-07,Thiruvananthapuram,2.0,Satisfactory,92,PM2.5
+2022-12-08,Thiruvananthapuram,2.0,Moderate,116,PM2.5
+2022-12-09,Thiruvananthapuram,2.0,Moderate,152,PM2.5
+2022-12-10,Thiruvananthapuram,2.0,Satisfactory,85,PM2.5
+2022-12-11,Thiruvananthapuram,2.0,Satisfactory,57,"PM10, PM2.5"
+2022-12-12,Thiruvananthapuram,2.0,Good,41,"PM10, PM2.5"
+2022-12-13,Thiruvananthapuram,2.0,Satisfactory,51,"PM10, PM2.5"
+2022-12-14,Thiruvananthapuram,2.0,Satisfactory,64,PM2.5
+2022-12-15,Thiruvananthapuram,2.0,Good,43,"CO, PM2.5"
+2022-12-16,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2022-12-17,Thiruvananthapuram,2.0,Satisfactory,58,PM2.5
+2022-12-18,Thiruvananthapuram,2.0,Satisfactory,79,PM2.5
+2022-12-19,Thiruvananthapuram,2.0,Moderate,102,PM2.5
+2022-12-20,Thiruvananthapuram,2.0,Moderate,118,PM2.5
+2022-12-21,Thiruvananthapuram,2.0,Satisfactory,64,PM2.5
+2022-12-22,Thiruvananthapuram,2.0,Satisfactory,90,PM2.5
+2022-12-23,Thiruvananthapuram,2.0,Satisfactory,74,PM2.5
+2022-12-24,Thiruvananthapuram,2.0,Satisfactory,92,PM2.5
+2022-12-25,Thiruvananthapuram,2.0,Moderate,104,PM2.5
+2022-12-26,Thiruvananthapuram,2.0,Satisfactory,68,PM2.5
+2022-12-27,Thiruvananthapuram,2.0,Good,30,"CO, PM2.5"
+2022-12-28,Thiruvananthapuram,2.0,Satisfactory,73,"CO, PM2.5"
+2022-12-29,Thiruvananthapuram,2.0,Good,50,"CO, PM2.5"
+2022-12-30,Thiruvananthapuram,2.0,Satisfactory,60,"PM10, PM2.5"
+2022-12-31,Thiruvananthapuram,2.0,Satisfactory,57,PM2.5
+2023-01-01,Thiruvananthapuram,1.0,Satisfactory,59,PM2.5
+2023-01-02,Thiruvananthapuram,1.0,Satisfactory,76,PM2.5
+2023-01-03,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2023-01-04,Thiruvananthapuram,2.0,Satisfactory,75,PM2.5
+2023-01-05,Thiruvananthapuram,2.0,Satisfactory,78,PM2.5
+2023-01-06,Thiruvananthapuram,2.0,Moderate,102,PM2.5
+2023-01-07,Thiruvananthapuram,2.0,Satisfactory,82,"CO, PM2.5"
+2023-01-08,Thiruvananthapuram,2.0,Satisfactory,72,PM2.5
+2023-01-09,Thiruvananthapuram,2.0,Satisfactory,95,PM2.5
+2023-01-10,Thiruvananthapuram,2.0,Satisfactory,100,PM2.5
+2023-01-11,Thiruvananthapuram,2.0,Satisfactory,96,PM2.5
+2023-01-12,Thiruvananthapuram,2.0,Moderate,118,PM2.5
+2023-01-13,Thiruvananthapuram,2.0,Moderate,116,PM2.5
+2023-01-14,Thiruvananthapuram,2.0,Moderate,118,PM2.5
+2023-01-15,Thiruvananthapuram,2.0,Moderate,102,PM2.5
+2023-01-16,Thiruvananthapuram,2.0,Moderate,114,PM2.5
+2023-01-17,Thiruvananthapuram,2.0,Satisfactory,84,PM2.5
+2023-01-18,Thiruvananthapuram,2.0,Satisfactory,76,PM2.5
+2023-01-19,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2023-01-20,Thiruvananthapuram,2.0,Satisfactory,88,PM2.5
+2023-01-21,Thiruvananthapuram,2.0,Satisfactory,96,PM2.5
+2023-01-22,Thiruvananthapuram,2.0,Satisfactory,95,PM2.5
+2023-01-23,Thiruvananthapuram,2.0,Satisfactory,91,PM2.5
+2023-01-24,Thiruvananthapuram,2.0,Satisfactory,62,"PM10, PM2.5"
+2023-01-25,Thiruvananthapuram,2.0,Satisfactory,56,CO
+2023-01-26,Thiruvananthapuram,2.0,Good,44,PM10
+2023-01-27,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2023-01-28,Thiruvananthapuram,2.0,Satisfactory,85,PM2.5
+2023-01-29,Thiruvananthapuram,2.0,Satisfactory,80,PM2.5
+2023-01-30,Thiruvananthapuram,2.0,Satisfactory,82,PM2.5
+2023-01-31,Thiruvananthapuram,2.0,Satisfactory,84,PM2.5
+2023-02-01,Thiruvananthapuram,2.0,Satisfactory,86,PM2.5
+2023-02-02,Thiruvananthapuram,2.0,Moderate,108,PM2.5
+2023-02-03,Thiruvananthapuram,2.0,Good,43,"CO, PM2.5"
+2023-02-04,Thiruvananthapuram,2.0,Good,42,"PM10, PM2.5"
+2023-02-05,Thiruvananthapuram,2.0,Good,40,"PM10, PM2.5"
+2023-02-06,Thiruvananthapuram,2.0,Satisfactory,67,PM2.5
+2023-02-07,Thiruvananthapuram,2.0,Satisfactory,89,PM2.5
+2023-02-08,Thiruvananthapuram,2.0,Moderate,102,PM2.5
+2023-02-09,Thiruvananthapuram,2.0,Moderate,130,PM2.5
+2023-02-10,Thiruvananthapuram,2.0,Satisfactory,93,PM2.5
+2023-02-11,Thiruvananthapuram,2.0,Satisfactory,90,PM2.5
+2023-02-12,Thiruvananthapuram,2.0,Satisfactory,80,PM2.5
+2023-02-13,Thiruvananthapuram,2.0,Moderate,110,PM2.5
+2023-02-14,Thiruvananthapuram,2.0,Satisfactory,91,PM2.5
+2023-02-15,Thiruvananthapuram,2.0,Satisfactory,97,PM2.5
+2023-02-16,Thiruvananthapuram,2.0,Moderate,102,PM2.5
+2023-02-17,Thiruvananthapuram,2.0,Satisfactory,73,"PM10, PM2.5"
+2023-02-18,Thiruvananthapuram,2.0,Satisfactory,70,"PM10, PM2.5"
+2023-02-19,Thiruvananthapuram,2.0,Satisfactory,80,PM2.5
+2023-02-20,Thiruvananthapuram,2.0,Satisfactory,84,O3
+2023-02-21,Thiruvananthapuram,2.0,Satisfactory,58,"PM10, PM2.5"
+2023-02-22,Thiruvananthapuram,2.0,Satisfactory,64,"PM10, PM2.5"
+2023-02-23,Thiruvananthapuram,2.0,Satisfactory,69,"PM10, PM2.5"
+2023-02-24,Thiruvananthapuram,2.0,Satisfactory,76,"PM10, PM2.5"
+2023-02-25,Thiruvananthapuram,2.0,Satisfactory,76,"PM10, PM2.5"
+2023-02-26,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2023-02-27,Thiruvananthapuram,2.0,Good,48,PM10
+2023-02-28,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-03-01,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2023-03-02,Thiruvananthapuram,2.0,Satisfactory,80,PM2.5
+2023-03-03,Thiruvananthapuram,2.0,Satisfactory,63,"PM10, PM2.5"
+2023-03-04,Thiruvananthapuram,2.0,Satisfactory,64,"PM10, PM2.5"
+2023-03-05,Thiruvananthapuram,2.0,Satisfactory,58,"PM10, PM2.5"
+2023-03-06,Thiruvananthapuram,2.0,Satisfactory,56,"PM10, PM2.5"
+2023-03-07,Thiruvananthapuram,2.0,Satisfactory,74,"PM10, PM2.5"
+2023-03-08,Thiruvananthapuram,2.0,Satisfactory,90,PM2.5
+2023-03-09,Thiruvananthapuram,2.0,Satisfactory,65,PM2.5
+2023-03-10,Thiruvananthapuram,1.0,Satisfactory,55,PM2.5
+2023-03-11,Thiruvananthapuram,1.0,Satisfactory,68,PM2.5
+2023-03-12,Thiruvananthapuram,1.0,Satisfactory,65,PM2.5
+2023-03-13,Thiruvananthapuram,1.0,Good,44,PM10
+2023-03-14,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-03-15,Thiruvananthapuram,2.0,Satisfactory,72,"PM10, PM2.5"
+2023-03-16,Thiruvananthapuram,2.0,Satisfactory,78,PM10
+2023-03-17,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2023-03-18,Thiruvananthapuram,2.0,Good,40,"PM10, PM2.5"
+2023-03-19,Thiruvananthapuram,2.0,Good,36,"PM10, PM2.5"
+2023-03-20,Thiruvananthapuram,2.0,Good,38,"PM10, PM2.5"
+2023-03-21,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2023-03-22,Thiruvananthapuram,2.0,Satisfactory,55,"PM10, PM2.5"
+2023-03-23,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM2.5"
+2023-03-24,Thiruvananthapuram,2.0,Good,42,PM10
+2023-03-25,Thiruvananthapuram,2.0,Good,40,PM10
+2023-03-26,Thiruvananthapuram,2.0,Good,34,PM10
+2023-03-27,Thiruvananthapuram,2.0,Good,35,PM10
+2023-03-28,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2023-03-29,Thiruvananthapuram,2.0,Satisfactory,72,PM10
+2023-03-30,Thiruvananthapuram,2.0,Satisfactory,65,PM10
+2023-03-31,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2023-04-01,Thiruvananthapuram,2.0,Satisfactory,52,PM10
+2023-04-02,Thiruvananthapuram,2.0,Good,35,PM10
+2023-04-03,Thiruvananthapuram,2.0,Good,45,PM10
+2023-04-04,Thiruvananthapuram,2.0,Good,43,PM10
+2023-04-05,Thiruvananthapuram,2.0,Good,44,PM10
+2023-04-06,Thiruvananthapuram,2.0,Good,46,PM10
+2023-04-07,Thiruvananthapuram,2.0,Good,32,PM10
+2023-04-08,Thiruvananthapuram,2.0,Good,36,PM10
+2023-04-09,Thiruvananthapuram,2.0,Good,46,PM10
+2023-04-10,Thiruvananthapuram,2.0,Good,49,CO
+2023-04-11,Thiruvananthapuram,2.0,Good,42,CO
+2023-04-12,Thiruvananthapuram,2.0,Good,50,PM10
+2023-04-13,Thiruvananthapuram,2.0,Satisfactory,59,PM10
+2023-04-14,Thiruvananthapuram,2.0,Satisfactory,61,PM10
+2023-04-15,Thiruvananthapuram,2.0,Satisfactory,62,PM10
+2023-04-16,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2023-04-17,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2023-04-18,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-04-19,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2023-04-20,Thiruvananthapuram,2.0,Satisfactory,54,PM10
+2023-04-21,Thiruvananthapuram,2.0,Satisfactory,52,"CO, PM10"
+2023-04-22,Thiruvananthapuram,2.0,Good,45,PM10
+2023-04-23,Thiruvananthapuram,2.0,Good,50,PM10
+2023-04-24,Thiruvananthapuram,2.0,Good,46,PM10
+2023-04-25,Thiruvananthapuram,2.0,Good,44,PM10
+2023-04-26,Thiruvananthapuram,2.0,Satisfactory,53,PM10
+2023-04-27,Thiruvananthapuram,2.0,Good,31,"CO, PM10"
+2023-04-28,Thiruvananthapuram,2.0,Good,45,CO
+2023-04-29,Thiruvananthapuram,2.0,Good,39,CO
+2023-04-30,Thiruvananthapuram,2.0,Good,44,CO
+2023-05-01,Thiruvananthapuram,2.0,Good,47,PM10
+2023-05-02,Thiruvananthapuram,2.0,Good,25,O3
+2023-05-03,Thiruvananthapuram,2.0,Good,25,O3
+2023-05-04,Thiruvananthapuram,2.0,Good,30,"PM10, PM2.5"
+2023-05-05,Thiruvananthapuram,2.0,Good,38,PM10
+2023-05-06,Thiruvananthapuram,2.0,Good,32,PM10
+2023-05-07,Thiruvananthapuram,2.0,Good,25,PM10
+2023-05-08,Thiruvananthapuram,2.0,Good,37,PM10
+2023-05-09,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-05-10,Thiruvananthapuram,2.0,Good,40,CO
+2023-05-11,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-05-12,Thiruvananthapuram,2.0,Good,36,CO
+2023-05-13,Thiruvananthapuram,2.0,Good,25,PM10
+2023-05-14,Thiruvananthapuram,2.0,Good,16,O3
+2023-05-15,Thiruvananthapuram,1.0,Good,15,CO
+2023-05-16,Thiruvananthapuram,1.0,Good,28,PM10
+2023-05-17,Thiruvananthapuram,2.0,Good,46,PM10
+2023-05-18,Thiruvananthapuram,2.0,Good,47,CO
+2023-05-19,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2023-05-20,Thiruvananthapuram,2.0,Good,48,"CO, PM2.5"
+2023-05-21,Thiruvananthapuram,2.0,Good,34,PM10
+2023-05-22,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2023-05-23,Thiruvananthapuram,2.0,Good,35,CO
+2023-05-24,Thiruvananthapuram,2.0,Good,24,PM10
+2023-05-25,Thiruvananthapuram,2.0,Good,24,"O3, PM10"
+2023-05-26,Thiruvananthapuram,2.0,Good,26,CO
+2023-05-27,Thiruvananthapuram,2.0,Good,33,"CO, PM2.5"
+2023-05-28,Thiruvananthapuram,2.0,Good,32,"PM10, PM2.5"
+2023-05-29,Thiruvananthapuram,2.0,Good,40,PM10
+2023-05-30,Thiruvananthapuram,2.0,Good,45,"PM10, PM2.5"
+2023-05-31,Thiruvananthapuram,2.0,Good,40,"PM10, PM2.5"
+2023-06-01,Thiruvananthapuram,2.0,Good,36,"CO, PM2.5"
+2023-06-02,Thiruvananthapuram,2.0,Good,44,"CO, PM2.5"
+2023-06-03,Thiruvananthapuram,2.0,Good,38,"CO, PM2.5"
+2023-06-04,Thiruvananthapuram,2.0,Good,24,"O3, PM10"
+2023-06-05,Thiruvananthapuram,2.0,Good,32,"CO, PM2.5"
+2023-06-06,Thiruvananthapuram,2.0,Good,22,"CO, PM10"
+2023-06-07,Thiruvananthapuram,2.0,Good,29,PM10
+2023-06-08,Thiruvananthapuram,1.0,Good,27,PM10
+2023-06-09,Thiruvananthapuram,1.0,Good,32,PM10
+2023-06-10,Thiruvananthapuram,2.0,Good,32,CO
+2023-06-11,Thiruvananthapuram,2.0,Good,24,PM10
+2023-06-12,Thiruvananthapuram,2.0,Good,32,CO
+2023-06-13,Thiruvananthapuram,2.0,Good,28,"CO, PM10"
+2023-06-14,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-06-15,Thiruvananthapuram,2.0,Good,36,PM10
+2023-06-16,Thiruvananthapuram,2.0,Good,40,PM10
+2023-06-17,Thiruvananthapuram,2.0,Good,42,PM10
+2023-06-18,Thiruvananthapuram,2.0,Good,26,PM10
+2023-06-19,Thiruvananthapuram,2.0,Good,40,CO
+2023-06-20,Thiruvananthapuram,2.0,Good,39,PM10
+2023-06-21,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2023-06-22,Thiruvananthapuram,2.0,Good,38,PM10
+2023-06-23,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2023-06-24,Thiruvananthapuram,2.0,Good,46,PM10
+2023-06-25,Thiruvananthapuram,2.0,Good,38,PM10
+2023-06-26,Thiruvananthapuram,2.0,Good,25,"CO, PM10"
+2023-06-27,Thiruvananthapuram,2.0,Good,22,"CO, PM10"
+2023-06-28,Thiruvananthapuram,2.0,Good,18,"O3, PM10"
+2023-06-29,Thiruvananthapuram,2.0,Good,22,"CO, PM10"
+2023-06-30,Thiruvananthapuram,2.0,Good,28,PM10
+2023-07-01,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-07-02,Thiruvananthapuram,2.0,Good,33,PM10
+2023-07-03,Thiruvananthapuram,2.0,Good,26,"CO, PM10"
+2023-07-04,Thiruvananthapuram,2.0,Good,30,PM10
+2023-07-05,Thiruvananthapuram,2.0,Good,22,"O3, PM10"
+2023-07-06,Thiruvananthapuram,2.0,Good,31,"CO, PM10"
+2023-07-07,Thiruvananthapuram,2.0,Good,25,"CO, PM10"
+2023-07-08,Thiruvananthapuram,2.0,Good,22,"CO, PM10"
+2023-07-09,Thiruvananthapuram,2.0,Good,24,"O3, PM10"
+2023-07-10,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-07-11,Thiruvananthapuram,2.0,Good,41,"CO, PM10"
+2023-07-12,Thiruvananthapuram,2.0,Good,42,"CO, PM10"
+2023-07-13,Thiruvananthapuram,2.0,Good,16,PM10
+2023-07-14,Thiruvananthapuram,1.0,Good,16,CO
+2023-07-15,Thiruvananthapuram,1.0,Good,37,CO
+2023-07-16,Thiruvananthapuram,1.0,Good,21,PM10
+2023-07-17,Thiruvananthapuram,1.0,Good,15,PM10
+2023-07-18,Thiruvananthapuram,1.0,Good,25,CO
+2023-07-19,Thiruvananthapuram,1.0,Good,34,CO
+2023-07-20,Thiruvananthapuram,1.0,Good,29,CO
+2023-07-21,Thiruvananthapuram,1.0,Good,22,CO
+2023-07-22,Thiruvananthapuram,1.0,Good,29,CO
+2023-07-23,Thiruvananthapuram,1.0,Good,14,PM10
+2023-07-26,Thiruvananthapuram,1.0,Good,37,CO
+2023-07-27,Thiruvananthapuram,1.0,Good,15,CO
+2023-07-28,Thiruvananthapuram,2.0,Good,27,PM10
+2023-07-29,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-07-30,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-07-31,Thiruvananthapuram,2.0,Good,36,CO
+2023-08-01,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-08-02,Thiruvananthapuram,2.0,Good,40,CO
+2023-08-03,Thiruvananthapuram,2.0,Good,28,PM10
+2023-08-04,Thiruvananthapuram,2.0,Good,32,CO
+2023-08-05,Thiruvananthapuram,2.0,Good,34,CO
+2023-08-06,Thiruvananthapuram,2.0,Good,27,PM10
+2023-08-07,Thiruvananthapuram,2.0,Good,34,CO
+2023-08-08,Thiruvananthapuram,2.0,Good,36,CO
+2023-08-09,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2023-08-10,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2023-08-11,Thiruvananthapuram,2.0,Good,35,"CO, PM10"
+2023-08-12,Thiruvananthapuram,2.0,Good,35,"CO, PM10"
+2023-08-13,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-08-14,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2023-08-15,Thiruvananthapuram,2.0,Good,33,"CO, PM10"
+2023-08-16,Thiruvananthapuram,2.0,Good,42,CO
+2023-08-17,Thiruvananthapuram,1.0,Satisfactory,53,PM10
+2023-08-18,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-08-19,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2023-08-20,Thiruvananthapuram,1.0,Good,18,PM10
+2023-08-21,Thiruvananthapuram,1.0,Good,49,O3
+2023-08-22,Thiruvananthapuram,2.0,Good,43,"CO, PM2.5"
+2023-08-23,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM2.5"
+2023-08-24,Thiruvananthapuram,2.0,Good,28,"CO, PM10"
+2023-08-25,Thiruvananthapuram,1.0,Good,28,PM10
+2023-08-26,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-08-27,Thiruvananthapuram,2.0,Good,26,"CO, PM10"
+2023-08-28,Thiruvananthapuram,2.0,Good,26,"CO, PM10"
+2023-08-29,Thiruvananthapuram,2.0,Good,24,"CO, NO2"
+2023-08-30,Thiruvananthapuram,2.0,Good,28,CO
+2023-08-31,Thiruvananthapuram,2.0,Good,26,"CO, PM10"
+2023-09-01,Thiruvananthapuram,2.0,Good,28,"CO, O3"
+2023-09-02,Thiruvananthapuram,2.0,Good,44,CO
+2023-09-03,Thiruvananthapuram,2.0,Good,26,CO
+2023-09-04,Thiruvananthapuram,2.0,Good,28,CO
+2023-09-05,Thiruvananthapuram,2.0,Good,28,CO
+2023-09-06,Thiruvananthapuram,2.0,Good,26,"CO, O3"
+2023-09-07,Thiruvananthapuram,2.0,Good,28,CO
+2023-09-08,Thiruvananthapuram,2.0,Good,37,"CO, PM10"
+2023-09-09,Thiruvananthapuram,1.0,Good,12,O3
+2023-09-10,Thiruvananthapuram,2.0,Good,26,"CO, O3"
+2023-09-11,Thiruvananthapuram,2.0,Good,26,CO
+2023-09-12,Thiruvananthapuram,2.0,Good,24,"CO, O3"
+2023-09-13,Thiruvananthapuram,2.0,Good,26,"CO, PM10"
+2023-09-14,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2023-09-15,Thiruvananthapuram,2.0,Good,28,"CO, PM10"
+2023-09-16,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-09-17,Thiruvananthapuram,2.0,Good,26,"CO, O3"
+2023-09-18,Thiruvananthapuram,2.0,Good,48,O3
+2023-09-19,Thiruvananthapuram,2.0,Good,26,CO
+2023-09-20,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-09-21,Thiruvananthapuram,2.0,Good,44,"CO, PM10"
+2023-09-22,Thiruvananthapuram,2.0,Good,30,"CO, PM10"
+2023-09-23,Thiruvananthapuram,2.0,Good,33,"CO, PM10"
+2023-09-24,Thiruvananthapuram,2.0,Good,26,"NO2, PM10"
+2023-09-25,Thiruvananthapuram,2.0,Good,43,"CO, PM10"
+2023-09-26,Thiruvananthapuram,2.0,Good,35,PM10
+2023-09-27,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2023-09-28,Thiruvananthapuram,2.0,Good,31,"CO, PM10"
+2023-09-29,Thiruvananthapuram,1.0,Good,43,PM10
+2023-09-30,Thiruvananthapuram,2.0,Good,40,"CO, PM10"
+2023-10-01,Thiruvananthapuram,1.0,Good,15,PM10
+2023-10-02,Thiruvananthapuram,1.0,Good,15,O3
+2023-10-03,Thiruvananthapuram,2.0,Good,34,"CO, PM10"
+2023-10-04,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2023-10-05,Thiruvananthapuram,1.0,Good,42,PM10
+2023-10-06,Thiruvananthapuram,2.0,Good,36,PM10
+2023-10-07,Thiruvananthapuram,2.0,Satisfactory,54,"PM10, PM2.5"
+2023-10-08,Thiruvananthapuram,2.0,Satisfactory,52,"PM10, PM2.5"
+2023-10-09,Thiruvananthapuram,2.0,Good,48,"PM10, PM2.5"
+2023-10-10,Thiruvananthapuram,2.0,Good,45,"PM10, PM2.5"
+2023-10-11,Thiruvananthapuram,2.0,Good,34,"O3, PM10"
+2023-10-13,Thiruvananthapuram,2.0,Good,38,"CO, PM2.5"
+2023-10-14,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2023-10-15,Thiruvananthapuram,1.0,Good,42,PM10
+2023-10-16,Thiruvananthapuram,2.0,Good,36,"CO, PM10"
+2023-10-17,Thiruvananthapuram,2.0,Good,32,"CO, PM10"
+2023-10-18,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-10-19,Thiruvananthapuram,2.0,Satisfactory,58,"CO, PM2.5"
+2023-10-20,Thiruvananthapuram,2.0,Satisfactory,56,"CO, PM2.5"
+2023-10-21,Thiruvananthapuram,2.0,Satisfactory,60,"CO, PM2.5"
+2023-10-22,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-10-23,Thiruvananthapuram,2.0,Satisfactory,51,"PM10, PM2.5"
+2023-10-24,Thiruvananthapuram,2.0,Good,44,"PM10, PM2.5"
+2023-10-25,Thiruvananthapuram,2.0,Good,50,"PM10, PM2.5"
+2023-10-26,Thiruvananthapuram,2.0,Good,46,"PM10, PM2.5"
+2023-10-27,Thiruvananthapuram,1.0,Good,38,PM10
+2023-10-28,Thiruvananthapuram,2.0,Satisfactory,65,"PM10, PM2.5"
+2023-10-29,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-10-30,Thiruvananthapuram,1.0,Good,32,PM10
+2023-10-31,Thiruvananthapuram,1.0,Good,39,CO
+2023-11-01,Thiruvananthapuram,1.0,Good,43,PM10
+2023-11-02,Thiruvananthapuram,1.0,Good,36,PM10
+2023-11-03,Thiruvananthapuram,1.0,Good,29,PM10
+2023-11-04,Thiruvananthapuram,1.0,Good,23,CO
+2023-11-05,Thiruvananthapuram,1.0,Good,15,CO
+2023-11-06,Thiruvananthapuram,1.0,Good,39,CO
+2023-11-07,Thiruvananthapuram,1.0,Good,22,CO
+2023-11-08,Thiruvananthapuram,2.0,Good,46,"CO, PM10"
+2023-11-09,Thiruvananthapuram,1.0,Good,39,CO
+2023-11-10,Thiruvananthapuram,1.0,Good,45,CO
+2023-11-11,Thiruvananthapuram,1.0,Good,24,PM10
+2023-11-12,Thiruvananthapuram,1.0,Moderate,173,PM2.5
+2023-11-13,Thiruvananthapuram,1.0,Moderate,191,PM2.5
+2023-11-14,Thiruvananthapuram,1.0,Satisfactory,74,PM2.5
+2023-11-15,Thiruvananthapuram,1.0,Satisfactory,76,PM2.5
+2023-11-16,Thiruvananthapuram,1.0,Good,42,PM10
+2023-11-17,Thiruvananthapuram,1.0,Good,36,PM2.5
+2023-11-18,Thiruvananthapuram,1.0,Good,50,PM2.5
+2023-11-20,Thiruvananthapuram,1.0,Good,31,PM10
+2023-11-21,Thiruvananthapuram,1.0,Good,46,PM10
+2023-11-22,Thiruvananthapuram,1.0,Good,30,PM10
+2023-11-23,Thiruvananthapuram,1.0,Good,19,CO
+2023-11-24,Thiruvananthapuram,1.0,Good,23,PM10
+2023-11-25,Thiruvananthapuram,1.0,Satisfactory,54,CO
+2023-11-26,Thiruvananthapuram,1.0,Good,27,PM10
+2023-11-27,Thiruvananthapuram,1.0,Good,41,PM10
+2023-11-28,Thiruvananthapuram,1.0,Good,39,PM10
+2023-11-29,Thiruvananthapuram,1.0,Good,48,PM10
+2023-11-30,Thiruvananthapuram,1.0,Good,43,PM10
+2023-12-01,Thiruvananthapuram,1.0,Good,40,PM10
+2023-12-02,Thiruvananthapuram,1.0,Good,25,CO
+2023-12-03,Thiruvananthapuram,1.0,Good,18,CO
+2023-12-04,Thiruvananthapuram,1.0,Good,31,CO
+2023-12-05,Thiruvananthapuram,1.0,Good,25,CO
+2023-12-06,Thiruvananthapuram,1.0,Good,41,CO
+2023-12-07,Thiruvananthapuram,1.0,Good,43,PM10
+2023-12-08,Thiruvananthapuram,2.0,Good,48,PM10
+2023-12-09,Thiruvananthapuram,2.0,Good,44,PM10
+2023-12-10,Thiruvananthapuram,2.0,Good,48,PM10
+2023-12-11,Thiruvananthapuram,2.0,Satisfactory,61,"PM10, PM2.5"
+2023-12-12,Thiruvananthapuram,2.0,Good,50,PM10
+2023-12-13,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2023-12-14,Thiruvananthapuram,2.0,Satisfactory,68,"PM10, PM2.5"
+2023-12-15,Thiruvananthapuram,2.0,Satisfactory,66,PM10
+2023-12-16,Thiruvananthapuram,2.0,Satisfactory,66,"PM10, PM2.5"
+2023-12-17,Thiruvananthapuram,2.0,Satisfactory,58,"PM10, PM2.5"
+2023-12-18,Thiruvananthapuram,2.0,Good,45,"CO, PM10"
+2023-12-19,Thiruvananthapuram,2.0,Good,38,"CO, PM10"
+2023-12-20,Thiruvananthapuram,2.0,Good,46,PM10
+2023-12-21,Thiruvananthapuram,2.0,Satisfactory,64,PM10
+2023-12-22,Thiruvananthapuram,2.0,Satisfactory,58,"PM10, PM2.5"
+2023-12-23,Thiruvananthapuram,2.0,Satisfactory,76,"PM10, PM2.5"
+2023-12-24,Thiruvananthapuram,2.0,Satisfactory,86,"PM10, PM2.5"
+2023-12-25,Thiruvananthapuram,2.0,Satisfactory,67,"PM10, PM2.5"
+2023-12-26,Thiruvananthapuram,2.0,Satisfactory,56,PM10
+2023-12-27,Thiruvananthapuram,2.0,Satisfactory,58,PM10
+2023-12-28,Thiruvananthapuram,2.0,Satisfactory,63,PM10
+2023-12-29,Thiruvananthapuram,2.0,Satisfactory,53,PM10
+2023-12-30,Thiruvananthapuram,2.0,Satisfactory,60,PM10
+2023-12-31,Thiruvananthapuram,1.0,Satisfactory,71,PM10

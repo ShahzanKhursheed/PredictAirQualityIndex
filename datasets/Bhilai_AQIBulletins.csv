@@ -1,0 +1,446 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2021-11-18,Bhilai,1.0,Satisfactory,64,PM10
+2021-11-19,Bhilai,1.0,Satisfactory,74,PM10
+2021-11-25,Bhilai,1.0,Satisfactory,74,PM10
+2021-11-26,Bhilai,1.0,Satisfactory,67,PM10
+2021-11-27,Bhilai,1.0,Satisfactory,73,PM10
+2021-11-28,Bhilai,1.0,Satisfactory,77,PM10
+2021-11-29,Bhilai,1.0,Satisfactory,74,PM10
+2021-11-30,Bhilai,1.0,Satisfactory,75,PM10
+2021-12-01,Bhilai,1.0,Satisfactory,79,PM10
+2021-12-02,Bhilai,1.0,Satisfactory,65,PM10
+2021-12-03,Bhilai,1.0,Satisfactory,60,PM10
+2021-12-04,Bhilai,1.0,Satisfactory,60,PM10
+2021-12-05,Bhilai,1.0,Satisfactory,53,PM10
+2021-12-06,Bhilai,1.0,Good,42,PM10
+2021-12-15,Bhilai,1.0,Satisfactory,65,PM10
+2021-12-16,Bhilai,1.0,Satisfactory,60,PM10
+2021-12-17,Bhilai,1.0,Satisfactory,61,PM10
+2021-12-18,Bhilai,1.0,Satisfactory,63,PM10
+2021-12-19,Bhilai,1.0,Satisfactory,53,PM10
+2021-12-20,Bhilai,1.0,Satisfactory,53,PM10
+2021-12-21,Bhilai,1.0,Satisfactory,59,PM10
+2021-12-22,Bhilai,1.0,Satisfactory,60,PM10
+2021-12-23,Bhilai,1.0,Satisfactory,64,PM10
+2021-12-24,Bhilai,1.0,Satisfactory,70,PM10
+2021-12-25,Bhilai,1.0,Satisfactory,63,PM10
+2021-12-26,Bhilai,1.0,Satisfactory,60,PM10
+2021-12-27,Bhilai,1.0,Satisfactory,75,PM10
+2021-12-28,Bhilai,1.0,Satisfactory,70,PM10
+2022-01-04,Bhilai,1.0,Satisfactory,55,PM10
+2022-01-05,Bhilai,1.0,Satisfactory,56,PM10
+2022-01-06,Bhilai,1.0,Satisfactory,53,PM10
+2022-01-07,Bhilai,1.0,Satisfactory,61,PM10
+2022-01-08,Bhilai,1.0,Satisfactory,61,PM10
+2022-01-09,Bhilai,1.0,Satisfactory,53,PM10
+2022-01-10,Bhilai,1.0,Good,41,PM10
+2022-01-11,Bhilai,1.0,Good,33,PM10
+2022-01-12,Bhilai,1.0,Good,29,PM10
+2022-01-13,Bhilai,1.0,Good,42,PM10
+2022-01-25,Bhilai,1.0,Satisfactory,71,PM10
+2022-01-26,Bhilai,1.0,Satisfactory,64,PM10
+2022-01-27,Bhilai,1.0,Good,49,PM10
+2022-01-28,Bhilai,1.0,Good,39,PM10
+2022-01-29,Bhilai,1.0,Satisfactory,57,PM10
+2022-01-30,Bhilai,1.0,Good,46,PM10
+2022-01-31,Bhilai,1.0,Good,43,PM10
+2022-02-01,Bhilai,1.0,Good,43,PM10
+2022-02-02,Bhilai,1.0,Good,46,PM10
+2022-02-03,Bhilai,1.0,Good,49,PM10
+2022-02-09,Bhilai,1.0,Satisfactory,56,PM10
+2022-02-18,Bhilai,1.0,Good,47,PM10
+2022-02-19,Bhilai,1.0,Satisfactory,60,PM10
+2022-02-20,Bhilai,1.0,Satisfactory,56,PM10
+2022-02-25,Bhilai,1.0,Good,46,PM10
+2022-02-26,Bhilai,1.0,Satisfactory,66,PM10
+2022-02-27,Bhilai,1.0,Satisfactory,53,PM10
+2022-02-28,Bhilai,1.0,Satisfactory,54,PM10
+2022-03-01,Bhilai,1.0,Satisfactory,54,PM10
+2022-03-02,Bhilai,1.0,Satisfactory,53,PM10
+2022-03-03,Bhilai,1.0,Satisfactory,62,PM10
+2022-03-04,Bhilai,1.0,Satisfactory,64,PM10
+2022-03-05,Bhilai,1.0,Satisfactory,63,PM10
+2022-03-07,Bhilai,1.0,Satisfactory,69,PM10
+2022-03-08,Bhilai,1.0,Satisfactory,62,PM10
+2022-03-09,Bhilai,1.0,Satisfactory,71,PM10
+2022-03-10,Bhilai,1.0,Satisfactory,61,PM10
+2022-03-11,Bhilai,1.0,Satisfactory,85,PM10
+2022-03-12,Bhilai,1.0,Satisfactory,56,PM10
+2022-03-13,Bhilai,1.0,Satisfactory,61,PM10
+2022-03-24,Bhilai,1.0,Satisfactory,67,PM10
+2022-06-28,Bhilai,1.0,Good,25,NO2
+2022-08-19,Bhilai,1.0,Good,25,NO2
+2022-08-20,Bhilai,1.0,Good,22,CO
+2022-08-21,Bhilai,1.0,Good,18,CO
+2022-09-10,Bhilai,1.0,Good,25,NO2
+2022-09-11,Bhilai,1.0,Good,25,NO2
+2022-10-06,Bhilai,1.0,Good,21,SO2
+2022-10-08,Bhilai,1.0,Good,33,PM10
+2022-10-11,Bhilai,1.0,Good,30,PM10
+2022-10-12,Bhilai,1.0,Good,33,PM10
+2022-10-26,Bhilai,2.0,Poor,218,PM2.5
+2022-10-27,Bhilai,2.0,Moderate,196,PM2.5
+2022-10-28,Bhilai,2.0,Moderate,170,PM2.5
+2022-10-29,Bhilai,1.0,Good,35,PM10
+2022-11-01,Bhilai,1.0,Good,41,PM10
+2022-11-12,Bhilai,1.0,Satisfactory,63,PM10
+2023-01-04,Bhilai,2.0,Moderate,114,PM2.5
+2023-01-05,Bhilai,2.0,Moderate,114,PM2.5
+2023-01-06,Bhilai,2.0,Moderate,103,PM2.5
+2023-01-07,Bhilai,2.0,Satisfactory,72,PM10
+2023-01-08,Bhilai,2.0,Satisfactory,80,PM10
+2023-01-09,Bhilai,2.0,Satisfactory,62,PM10
+2023-01-10,Bhilai,2.0,Moderate,138,O3
+2023-01-12,Bhilai,2.0,Satisfactory,100,"O3, PM2.5"
+2023-01-13,Bhilai,2.0,Satisfactory,95,"O3, PM2.5"
+2023-01-14,Bhilai,2.0,Satisfactory,86,"O3, PM10"
+2023-01-15,Bhilai,2.0,Satisfactory,84,"O3, PM10"
+2023-01-16,Bhilai,2.0,Satisfactory,82,PM10
+2023-01-17,Bhilai,2.0,Moderate,104,PM10
+2023-01-18,Bhilai,2.0,Satisfactory,94,PM10
+2023-01-19,Bhilai,2.0,Satisfactory,91,PM10
+2023-01-20,Bhilai,2.0,Moderate,138,"O3, PM10"
+2023-01-22,Bhilai,2.0,Satisfactory,82,PM10
+2023-01-23,Bhilai,2.0,Satisfactory,92,O3
+2023-01-24,Bhilai,2.0,Moderate,133,O3
+2023-01-25,Bhilai,3.0,Satisfactory,100,"O3, PM10"
+2023-01-26,Bhilai,3.0,Satisfactory,90,"O3, PM10"
+2023-01-27,Bhilai,3.0,Satisfactory,97,"O3, PM10"
+2023-01-28,Bhilai,3.0,Satisfactory,92,O3
+2023-01-29,Bhilai,2.0,Moderate,123,O3
+2023-01-30,Bhilai,3.0,Moderate,112,"O3, PM10"
+2023-01-31,Bhilai,3.0,Moderate,134,O3
+2023-02-01,Bhilai,2.0,Satisfactory,70,O3
+2023-02-02,Bhilai,2.0,Satisfactory,63,O3
+2023-02-03,Bhilai,2.0,Satisfactory,69,O3
+2023-02-04,Bhilai,2.0,Satisfactory,84,"PM10, PM2.5"
+2023-02-05,Bhilai,2.0,Satisfactory,98,"O3, PM2.5"
+2023-02-06,Bhilai,2.0,Satisfactory,86,PM10
+2023-02-07,Bhilai,2.0,Satisfactory,98,"O3, PM10"
+2023-02-08,Bhilai,2.0,Satisfactory,74,PM10
+2023-02-09,Bhilai,2.0,Satisfactory,69,PM10
+2023-02-10,Bhilai,3.0,Moderate,122,"O3, PM10"
+2023-02-11,Bhilai,3.0,Satisfactory,100,"O3, PM10"
+2023-02-12,Bhilai,3.0,Satisfactory,75,O3
+2023-02-13,Bhilai,3.0,Satisfactory,74,"O3, PM10"
+2023-02-14,Bhilai,3.0,Satisfactory,65,"O3, PM10"
+2023-02-15,Bhilai,3.0,Satisfactory,82,O3
+2023-02-16,Bhilai,3.0,Satisfactory,67,"O3, PM10"
+2023-02-17,Bhilai,3.0,Satisfactory,73,"O3, PM10"
+2023-02-18,Bhilai,3.0,Satisfactory,92,PM10
+2023-02-19,Bhilai,2.0,Satisfactory,98,PM10
+2023-02-20,Bhilai,2.0,Satisfactory,88,"PM10, PM2.5"
+2023-02-21,Bhilai,2.0,Satisfactory,74,PM10
+2023-02-22,Bhilai,2.0,Satisfactory,84,"PM10, PM2.5"
+2023-02-23,Bhilai,2.0,Satisfactory,86,"O3, PM10"
+2023-02-24,Bhilai,2.0,Satisfactory,91,PM10
+2023-02-25,Bhilai,1.0,Satisfactory,82,PM10
+2023-02-26,Bhilai,2.0,Moderate,140,O3
+2023-02-27,Bhilai,2.0,Moderate,128,O3
+2023-02-28,Bhilai,2.0,Moderate,141,O3
+2023-03-01,Bhilai,2.0,Moderate,110,"O3, PM2.5"
+2023-03-02,Bhilai,2.0,Moderate,138,O3
+2023-03-03,Bhilai,2.0,Moderate,124,O3
+2023-03-04,Bhilai,2.0,Satisfactory,90,PM10
+2023-03-05,Bhilai,2.0,Satisfactory,81,"O3, PM10"
+2023-03-06,Bhilai,2.0,Satisfactory,75,"O3, PM10"
+2023-03-07,Bhilai,2.0,Satisfactory,67,O3
+2023-03-08,Bhilai,2.0,Satisfactory,60,O3
+2023-03-09,Bhilai,2.0,Satisfactory,77,O3
+2023-03-10,Bhilai,2.0,Satisfactory,62,O3
+2023-03-11,Bhilai,2.0,Satisfactory,91,O3
+2023-03-12,Bhilai,2.0,Satisfactory,74,O3
+2023-03-13,Bhilai,2.0,Satisfactory,76,O3
+2023-03-14,Bhilai,2.0,Satisfactory,88,PM10
+2023-03-15,Bhilai,2.0,Satisfactory,66,PM10
+2023-03-16,Bhilai,2.0,Satisfactory,66,PM10
+2023-03-17,Bhilai,2.0,Satisfactory,58,PM10
+2023-03-18,Bhilai,2.0,Good,40,"PM10, PM2.5"
+2023-03-19,Bhilai,2.0,Good,31,CO
+2023-03-20,Bhilai,2.0,Good,26,"CO, PM10"
+2023-03-21,Bhilai,2.0,Satisfactory,55,"CO, PM10"
+2023-03-22,Bhilai,2.0,Good,48,"CO, PM10"
+2023-03-23,Bhilai,2.0,Satisfactory,62,PM10
+2023-03-24,Bhilai,2.0,Satisfactory,78,PM10
+2023-03-25,Bhilai,2.0,Satisfactory,68,PM10
+2023-03-26,Bhilai,2.0,Satisfactory,57,PM10
+2023-03-27,Bhilai,2.0,Good,40,PM10
+2023-03-28,Bhilai,2.0,Satisfactory,72,PM10
+2023-03-29,Bhilai,2.0,Satisfactory,80,PM10
+2023-03-30,Bhilai,2.0,Satisfactory,52,PM10
+2023-03-31,Bhilai,2.0,Good,42,PM10
+2023-04-01,Bhilai,3.0,Good,36,"CO, PM10"
+2023-04-02,Bhilai,3.0,Satisfactory,54,PM10
+2023-04-03,Bhilai,3.0,Satisfactory,53,PM10
+2023-04-04,Bhilai,3.0,Good,49,PM10
+2023-04-05,Bhilai,3.0,Satisfactory,62,PM10
+2023-04-06,Bhilai,3.0,Satisfactory,73,PM10
+2023-04-07,Bhilai,3.0,Good,48,"O3, PM10"
+2023-04-08,Bhilai,3.0,Good,46,PM10
+2023-04-09,Bhilai,3.0,Good,49,"O3, PM10"
+2023-04-10,Bhilai,3.0,Good,41,"O3, PM10"
+2023-04-11,Bhilai,3.0,Satisfactory,58,PM10
+2023-04-12,Bhilai,3.0,Satisfactory,76,PM10
+2023-04-13,Bhilai,3.0,Satisfactory,72,"O3, PM10"
+2023-04-14,Bhilai,3.0,Satisfactory,72,PM10
+2023-04-15,Bhilai,2.0,Satisfactory,60,PM10
+2023-04-16,Bhilai,2.0,Good,44,PM10
+2023-04-17,Bhilai,3.0,Satisfactory,70,"CO, PM10"
+2023-04-18,Bhilai,3.0,Satisfactory,74,"CO, PM10"
+2023-04-19,Bhilai,3.0,Satisfactory,70,PM10
+2023-04-20,Bhilai,3.0,Satisfactory,61,"O3, PM10"
+2023-04-21,Bhilai,3.0,Good,37,PM10
+2023-04-22,Bhilai,3.0,Good,43,O3
+2023-04-23,Bhilai,3.0,Good,32,PM10
+2023-04-24,Bhilai,3.0,Good,37,"CO, O3"
+2023-04-25,Bhilai,3.0,Good,35,"O3, PM10"
+2023-04-26,Bhilai,3.0,Good,30,PM10
+2023-04-27,Bhilai,3.0,Good,39,"O3, PM10"
+2023-04-28,Bhilai,3.0,Good,41,"CO, NO2"
+2023-04-29,Bhilai,2.0,Good,36,"CO, NO2"
+2023-04-30,Bhilai,3.0,Good,24,"CO, NO2"
+2023-05-01,Bhilai,3.0,Good,24,NO2
+2023-05-02,Bhilai,3.0,Good,25,CO
+2023-05-03,Bhilai,3.0,Good,23,NO2
+2023-05-04,Bhilai,2.0,Good,36,"CO, PM10"
+2023-05-05,Bhilai,2.0,Good,34,"NO2, PM10"
+2023-05-06,Bhilai,2.0,Good,40,PM10
+2023-05-07,Bhilai,2.0,Good,48,PM10
+2023-05-08,Bhilai,3.0,Good,44,PM10
+2023-05-09,Bhilai,3.0,Satisfactory,53,"O3, PM10"
+2023-05-10,Bhilai,3.0,Good,42,PM10
+2023-05-11,Bhilai,2.0,Satisfactory,68,"PM10, PM2.5"
+2023-05-12,Bhilai,2.0,Satisfactory,76,"PM10, PM2.5"
+2023-05-13,Bhilai,2.0,Satisfactory,66,PM10
+2023-05-14,Bhilai,2.0,Satisfactory,76,PM10
+2023-05-15,Bhilai,2.0,Satisfactory,70,PM10
+2023-05-16,Bhilai,2.0,Satisfactory,71,PM10
+2023-05-17,Bhilai,2.0,Satisfactory,52,PM10
+2023-05-18,Bhilai,3.0,Satisfactory,64,PM10
+2023-05-19,Bhilai,2.0,Satisfactory,60,PM10
+2023-05-20,Bhilai,2.0,Good,46,PM10
+2023-05-21,Bhilai,2.0,Satisfactory,52,PM10
+2023-05-22,Bhilai,2.0,Satisfactory,59,PM10
+2023-05-23,Bhilai,2.0,Good,46,PM10
+2023-05-24,Bhilai,2.0,Good,46,PM10
+2023-05-25,Bhilai,3.0,Satisfactory,51,"O3, PM10"
+2023-05-26,Bhilai,3.0,Satisfactory,57,PM10
+2023-05-27,Bhilai,3.0,Satisfactory,55,"O3, PM10"
+2023-05-28,Bhilai,3.0,Satisfactory,52,"O3, PM10"
+2023-05-29,Bhilai,3.0,Good,43,"CO, PM10"
+2023-05-30,Bhilai,3.0,Satisfactory,59,"O3, PM10"
+2023-05-31,Bhilai,3.0,Good,49,"O3, PM10"
+2023-06-01,Bhilai,3.0,Satisfactory,55,PM10
+2023-06-02,Bhilai,3.0,Satisfactory,70,PM10
+2023-06-03,Bhilai,2.0,Satisfactory,68,PM10
+2023-06-04,Bhilai,2.0,Satisfactory,68,PM10
+2023-06-05,Bhilai,2.0,Satisfactory,54,PM10
+2023-06-06,Bhilai,2.0,Satisfactory,62,PM10
+2023-06-07,Bhilai,2.0,Satisfactory,74,"O3, PM10"
+2023-06-08,Bhilai,3.0,Good,49,"O3, PM10"
+2023-06-09,Bhilai,3.0,Satisfactory,57,"O3, PM10"
+2023-06-10,Bhilai,3.0,Satisfactory,51,"CO, PM10"
+2023-06-11,Bhilai,3.0,Good,42,PM10
+2023-06-12,Bhilai,2.0,Good,44,O3
+2023-06-13,Bhilai,2.0,Good,40,"O3, PM10"
+2023-06-14,Bhilai,2.0,Good,46,"NO2, PM10"
+2023-06-15,Bhilai,3.0,Good,48,"NO2, PM10"
+2023-06-16,Bhilai,3.0,Satisfactory,60,PM10
+2023-06-17,Bhilai,2.0,Satisfactory,58,PM10
+2023-06-18,Bhilai,2.0,Satisfactory,56,PM10
+2023-06-19,Bhilai,2.0,Satisfactory,66,PM10
+2023-06-20,Bhilai,2.0,Satisfactory,62,PM10
+2023-06-21,Bhilai,3.0,Good,44,PM10
+2023-06-22,Bhilai,3.0,Good,40,"NO2, PM10"
+2023-06-23,Bhilai,3.0,Good,33,"CO, NO2"
+2023-06-24,Bhilai,3.0,Good,36,NO2
+2023-06-25,Bhilai,3.0,Good,30,"CO, NO2"
+2023-06-26,Bhilai,3.0,Good,34,"CO, NO2"
+2023-06-27,Bhilai,3.0,Good,29,"CO, NO2"
+2023-06-28,Bhilai,3.0,Good,21,O3
+2023-06-29,Bhilai,2.0,Good,31,NO2
+2023-06-30,Bhilai,3.0,Good,34,"CO, NO2"
+2023-07-01,Bhilai,3.0,Good,33,CO
+2023-07-02,Bhilai,3.0,Good,26,"NO2, O3"
+2023-07-03,Bhilai,2.0,Good,38,PM2.5
+2023-07-04,Bhilai,2.0,Good,49,PM2.5
+2023-07-05,Bhilai,3.0,Good,36,"CO, PM2.5"
+2023-07-06,Bhilai,3.0,Good,25,PM2.5
+2023-07-07,Bhilai,2.0,Good,22,NO2
+2023-07-08,Bhilai,2.0,Good,22,"NO2, PM10"
+2023-07-09,Bhilai,2.0,Good,26,"O3, PM10"
+2023-07-10,Bhilai,2.0,Good,42,PM10
+2023-07-11,Bhilai,2.0,Good,24,PM10
+2023-07-12,Bhilai,3.0,Good,29,CO
+2023-07-13,Bhilai,3.0,Good,26,O3
+2023-07-14,Bhilai,2.0,Good,31,"O3, PM10"
+2023-07-15,Bhilai,2.0,Good,31,PM10
+2023-07-16,Bhilai,2.0,Good,25,"NO2, O3"
+2023-07-17,Bhilai,2.0,Good,22,"CO, NO2"
+2023-07-18,Bhilai,2.0,Good,26,PM10
+2023-07-19,Bhilai,2.0,Good,41,PM10
+2023-07-20,Bhilai,2.0,Satisfactory,56,PM2.5
+2023-07-21,Bhilai,2.0,Good,38,PM2.5
+2023-07-22,Bhilai,2.0,Good,23,NO2
+2023-07-23,Bhilai,2.0,Good,20,CO
+2023-07-24,Bhilai,3.0,Good,19,O3
+2023-07-25,Bhilai,3.0,Good,42,PM10
+2023-07-26,Bhilai,3.0,Satisfactory,51,"PM10, PM2.5"
+2023-07-27,Bhilai,3.0,Good,29,CO
+2023-07-28,Bhilai,3.0,Good,28,"CO, PM2.5"
+2023-07-29,Bhilai,3.0,Good,22,PM10
+2023-07-30,Bhilai,3.0,Good,32,"CO, PM10"
+2023-07-31,Bhilai,3.0,Good,28,"CO, PM10"
+2023-08-01,Bhilai,3.0,Good,36,PM10
+2023-08-02,Bhilai,2.0,Good,29,PM10
+2023-08-03,Bhilai,3.0,Good,16,PM2.5
+2023-08-04,Bhilai,3.0,Good,18,CO
+2023-08-05,Bhilai,2.0,Good,36,"PM10, PM2.5"
+2023-08-06,Bhilai,2.0,Good,50,PM10
+2023-08-07,Bhilai,2.0,Good,48,PM10
+2023-08-08,Bhilai,2.0,Satisfactory,65,PM10
+2023-08-09,Bhilai,2.0,Satisfactory,82,PM10
+2023-08-10,Bhilai,2.0,Satisfactory,88,PM10
+2023-08-11,Bhilai,2.0,Moderate,102,PM10
+2023-08-12,Bhilai,2.0,Satisfactory,92,PM10
+2023-08-13,Bhilai,3.0,Satisfactory,66,"CO, PM10"
+2023-08-14,Bhilai,3.0,Good,50,PM10
+2023-08-15,Bhilai,3.0,Good,50,"CO, PM10"
+2023-08-16,Bhilai,3.0,Satisfactory,52,"CO, PM10"
+2023-08-17,Bhilai,3.0,Good,48,PM10
+2023-08-18,Bhilai,3.0,Good,33,"O3, PM10"
+2023-08-19,Bhilai,3.0,Good,36,"O3, PM10"
+2023-08-20,Bhilai,3.0,Good,31,"O3, PM10"
+2023-08-21,Bhilai,2.0,Good,42,"O3, PM10"
+2023-08-22,Bhilai,3.0,Good,44,"PM10, PM2.5"
+2023-08-23,Bhilai,2.0,Satisfactory,55,"PM10, PM2.5"
+2023-08-24,Bhilai,2.0,Good,43,"PM10, PM2.5"
+2023-08-25,Bhilai,2.0,Good,40,"O3, PM10"
+2023-08-26,Bhilai,3.0,Good,41,"O3, PM10"
+2023-08-27,Bhilai,3.0,Satisfactory,53,"PM10, PM2.5"
+2023-08-28,Bhilai,3.0,Satisfactory,73,PM10
+2023-08-29,Bhilai,2.0,Moderate,136,"PM10, PM2.5"
+2023-08-30,Bhilai,2.0,Satisfactory,75,PM10
+2023-08-31,Bhilai,2.0,Good,48,"PM10, PM2.5"
+2023-09-01,Bhilai,2.0,Satisfactory,61,"PM10, PM2.5"
+2023-09-02,Bhilai,3.0,Satisfactory,56,"PM10, PM2.5"
+2023-09-03,Bhilai,3.0,Good,33,"CO, PM10"
+2023-09-04,Bhilai,3.0,Good,23,"CO, PM10"
+2023-09-05,Bhilai,2.0,Good,32,"PM10, PM2.5"
+2023-09-06,Bhilai,2.0,Good,46,"PM10, PM2.5"
+2023-09-07,Bhilai,3.0,Good,30,"PM10, PM2.5"
+2023-09-08,Bhilai,3.0,Good,24,CO
+2023-09-09,Bhilai,3.0,Good,28,"PM10, PM2.5"
+2023-09-10,Bhilai,3.0,Good,27,"CO, PM10"
+2023-09-11,Bhilai,3.0,Good,24,CO
+2023-09-12,Bhilai,1.0,Good,33,PM10
+2023-09-13,Bhilai,2.0,Good,35,"PM10, PM2.5"
+2023-09-14,Bhilai,3.0,Good,23,"PM10, PM2.5"
+2023-09-15,Bhilai,1.0,Satisfactory,65,CO
+2023-09-16,Bhilai,2.0,Good,29,"PM10, PM2.5"
+2023-09-17,Bhilai,2.0,Good,26,"PM10, PM2.5"
+2023-09-18,Bhilai,3.0,Good,33,PM10
+2023-09-19,Bhilai,2.0,Good,32,"PM10, PM2.5"
+2023-09-20,Bhilai,2.0,Good,38,PM10
+2023-09-21,Bhilai,3.0,Good,26,CO
+2023-09-22,Bhilai,3.0,Good,18,CO
+2023-09-23,Bhilai,3.0,Good,18,CO
+2023-09-24,Bhilai,3.0,Good,27,CO
+2023-09-25,Bhilai,3.0,Good,44,"CO, PM10"
+2023-09-26,Bhilai,2.0,Good,45,PM10
+2023-09-27,Bhilai,3.0,Good,39,"PM10, PM2.5"
+2023-09-28,Bhilai,3.0,Satisfactory,62,"CO, PM10"
+2023-09-29,Bhilai,3.0,Satisfactory,61,PM10
+2023-09-30,Bhilai,2.0,Good,40,PM10
+2023-10-01,Bhilai,2.0,Good,46,PM10
+2023-10-02,Bhilai,2.0,Good,50,PM10
+2023-10-03,Bhilai,3.0,Good,22,PM10
+2023-10-04,Bhilai,2.0,Satisfactory,59,PM10
+2023-10-05,Bhilai,3.0,Satisfactory,70,PM10
+2023-10-06,Bhilai,2.0,Satisfactory,86,PM10
+2023-10-07,Bhilai,3.0,Satisfactory,67,PM10
+2023-10-08,Bhilai,2.0,Satisfactory,80,PM10
+2023-10-09,Bhilai,3.0,Satisfactory,67,PM10
+2023-10-10,Bhilai,2.0,Satisfactory,84,PM10
+2023-10-11,Bhilai,3.0,Satisfactory,72,PM10
+2023-10-12,Bhilai,2.0,Satisfactory,88,PM10
+2023-10-13,Bhilai,3.0,Satisfactory,82,PM10
+2023-10-14,Bhilai,2.0,Moderate,112,"PM10, PM2.5"
+2023-10-15,Bhilai,2.0,Satisfactory,94,"PM10, PM2.5"
+2023-10-16,Bhilai,3.0,Satisfactory,59,PM10
+2023-10-17,Bhilai,2.0,Satisfactory,85,PM10
+2023-10-18,Bhilai,2.0,Satisfactory,70,PM10
+2023-10-19,Bhilai,2.0,Satisfactory,84,PM10
+2023-10-20,Bhilai,3.0,Satisfactory,81,PM10
+2023-10-21,Bhilai,2.0,Satisfactory,100,"PM10, PM2.5"
+2023-10-22,Bhilai,2.0,Satisfactory,87,PM10
+2023-10-23,Bhilai,3.0,Satisfactory,68,PM10
+2023-10-24,Bhilai,2.0,Satisfactory,76,PM10
+2023-10-25,Bhilai,2.0,Satisfactory,84,"PM10, PM2.5"
+2023-10-26,Bhilai,3.0,Satisfactory,79,PM10
+2023-10-27,Bhilai,2.0,Satisfactory,66,PM10
+2023-10-28,Bhilai,3.0,Satisfactory,92,"PM10, PM2.5"
+2023-10-29,Bhilai,2.0,Moderate,116,"PM10, PM2.5"
+2023-10-30,Bhilai,3.0,Satisfactory,94,"PM10, PM2.5"
+2023-10-31,Bhilai,2.0,Moderate,141,PM2.5
+2023-11-01,Bhilai,2.0,Moderate,106,PM10
+2023-11-02,Bhilai,3.0,Satisfactory,83,"PM10, PM2.5"
+2023-11-03,Bhilai,3.0,Satisfactory,76,"CO, PM10"
+2023-11-04,Bhilai,3.0,Satisfactory,63,"CO, PM10"
+2023-11-05,Bhilai,3.0,Satisfactory,81,"CO, PM10"
+2023-11-06,Bhilai,2.0,Moderate,113,"PM10, PM2.5"
+2023-11-07,Bhilai,2.0,Moderate,114,PM10
+2023-11-08,Bhilai,2.0,Moderate,131,"PM10, PM2.5"
+2023-11-09,Bhilai,2.0,Moderate,138,"PM10, PM2.5"
+2023-11-10,Bhilai,2.0,Moderate,124,PM10
+2023-11-11,Bhilai,3.0,Moderate,109,PM2.5
+2023-11-12,Bhilai,2.0,Moderate,138,PM2.5
+2023-11-13,Bhilai,3.0,Satisfactory,93,"PM10, PM2.5"
+2023-11-14,Bhilai,3.0,Moderate,106,"PM10, PM2.5"
+2023-11-15,Bhilai,3.0,Moderate,122,PM2.5
+2023-11-16,Bhilai,2.0,Moderate,136,PM2.5
+2023-11-17,Bhilai,3.0,Satisfactory,67,"CO, PM10"
+2023-11-18,Bhilai,2.0,Satisfactory,90,PM10
+2023-11-19,Bhilai,3.0,Satisfactory,85,PM10
+2023-11-20,Bhilai,3.0,Satisfactory,84,PM10
+2023-11-21,Bhilai,3.0,Satisfactory,84,PM10
+2023-11-22,Bhilai,2.0,Moderate,106,PM10
+2023-11-23,Bhilai,3.0,Moderate,121,"PM10, PM2.5"
+2023-11-24,Bhilai,3.0,Moderate,141,"PM10, PM2.5"
+2023-11-25,Bhilai,3.0,Moderate,153,"PM10, PM2.5"
+2023-11-26,Bhilai,3.0,Moderate,128,"PM10, PM2.5"
+2023-11-27,Bhilai,2.0,Moderate,158,"PM10, PM2.5"
+2023-11-28,Bhilai,3.0,Moderate,167,"PM10, PM2.5"
+2023-11-29,Bhilai,2.0,Good,42,PM10
+2023-11-30,Bhilai,3.0,Satisfactory,78,PM10
+2023-12-01,Bhilai,2.0,Moderate,128,"PM10, PM2.5"
+2023-12-02,Bhilai,2.0,Satisfactory,98,PM10
+2023-12-03,Bhilai,1.0,Moderate,106,PM10
+2023-12-04,Bhilai,3.0,Satisfactory,99,PM10
+2023-12-05,Bhilai,2.0,Satisfactory,70,PM10
+2023-12-06,Bhilai,3.0,Good,33,"CO, NO2, PM10"
+2023-12-07,Bhilai,2.0,Good,32,"CO, NO2"
+2023-12-08,Bhilai,2.0,Good,42,PM10
+2023-12-09,Bhilai,3.0,Satisfactory,55,PM10
+2023-12-10,Bhilai,3.0,Satisfactory,66,PM10
+2023-12-11,Bhilai,3.0,Satisfactory,94,PM10
+2023-12-12,Bhilai,3.0,Moderate,112,"PM10, PM2.5"
+2023-12-13,Bhilai,3.0,Moderate,102,PM10
+2023-12-14,Bhilai,3.0,Moderate,126,"PM10, PM2.5"
+2023-12-15,Bhilai,3.0,Moderate,118,"PM10, PM2.5"
+2023-12-16,Bhilai,3.0,Moderate,111,"PM10, PM2.5"
+2023-12-17,Bhilai,3.0,Moderate,104,"PM10, PM2.5"
+2023-12-18,Bhilai,3.0,Satisfactory,84,"PM10, PM2.5"
+2023-12-19,Bhilai,3.0,Satisfactory,89,"PM10, PM2.5"
+2023-12-20,Bhilai,3.0,Satisfactory,92,PM10
+2023-12-21,Bhilai,3.0,Moderate,135,"PM10, PM2.5"
+2023-12-22,Bhilai,3.0,Moderate,154,"PM10, PM2.5"
+2023-12-23,Bhilai,2.0,Poor,244,PM2.5
+2023-12-24,Bhilai,2.0,Poor,244,PM2.5
+2023-12-25,Bhilai,3.0,Poor,229,"PM10, PM2.5"
+2023-12-26,Bhilai,3.0,Poor,235,"PM10, PM2.5"
+2023-12-27,Bhilai,2.0,Poor,266,PM2.5
+2023-12-28,Bhilai,2.0,Poor,250,PM2.5
+2023-12-29,Bhilai,3.0,Poor,213,"PM10, PM2.5"
+2023-12-30,Bhilai,2.0,Poor,242,PM2.5
+2023-12-31,Bhilai,2.0,Poor,236,PM2.5

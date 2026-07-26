@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+
+{% block content %}
+<section class="container my-5">
+  <div class="row justify-content-center">
+    <div class="col-lg-8">
+      <h2 class="mb-4">About This Project</h2>
+      <div class="info-card mb-4">
+        <p>
+          The <strong>AQI Prediction System</strong> estimates the Air Quality Index from pollutant
+          concentrations (PM2.5, PM10, NO₂, SO₂, CO, O₃, NH₃) and weather conditions
+          (temperature, humidity, wind speed).
+        </p>
+        <p class="mb-0">
+          Two prediction approaches are available: a classical machine learning regression model
+          (the best of Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and SVR,
+          selected automatically by R² score) and a deep learning Artificial Neural Network built
+          with TensorFlow/Keras.
+        </p>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-md-6">
+          <div class="info-card h-100">
+            <h5>Tech Stack</h5>
+            <ul class="mb-0 text-muted">
+              <li>Python, Pandas, NumPy</li>
+              <li>Scikit-learn (regression models)</li>
+              <li>TensorFlow / Keras (ANN)</li>
+              <li>Flask (backend)</li>
+              <li>Bootstrap 5 (frontend)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="info-card h-100">
+            <h5>Pipeline</h5>
+            <ul class="mb-0 text-muted">
+              <li>Data cleaning &amp; outlier handling</li>
+              <li>Feature scaling</li>
+              <li>Model training &amp; comparison</li>
+              <li>Best model saved (.pkl / .h5)</li>
+              <li>Served via a Flask prediction API</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,60 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-11-02,Cuttack,1.0,Moderate,112,PM10
+2023-11-03,Cuttack,1.0,Satisfactory,73,PM10
+2023-11-04,Cuttack,1.0,Satisfactory,59,PM10
+2023-11-05,Cuttack,1.0,Satisfactory,52,PM2.5
+2023-11-06,Cuttack,1.0,Moderate,108,PM2.5
+2023-11-07,Cuttack,1.0,Poor,214,PM2.5
+2023-11-08,Cuttack,1.0,Moderate,200,PM2.5
+2023-11-09,Cuttack,1.0,Poor,207,PM2.5
+2023-11-10,Cuttack,1.0,Poor,235,PM2.5
+2023-11-11,Cuttack,1.0,Poor,242,PM2.5
+2023-11-12,Cuttack,1.0,Poor,214,PM2.5
+2023-11-13,Cuttack,1.0,Very Poor,355,PM2.5
+2023-11-14,Cuttack,1.0,Poor,249,PM2.5
+2023-11-15,Cuttack,1.0,Moderate,190,PM2.5
+2023-11-16,Cuttack,1.0,Moderate,112,PM10
+2023-11-17,Cuttack,1.0,Satisfactory,84,PM10
+2023-11-18,Cuttack,1.0,Satisfactory,100,PM10
+2023-11-19,Cuttack,1.0,Satisfactory,70,PM10
+2023-11-20,Cuttack,1.0,Satisfactory,95,PM10
+2023-11-21,Cuttack,1.0,Satisfactory,75,PM10
+2023-11-22,Cuttack,1.0,Moderate,179,PM2.5
+2023-11-23,Cuttack,1.0,Poor,272,PM2.5
+2023-11-24,Cuttack,1.0,Very Poor,304,PM2.5
+2023-11-25,Cuttack,1.0,Very Poor,301,PM2.5
+2023-11-26,Cuttack,1.0,Poor,262,PM2.5
+2023-11-27,Cuttack,1.0,Poor,239,PM2.5
+2023-11-28,Cuttack,1.0,Poor,246,PM2.5
+2023-11-29,Cuttack,1.0,Poor,281,PM2.5
+2023-11-30,Cuttack,1.0,Poor,216,PM2.5
+2023-12-01,Cuttack,1.0,Poor,221,PM2.5
+2023-12-02,Cuttack,1.0,Moderate,155,PM2.5
+2023-12-03,Cuttack,1.0,Poor,222,PM2.5
+2023-12-05,Cuttack,1.0,Poor,222,PM2.5
+2023-12-06,Cuttack,1.0,Satisfactory,69,PM10
+2023-12-07,Cuttack,1.0,Satisfactory,58,PM2.5
+2023-12-08,Cuttack,1.0,Good,48,PM10
+2023-12-09,Cuttack,1.0,Satisfactory,65,PM10
+2023-12-10,Cuttack,1.0,Moderate,135,PM2.5
+2023-12-11,Cuttack,1.0,Moderate,151,PM2.5
+2023-12-12,Cuttack,1.0,Moderate,194,PM2.5
+2023-12-13,Cuttack,1.0,Poor,214,PM2.5
+2023-12-14,Cuttack,1.0,Poor,212,PM2.5
+2023-12-15,Cuttack,1.0,Poor,210,PM2.5
+2023-12-16,Cuttack,1.0,Poor,226,PM2.5
+2023-12-17,Cuttack,1.0,Poor,271,PM2.5
+2023-12-18,Cuttack,1.0,Poor,240,PM2.5
+2023-12-19,Cuttack,1.0,Poor,252,PM2.5
+2023-12-20,Cuttack,1.0,Poor,287,PM2.5
+2023-12-21,Cuttack,1.0,Poor,269,PM2.5
+2023-12-22,Cuttack,1.0,Poor,267,PM2.5
+2023-12-23,Cuttack,1.0,Poor,282,PM2.5
+2023-12-24,Cuttack,1.0,Poor,266,PM2.5
+2023-12-25,Cuttack,1.0,Poor,285,PM2.5
+2023-12-26,Cuttack,1.0,Poor,266,PM2.5
+2023-12-27,Cuttack,1.0,Poor,238,PM2.5
+2023-12-28,Cuttack,1.0,Poor,296,PM2.5
+2023-12-29,Cuttack,1.0,Very Poor,317,PM2.5
+2023-12-30,Cuttack,1.0,Very Poor,303,PM2.5
+2023-12-31,Cuttack,1.0,Poor,300,PM2.5

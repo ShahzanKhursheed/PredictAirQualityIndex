@@ -1,0 +1,63 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2023-10-26,Angul,1.0,Moderate,163,O3
+2023-10-27,Angul,1.0,Poor,228,PM2.5
+2023-10-28,Angul,1.0,Moderate,187,PM2.5
+2023-10-30,Angul,1.0,Moderate,161,O3
+2023-10-31,Angul,1.0,Moderate,200,PM2.5
+2023-11-02,Angul,1.0,Moderate,137,PM10
+2023-11-03,Angul,1.0,Satisfactory,86,PM10
+2023-11-04,Angul,1.0,Satisfactory,86,PM10
+2023-11-05,Angul,1.0,Poor,250,O3
+2023-11-06,Angul,1.0,Poor,242,PM2.5
+2023-11-07,Angul,1.0,Moderate,196,PM2.5
+2023-11-08,Angul,1.0,Moderate,173,PM2.5
+2023-11-09,Angul,1.0,Poor,208,PM2.5
+2023-11-10,Angul,1.0,Poor,266,PM2.5
+2023-11-11,Angul,1.0,Poor,265,PM2.5
+2023-11-12,Angul,1.0,Poor,210,PM2.5
+2023-11-13,Angul,1.0,Very Poor,355,PM2.5
+2023-11-14,Angul,1.0,Very Poor,353,PM2.5
+2023-11-15,Angul,1.0,Poor,285,PM2.5
+2023-11-16,Angul,1.0,Poor,236,PM2.5
+2023-11-17,Angul,1.0,Moderate,152,PM2.5
+2023-11-18,Angul,1.0,Moderate,120,PM2.5
+2023-11-19,Angul,1.0,Moderate,124,PM10
+2023-11-20,Angul,1.0,Moderate,147,PM2.5
+2023-11-21,Angul,1.0,Poor,232,PM2.5
+2023-11-22,Angul,1.0,Poor,275,PM2.5
+2023-11-23,Angul,1.0,Poor,257,PM2.5
+2023-11-24,Angul,1.0,Very Poor,335,PM2.5
+2023-11-25,Angul,1.0,Very Poor,333,PM2.5
+2023-11-26,Angul,1.0,Very Poor,302,PM2.5
+2023-11-27,Angul,1.0,Very Poor,308,PM2.5
+2023-11-28,Angul,1.0,Very Poor,333,PM2.5
+2023-11-29,Angul,1.0,Very Poor,336,PM2.5
+2023-11-30,Angul,1.0,Very Poor,326,PM2.5
+2023-12-01,Angul,1.0,Poor,257,PM2.5
+2023-12-02,Angul,1.0,Poor,227,PM2.5
+2023-12-03,Angul,1.0,Poor,261,PM2.5
+2023-12-05,Angul,1.0,Poor,201,PM2.5
+2023-12-06,Angul,1.0,Moderate,145,PM2.5
+2023-12-07,Angul,1.0,Satisfactory,59,PM2.5
+2023-12-08,Angul,1.0,Moderate,137,PM2.5
+2023-12-09,Angul,1.0,Moderate,116,PM2.5
+2023-12-10,Angul,1.0,Moderate,142,PM10
+2023-12-11,Angul,1.0,Moderate,150,PM2.5
+2023-12-12,Angul,1.0,Poor,221,PM2.5
+2023-12-13,Angul,1.0,Poor,264,PM2.5
+2023-12-14,Angul,1.0,Poor,292,PM2.5
+2023-12-15,Angul,1.0,Very Poor,315,PM2.5
+2023-12-18,Angul,1.0,Poor,235,PM2.5
+2023-12-19,Angul,1.0,Poor,258,PM2.5
+2023-12-20,Angul,1.0,Poor,241,PM2.5
+2023-12-21,Angul,1.0,Poor,222,O3
+2023-12-22,Angul,1.0,Poor,272,PM2.5
+2023-12-23,Angul,1.0,Very Poor,353,PM2.5
+2023-12-24,Angul,1.0,Poor,267,PM2.5
+2023-12-25,Angul,1.0,Poor,206,PM2.5
+2023-12-26,Angul,1.0,Poor,292,PM2.5
+2023-12-27,Angul,1.0,Very Poor,335,PM2.5
+2023-12-28,Angul,1.0,Very Poor,335,PM2.5
+2023-12-29,Angul,1.0,Very Poor,370,PM2.5
+2023-12-30,Angul,1.0,Very Poor,369,PM2.5
+2023-12-31,Angul,1.0,Very Poor,355,PM2.5

@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block title %}AQI Predictor · Home{% endblock %}
+
+{% block content %}
+<section class="hero text-center">
+  <div class="container">
+    <h1 class="display-5 mb-3">Know Your Air, Protect Your Health</h1>
+    <p class="lead mb-4 mx-auto" style="max-width: 640px;">
+      Enter pollutant readings and let a machine learning model or neural network
+      predict the Air Quality Index (AQI), its category, and health recommendations.
+    </p>
+    <a href="{{ url_for('predict') }}" class="btn btn-cta">Predict AQI Now</a>
+  </div>
+</section>
+
+<section class="container my-5">
+  <div class="row g-4 mb-5">
+    <div class="col-md-4">
+      <div class="info-card">
+        <h5>📊 Data-Driven</h5>
+        <p class="mb-0 text-muted">Trained on pollutant concentrations (PM2.5, PM10, NO₂, SO₂, CO, O₃, NH₃) plus
+          weather features like temperature, humidity, and wind speed.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="info-card">
+        <h5>🤖 Two Model Types</h5>
+        <p class="mb-0 text-muted">Compare a tuned regression model (Random Forest / Gradient Boosting) against a
+          deep learning ANN built with TensorFlow/Keras.</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="info-card">
+        <h5>🩺 Health Guidance</h5>
+        <p class="mb-0 text-muted">Every prediction is mapped to an official AQI category with a practical health
+          recommendation.</p>
+      </div>
+    </div>
+  </div>
+
+  <h3 class="text-center mb-4">AQI Categories</h3>
+  <div class="table-responsive">
+    <table class="table table-borderless bg-white rounded shadow-sm aqi-scale-row">
+      <thead>
+        <tr class="text-muted">
+          <th>AQI Range</th>
+          <th>Category</th>
+          <th>What it means</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>0 – 50</td><td><span class="badge badge-good">Good</span></td><td>Minimal impact</td></tr>
+        <tr><td>51 – 100</td><td><span class="badge badge-satisfactory">Satisfactory</span></td><td>Minor discomfort to sensitive people</td></tr>
+        <tr><td>101 – 200</td><td><span class="badge badge-moderate">Moderate</span></td><td>Breathing discomfort to sensitive groups</td></tr>
+        <tr><td>201 – 300</td><td><span class="badge badge-poor">Poor</span></td><td>Breathing discomfort to most people</td></tr>
+        <tr><td>301 – 400</td><td><span class="badge badge-very-poor">Very Poor</span></td><td>Respiratory illness on prolonged exposure</td></tr>
+        <tr><td>401 – 500</td><td><span class="badge badge-severe">Severe</span></td><td>Affects healthy people, serious risk to others</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endblock %}
