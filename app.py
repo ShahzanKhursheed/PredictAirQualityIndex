@@ -20,8 +20,8 @@ import numpy as np
 import pandas as pd
 from flask import Flask, render_template, request
 
-from utils import FEATURE_COLUMNS, get_aqi_category
-from visualization_data import build_visualization_dashboard
+from utils import AQI_CATEGORIES, FEATURE_COLUMNS, get_aqi_category
+from visualization_data import CATEGORY_COLORS, build_visualization_dashboard
 
 app = Flask(__name__)
 
@@ -53,7 +53,9 @@ if os.path.exists(ANN_MODEL_PATH) and os.path.exists(ANN_SCALER_PATH):
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template(
+        "index.html", aqi_categories=AQI_CATEGORIES, category_colors=CATEGORY_COLORS
+    )
 
 
 @app.route("/about")

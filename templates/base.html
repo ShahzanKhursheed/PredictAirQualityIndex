@@ -10,18 +10,18 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
-    <div class="container">
+  <nav class="navbar navbar-expand-lg navbar-dark sticky-top" style="background: linear-gradient(to bottom, #00366b 70%, #FF1700);">
+    <div class="container" >
       <a class="navbar-brand fw-semibold" href="{{ url_for('home') }}">AQI Predictor</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navMenu">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="{{ url_for('home') }}">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ url_for('predict') }}">Predict AQI</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ url_for('visualizations') }}">Visualizations</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ url_for('about') }}">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('home') }}" style="color: white;">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('predict') }}" style="color: white;">Predict AQI</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('visualizations') }}" style="color: white;">Visualizations</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('about') }}" style="color: white;">About</a></li>
         </ul>
       </div>
     </div>
@@ -31,7 +31,7 @@
     {% block content %}{% endblock %}
   </main>
 
-  <footer class="text-center py-4">
+  <footer class="text-center py-4 bg-dark text-white-50">
     <small>Developed by Mahtab Anwar </small>
   </footer>
 
